@@ -30,8 +30,8 @@ Jan 2024 to Dec 2025.
 3. Promote high-margin products such as Tea
 
 ## Dashboard
-![Overview](dashboard/page1_overview.jpeg)
-![Deep dive](dashboard/page2_deep_dive.jpeg)
+![Overview](dashboard/page1_overview.jpg)
+![Deep dive](dashboard/page2_deep_dive.jpg)
 
 [Full dashboard (PDF)](dashboard/brewbox_dashboard_PDF.pdf)
 
