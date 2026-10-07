@@ -1,0 +1,21 @@
+product_id,product_name,category,cost_price,selling_price
+1,Arabica Medium Roast 250g,Coffee Beans,180,399
+2,Arabica Dark Roast 250g,Coffee Beans,190,419
+3,Robusta Strong Blend 250g,Coffee Beans,140,329
+4,Single Origin Coorg 250g,Coffee Beans,260,599
+5,Instant Coffee Jar 100g,Instant Coffee,90,249
+6,Cold Brew Instant Sachets (10),Instant Coffee,120,299
+7,Hazelnut Coffee Mix 200g,Instant Coffee,110,279
+8,Green Tea 25 Bags,Tea,60,199
+9,Masala Chai Blend 250g,Tea,85,229
+10,Darjeeling First Flush 100g,Tea,150,449
+11,Chamomile Tea 20 Bags,Tea,70,219
+12,French Press 600ml,Accessories,450,999
+13,Pour Over Dripper,Accessories,380,849
+14,Manual Coffee Grinder,Accessories,700,1599
+15,Insulated Travel Mug,Accessories,320,799
+16,Ceramic Mug Set (2),Accessories,250,649
+17,Choco Cookies Box,Snacks,50,149
+18,Almond Biscotti 200g,Snacks,95,249
+19,Millet Muffins Pack (4),Snacks,80,229
+20,Gift Hamper Classic,Gift Sets,520,1299

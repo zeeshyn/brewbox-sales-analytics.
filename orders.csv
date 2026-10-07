@@ -1,0 +1,3337 @@
+order_id,customer_id,order_date,channel,payment_method,discount_pct,order_status
+1,98,2024-01-01,Marketplace,Debit Card,0,Delivered
+2,383,2024-01-02,Mobile App,Net Banking,5,Delivered
+3,383,2024-01-02,Website,Credit Card,20,Delivered
+4,202,2024-01-02,Instagram,Debit Card,5,Delivered
+5,383,2024-01-02,Mobile App,Net Banking,10,Delivered
+6,383,2024-01-03,Website,Credit Card,0,Delivered
+7,148,2024-01-03,Website,UPI,10,Delivered
+8,202,2024-01-04,Mobile App,UPI,20,Delivered
+9,383,2024-01-04,Marketplace,UPI,15,Delivered
+10,177,2024-01-04,Marketplace,UPI,5,Delivered
+11,383,2024-01-05,Mobile App,Debit Card,0,Delivered
+12,237,2024-01-05,Marketplace,Credit Card,0,Delivered
+13,166,2024-01-05,Website,UPI,0,Delivered
+14,148,2024-01-06,Instagram,Debit Card,0,Delivered
+15,148,2024-01-06,Instagram,Credit Card,15,Delivered
+16,202,2024-01-06,Instagram,Credit Card,0,Delivered
+17,383,2024-01-06,Marketplace,UPI,0,Delivered
+18,237,2024-01-07,Mobile App,UPI,15,Delivered
+19,30,2024-01-07,Mobile App,Credit Card,5,Returned
+20,316,2024-01-08,Website,UPI,0,Delivered
+21,125,2024-01-08,Mobile App,COD,10,Delivered
+22,241,2024-01-09,Marketplace,COD,0,Delivered
+23,81,2024-01-09,Instagram,UPI,0,Cancelled
+24,202,2024-01-09,Mobile App,UPI,5,Delivered
+25,75,2024-01-10,Marketplace,UPI,10,Delivered
+26,75,2024-01-10,Mobile App,Debit Card,15,Delivered
+27,125,2024-01-11,Mobile App,UPI,10,Delivered
+28,237,2024-01-11,Website,COD,20,Delivered
+29,148,2024-01-11,Mobile App,UPI,5,Delivered
+30,98,2024-01-13,Marketplace,COD,5,Delivered
+31,316,2024-01-13,Marketplace,UPI,10,Delivered
+32,75,2024-01-13,Website,COD,10,Delivered
+33,148,2024-01-13,Marketplace,UPI,20,Delivered
+34,166,2024-01-14,Mobile App,COD,0,Delivered
+35,327,2024-01-14,Mobile App,COD,10,Delivered
+36,98,2024-01-15,Website,Credit Card,5,Delivered
+37,383,2024-01-15,Marketplace,Credit Card,10,Delivered
+38,327,2024-01-15,Mobile App,Debit Card,0,Delivered
+39,357,2024-01-15,Website,COD,15,Delivered
+40,237,2024-01-15,Website,Credit Card,15,Delivered
+41,166,2024-01-16,Mobile App,UPI,5,Delivered
+42,81,2024-01-16,Mobile App,UPI,5,Delivered
+43,237,2024-01-16,Mobile App,UPI,10,Delivered
+44,389,2024-01-17,Website,Credit Card,0,Delivered
+45,125,2024-01-18,Marketplace,Debit Card,5,Delivered
+46,81,2024-01-18,Instagram,Debit Card,0,Returned
+47,202,2024-01-18,Instagram,Credit Card,0,Delivered
+48,357,2024-01-19,Marketplace,UPI,10,Cancelled
+49,195,2024-01-19,Mobile App,UPI,0,Delivered
+50,147,2024-01-19,Instagram,UPI,0,Delivered
+51,166,2024-01-19,Mobile App,COD,0,Returned
+52,75,2024-01-20,Website,UPI,0,Delivered
+53,202,2024-01-20,Instagram,Debit Card,5,Delivered
+54,98,2024-01-20,Website,UPI,5,Returned
+55,38,2024-01-20,Mobile App,COD,10,Delivered
+56,150,2024-01-21,Mobile App,UPI,10,Delivered
+57,81,2024-01-21,Marketplace,Net Banking,0,Delivered
+58,177,2024-01-21,Mobile App,COD,0,Delivered
+59,363,2024-01-21,Mobile App,Debit Card,0,Delivered
+60,284,2024-01-22,Website,UPI,0,Delivered
+61,237,2024-01-22,Mobile App,Credit Card,15,Delivered
+62,316,2024-01-23,Website,Debit Card,0,Delivered
+63,327,2024-01-23,Mobile App,UPI,0,Delivered
+64,389,2024-01-24,Website,Net Banking,5,Delivered
+65,75,2024-01-24,Mobile App,Debit Card,0,Delivered
+66,98,2024-01-25,Website,UPI,5,Delivered
+67,129,2024-01-25,Mobile App,UPI,0,Delivered
+68,75,2024-01-25,Instagram,Credit Card,0,Delivered
+69,222,2024-01-26,Mobile App,Credit Card,5,Delivered
+70,60,2024-01-26,Instagram,UPI,0,Delivered
+71,86,2024-01-26,Mobile App,UPI,5,Delivered
+72,237,2024-01-27,Marketplace,Credit Card,0,Delivered
+73,319,2024-01-27,Mobile App,UPI,0,Delivered
+74,98,2024-01-27,Instagram,Credit Card,10,Delivered
+75,241,2024-01-27,Mobile App,COD,10,Delivered
+76,147,2024-01-28,Website,Net Banking,0,Delivered
+77,202,2024-01-28,Marketplace,Credit Card,0,Delivered
+78,357,2024-01-29,Website,COD,20,Delivered
+79,38,2024-01-29,Marketplace,COD,0,Delivered
+80,241,2024-01-29,Mobile App,Credit Card,0,Delivered
+81,150,2024-01-30,Instagram,COD,5,Delivered
+82,389,2024-01-30,Instagram,UPI,0,Delivered
+83,195,2024-01-31,Mobile App,UPI,15,Delivered
+84,96,2024-01-31,Mobile App,UPI,20,Delivered
+85,150,2024-02-01,Website,UPI,0,Delivered
+86,290,2024-02-01,Instagram,Debit Card,0,Delivered
+87,8,2024-02-01,Website,UPI,0,Delivered
+88,60,2024-02-01,Website,COD,0,Delivered
+89,293,2024-02-01,Mobile App,UPI,10,Delivered
+90,202,2024-02-02,Marketplace,UPI,0,Delivered
+91,363,2024-02-02,Website,COD,0,Delivered
+92,147,2024-02-02,Mobile App,UPI,5,Delivered
+93,340,2024-02-02,Mobile App,Credit Card,0,Delivered
+94,316,2024-02-03,Instagram,UPI,0,Delivered
+95,86,2024-02-03,Mobile App,UPI,5,Delivered
+96,38,2024-02-03,Website,COD,0,Delivered
+97,98,2024-02-03,Website,Debit Card,10,Delivered
+98,17,2024-02-03,Website,UPI,5,Delivered
+99,75,2024-02-04,Website,Credit Card,0,Delivered
+100,86,2024-02-04,Website,Net Banking,0,Delivered
+101,177,2024-02-04,Website,UPI,0,Delivered
+102,156,2024-02-04,Instagram,UPI,0,Delivered
+103,369,2024-02-04,Website,UPI,20,Delivered
+104,325,2024-02-05,Website,COD,15,Delivered
+105,166,2024-02-05,Website,Credit Card,0,Delivered
+106,319,2024-02-06,Mobile App,COD,5,Delivered
+107,38,2024-02-06,Mobile App,Net Banking,0,Delivered
+108,177,2024-02-06,Website,UPI,0,Delivered
+109,125,2024-02-06,Mobile App,Credit Card,15,Delivered
+110,147,2024-02-06,Marketplace,UPI,0,Delivered
+111,60,2024-02-07,Marketplace,UPI,0,Delivered
+112,17,2024-02-07,Marketplace,UPI,5,Delivered
+113,75,2024-02-07,Website,Credit Card,0,Delivered
+114,148,2024-02-07,Mobile App,UPI,5,Delivered
+115,237,2024-02-08,Website,COD,5,Delivered
+116,316,2024-02-08,Mobile App,UPI,0,Delivered
+117,38,2024-02-08,Marketplace,Credit Card,0,Delivered
+118,129,2024-02-08,Website,COD,15,Returned
+119,369,2024-02-09,Mobile App,Credit Card,10,Delivered
+120,255,2024-02-09,Mobile App,UPI,0,Returned
+121,77,2024-02-09,Website,UPI,10,Delivered
+122,290,2024-02-10,Marketplace,Net Banking,0,Delivered
+123,77,2024-02-10,Marketplace,Debit Card,0,Delivered
+124,322,2024-02-10,Instagram,UPI,5,Delivered
+125,383,2024-02-10,Website,Debit Card,5,Delivered
+126,60,2024-02-11,Marketplace,UPI,10,Delivered
+127,129,2024-02-11,Instagram,UPI,10,Delivered
+128,86,2024-02-11,Marketplace,Credit Card,0,Delivered
+129,327,2024-02-11,Instagram,UPI,5,Delivered
+130,202,2024-02-12,Website,UPI,15,Delivered
+131,357,2024-02-12,Website,COD,0,Delivered
+132,98,2024-02-12,Mobile App,Credit Card,15,Delivered
+133,241,2024-02-13,Website,UPI,0,Delivered
+134,148,2024-02-13,Marketplace,Credit Card,0,Delivered
+135,178,2024-02-13,Marketplace,UPI,0,Delivered
+136,177,2024-02-14,Marketplace,UPI,10,Delivered
+137,255,2024-02-14,Instagram,COD,5,Delivered
+138,30,2024-02-15,Mobile App,COD,10,Delivered
+139,119,2024-02-15,Marketplace,UPI,0,Delivered
+140,327,2024-02-16,Marketplace,UPI,0,Delivered
+141,8,2024-02-16,Instagram,Credit Card,5,Delivered
+142,356,2024-02-16,Marketplace,UPI,0,Delivered
+143,252,2024-02-17,Mobile App,UPI,0,Delivered
+144,125,2024-02-17,Website,Credit Card,0,Delivered
+145,316,2024-02-18,Website,COD,0,Delivered
+146,195,2024-02-18,Mobile App,UPI,0,Delivered
+147,177,2024-02-18,Marketplace,Credit Card,0,Delivered
+148,98,2024-02-18,Marketplace,UPI,0,Cancelled
+149,177,2024-02-18,Marketplace,Credit Card,5,Delivered
+150,86,2024-02-19,Marketplace,Credit Card,5,Delivered
+151,119,2024-02-20,Mobile App,Debit Card,0,Delivered
+152,8,2024-02-20,Mobile App,UPI,0,Delivered
+153,319,2024-02-20,Marketplace,Credit Card,0,Delivered
+154,297,2024-02-21,Mobile App,Credit Card,5,Cancelled
+155,125,2024-02-21,Mobile App,COD,0,Delivered
+156,293,2024-02-22,Website,UPI,5,Delivered
+157,181,2024-02-23,Instagram,Credit Card,5,Delivered
+158,150,2024-02-23,Website,Credit Card,10,Delivered
+159,178,2024-02-24,Instagram,UPI,10,Delivered
+160,363,2024-02-24,Website,Credit Card,5,Delivered
+161,321,2024-02-24,Website,COD,0,Delivered
+162,352,2024-02-25,Website,COD,0,Returned
+163,56,2024-02-25,Website,UPI,10,Delivered
+164,363,2024-02-25,Mobile App,UPI,0,Delivered
+165,189,2024-02-26,Website,COD,0,Returned
+166,327,2024-02-26,Instagram,Credit Card,0,Delivered
+167,180,2024-02-26,Website,Net Banking,0,Cancelled
+168,195,2024-02-27,Instagram,Credit Card,5,Returned
+169,86,2024-02-27,Mobile App,UPI,5,Delivered
+170,235,2024-02-27,Mobile App,UPI,5,Delivered
+171,223,2024-02-27,Website,UPI,0,Delivered
+172,38,2024-02-28,Mobile App,COD,10,Delivered
+173,86,2024-02-28,Marketplace,Debit Card,0,Delivered
+174,223,2024-02-29,Website,UPI,10,Delivered
+175,17,2024-02-29,Marketplace,Debit Card,0,Delivered
+176,130,2024-03-01,Website,UPI,5,Delivered
+177,95,2024-03-01,Instagram,UPI,15,Delivered
+178,305,2024-03-01,Website,UPI,0,Cancelled
+179,81,2024-03-01,Marketplace,UPI,0,Delivered
+180,383,2024-03-01,Instagram,UPI,20,Delivered
+181,321,2024-03-02,Website,Debit Card,0,Delivered
+182,319,2024-03-02,Marketplace,COD,0,Delivered
+183,166,2024-03-02,Mobile App,UPI,10,Returned
+184,325,2024-03-02,Mobile App,UPI,5,Delivered
+185,8,2024-03-02,Marketplace,COD,20,Delivered
+186,319,2024-03-03,Instagram,UPI,5,Delivered
+187,369,2024-03-03,Mobile App,Debit Card,0,Delivered
+188,77,2024-03-03,Website,UPI,0,Delivered
+189,239,2024-03-03,Website,UPI,15,Delivered
+190,96,2024-03-04,Marketplace,UPI,10,Delivered
+191,129,2024-03-04,Instagram,UPI,10,Delivered
+192,180,2024-03-05,Website,Net Banking,20,Delivered
+193,327,2024-03-06,Website,Debit Card,15,Delivered
+194,129,2024-03-06,Mobile App,Debit Card,0,Delivered
+195,356,2024-03-07,Website,COD,10,Delivered
+196,148,2024-03-07,Website,COD,20,Delivered
+197,150,2024-03-08,Instagram,UPI,10,Delivered
+198,202,2024-03-08,Instagram,UPI,0,Delivered
+199,166,2024-03-09,Marketplace,Debit Card,5,Delivered
+200,129,2024-03-09,Marketplace,UPI,20,Delivered
+201,189,2024-03-09,Website,Credit Card,0,Delivered
+202,400,2024-03-09,Marketplace,UPI,10,Delivered
+203,130,2024-03-10,Mobile App,COD,0,Delivered
+204,235,2024-03-10,Website,UPI,20,Delivered
+205,400,2024-03-11,Marketplace,UPI,0,Delivered
+206,181,2024-03-11,Mobile App,UPI,15,Delivered
+207,30,2024-03-12,Website,Debit Card,0,Returned
+208,352,2024-03-12,Website,UPI,10,Delivered
+209,58,2024-03-12,Instagram,UPI,5,Delivered
+210,177,2024-03-13,Marketplace,UPI,5,Delivered
+211,8,2024-03-14,Mobile App,Credit Card,10,Delivered
+212,222,2024-03-14,Mobile App,UPI,15,Delivered
+213,222,2024-03-15,Instagram,COD,10,Delivered
+214,363,2024-03-15,Website,UPI,5,Delivered
+215,156,2024-03-16,Mobile App,Credit Card,5,Delivered
+216,130,2024-03-16,Instagram,Credit Card,0,Delivered
+217,235,2024-03-16,Mobile App,Debit Card,0,Delivered
+218,235,2024-03-16,Mobile App,UPI,5,Delivered
+219,8,2024-03-16,Website,COD,10,Delivered
+220,290,2024-03-17,Mobile App,UPI,5,Delivered
+221,180,2024-03-17,Instagram,Credit Card,10,Delivered
+222,180,2024-03-17,Mobile App,Net Banking,5,Delivered
+223,201,2024-03-18,Website,Credit Card,0,Delivered
+224,374,2024-03-18,Instagram,COD,0,Returned
+225,237,2024-03-18,Website,COD,0,Delivered
+226,239,2024-03-18,Mobile App,COD,15,Cancelled
+227,356,2024-03-19,Website,Debit Card,0,Delivered
+228,316,2024-03-19,Instagram,COD,0,Delivered
+229,189,2024-03-19,Website,UPI,0,Delivered
+230,81,2024-03-20,Mobile App,Credit Card,0,Delivered
+231,180,2024-03-21,Marketplace,Credit Card,0,Delivered
+232,150,2024-03-21,Mobile App,Net Banking,15,Delivered
+233,234,2024-03-22,Marketplace,Credit Card,0,Delivered
+234,318,2024-03-22,Instagram,COD,5,Delivered
+235,373,2024-03-22,Mobile App,UPI,15,Delivered
+236,304,2024-03-23,Instagram,UPI,5,Delivered
+237,189,2024-03-23,Mobile App,Credit Card,0,Cancelled
+238,147,2024-03-23,Instagram,UPI,0,Delivered
+239,181,2024-03-24,Marketplace,UPI,0,Delivered
+240,352,2024-03-24,Website,Debit Card,10,Delivered
+241,224,2024-03-25,Marketplace,Credit Card,10,Returned
+242,98,2024-03-25,Mobile App,Credit Card,0,Delivered
+243,250,2024-03-25,Mobile App,Credit Card,10,Delivered
+244,362,2024-03-26,Mobile App,Debit Card,5,Delivered
+245,64,2024-03-26,Marketplace,COD,0,Delivered
+246,189,2024-03-26,Instagram,Credit Card,5,Delivered
+247,316,2024-03-26,Website,UPI,0,Delivered
+248,224,2024-03-27,Marketplace,Credit Card,5,Delivered
+249,375,2024-03-28,Instagram,UPI,10,Delivered
+250,178,2024-03-28,Website,UPI,10,Delivered
+251,180,2024-03-29,Website,Debit Card,15,Delivered
+252,156,2024-03-30,Website,UPI,5,Delivered
+253,385,2024-03-30,Mobile App,UPI,15,Delivered
+254,129,2024-03-30,Marketplace,COD,0,Delivered
+255,316,2024-03-30,Website,COD,10,Delivered
+256,17,2024-03-30,Website,UPI,5,Delivered
+257,237,2024-03-31,Website,UPI,0,Delivered
+258,352,2024-03-31,Website,Credit Card,0,Delivered
+259,241,2024-04-01,Website,COD,10,Delivered
+260,374,2024-04-01,Mobile App,Debit Card,10,Delivered
+261,177,2024-04-01,Mobile App,Credit Card,0,Delivered
+262,81,2024-04-02,Mobile App,Debit Card,5,Delivered
+263,316,2024-04-02,Mobile App,Debit Card,15,Delivered
+264,119,2024-04-02,Mobile App,COD,0,Delivered
+265,223,2024-04-03,Website,UPI,0,Delivered
+266,352,2024-04-03,Mobile App,Credit Card,0,Delivered
+267,400,2024-04-03,Instagram,UPI,0,Delivered
+268,150,2024-04-04,Website,UPI,5,Delivered
+269,319,2024-04-04,Marketplace,Credit Card,0,Delivered
+270,255,2024-04-04,Mobile App,Credit Card,0,Delivered
+271,195,2024-04-04,Website,Credit Card,10,Delivered
+272,297,2024-04-05,Marketplace,Credit Card,0,Delivered
+273,235,2024-04-05,Website,COD,0,Delivered
+274,352,2024-04-06,Marketplace,Debit Card,0,Delivered
+275,177,2024-04-06,Instagram,Credit Card,0,Delivered
+276,143,2024-04-06,Website,UPI,10,Delivered
+277,38,2024-04-07,Website,UPI,5,Delivered
+278,250,2024-04-07,Website,Net Banking,0,Delivered
+279,234,2024-04-07,Instagram,UPI,0,Delivered
+280,125,2024-04-08,Mobile App,UPI,10,Delivered
+281,177,2024-04-08,Mobile App,UPI,0,Delivered
+282,150,2024-04-08,Website,UPI,5,Delivered
+283,317,2024-04-09,Instagram,COD,10,Delivered
+284,86,2024-04-09,Website,UPI,10,Delivered
+285,278,2024-04-09,Website,COD,15,Delivered
+286,166,2024-04-09,Mobile App,Credit Card,10,Delivered
+287,201,2024-04-09,Instagram,Debit Card,5,Delivered
+288,304,2024-04-10,Instagram,UPI,15,Delivered
+289,21,2024-04-10,Mobile App,COD,10,Delivered
+290,129,2024-04-11,Instagram,COD,10,Delivered
+291,375,2024-04-11,Website,Credit Card,5,Delivered
+292,317,2024-04-12,Mobile App,UPI,10,Delivered
+293,252,2024-04-12,Instagram,UPI,0,Delivered
+294,222,2024-04-12,Marketplace,Credit Card,20,Delivered
+295,201,2024-04-13,Mobile App,Credit Card,0,Delivered
+296,181,2024-04-13,Website,Net Banking,0,Delivered
+297,64,2024-04-13,Website,UPI,0,Delivered
+298,130,2024-04-13,Instagram,Debit Card,10,Delivered
+299,316,2024-04-13,Mobile App,COD,15,Delivered
+300,327,2024-04-14,Mobile App,UPI,0,Delivered
+301,30,2024-04-14,Instagram,Net Banking,20,Delivered
+302,203,2024-04-14,Website,Credit Card,0,Delivered
+303,81,2024-04-14,Instagram,Credit Card,0,Delivered
+304,168,2024-04-14,Instagram,UPI,15,Returned
+305,19,2024-04-15,Instagram,UPI,0,Delivered
+306,375,2024-04-15,Marketplace,UPI,0,Delivered
+307,129,2024-04-16,Mobile App,COD,5,Delivered
+308,369,2024-04-16,Mobile App,UPI,10,Cancelled
+309,352,2024-04-16,Mobile App,UPI,0,Delivered
+310,369,2024-04-17,Website,UPI,15,Delivered
+311,370,2024-04-17,Website,UPI,5,Delivered
+312,203,2024-04-17,Mobile App,UPI,20,Delivered
+313,223,2024-04-17,Marketplace,COD,0,Delivered
+314,209,2024-04-18,Mobile App,Debit Card,15,Delivered
+315,178,2024-04-18,Marketplace,UPI,5,Delivered
+316,77,2024-04-18,Website,Debit Card,5,Delivered
+317,74,2024-04-19,Website,COD,0,Cancelled
+318,168,2024-04-19,Mobile App,COD,15,Delivered
+319,308,2024-04-20,Mobile App,Credit Card,5,Delivered
+320,375,2024-04-20,Mobile App,Credit Card,5,Delivered
+321,75,2024-04-20,Website,UPI,0,Delivered
+322,231,2024-04-20,Marketplace,Credit Card,0,Delivered
+323,362,2024-04-21,Marketplace,Debit Card,0,Delivered
+324,60,2024-04-21,Mobile App,COD,0,Delivered
+325,314,2024-04-21,Marketplace,UPI,0,Delivered
+326,77,2024-04-21,Mobile App,Credit Card,0,Delivered
+327,278,2024-04-21,Website,UPI,5,Delivered
+328,379,2024-04-22,Website,Debit Card,0,Delivered
+329,307,2024-04-22,Marketplace,UPI,0,Delivered
+330,168,2024-04-24,Instagram,Net Banking,0,Delivered
+331,383,2024-04-24,Website,COD,0,Delivered
+332,280,2024-04-24,Website,Credit Card,10,Delivered
+333,77,2024-04-25,Marketplace,Debit Card,10,Delivered
+334,374,2024-04-25,Mobile App,Net Banking,10,Delivered
+335,369,2024-04-26,Mobile App,Credit Card,0,Delivered
+336,307,2024-04-26,Website,Credit Card,20,Delivered
+337,374,2024-04-26,Marketplace,UPI,5,Delivered
+338,252,2024-04-26,Instagram,Credit Card,10,Delivered
+339,72,2024-04-26,Website,Credit Card,0,Delivered
+340,105,2024-04-27,Instagram,UPI,0,Delivered
+341,289,2024-04-27,Mobile App,UPI,0,Delivered
+342,239,2024-04-28,Website,Credit Card,15,Delivered
+343,289,2024-04-28,Instagram,UPI,5,Delivered
+344,150,2024-04-28,Marketplace,UPI,0,Delivered
+345,64,2024-04-28,Marketplace,COD,10,Delivered
+346,125,2024-04-29,Mobile App,COD,0,Delivered
+347,242,2024-04-30,Website,Credit Card,5,Delivered
+348,74,2024-04-30,Website,UPI,0,Delivered
+349,400,2024-04-30,Mobile App,UPI,5,Returned
+350,105,2024-05-01,Website,UPI,0,Delivered
+351,147,2024-05-01,Website,Net Banking,5,Delivered
+352,284,2024-05-01,Website,UPI,5,Delivered
+353,30,2024-05-02,Website,UPI,10,Delivered
+354,99,2024-05-02,Instagram,Debit Card,5,Delivered
+355,231,2024-05-03,Website,Credit Card,10,Delivered
+356,168,2024-05-03,Mobile App,UPI,5,Delivered
+357,370,2024-05-04,Website,Credit Card,0,Delivered
+358,234,2024-05-04,Mobile App,UPI,10,Delivered
+359,327,2024-05-04,Mobile App,Credit Card,5,Delivered
+360,57,2024-05-04,Instagram,Credit Card,10,Delivered
+361,356,2024-05-04,Mobile App,UPI,0,Delivered
+362,159,2024-05-05,Website,COD,10,Delivered
+363,31,2024-05-05,Mobile App,Credit Card,0,Delivered
+364,159,2024-05-05,Instagram,UPI,0,Delivered
+365,383,2024-05-05,Marketplace,COD,0,Delivered
+366,72,2024-05-06,Website,Credit Card,0,Delivered
+367,180,2024-05-07,Website,UPI,0,Delivered
+368,21,2024-05-07,Marketplace,Credit Card,10,Delivered
+369,231,2024-05-08,Mobile App,Credit Card,5,Delivered
+370,252,2024-05-08,Instagram,UPI,0,Delivered
+371,373,2024-05-08,Website,UPI,10,Delivered
+372,305,2024-05-08,Mobile App,UPI,0,Delivered
+373,64,2024-05-09,Mobile App,UPI,0,Delivered
+374,86,2024-05-09,Website,Debit Card,5,Delivered
+375,349,2024-05-11,Mobile App,Debit Card,10,Delivered
+376,22,2024-05-11,Website,UPI,0,Delivered
+377,3,2024-05-11,Website,COD,0,Delivered
+378,297,2024-05-12,Marketplace,UPI,0,Delivered
+379,255,2024-05-12,Instagram,Credit Card,10,Delivered
+380,31,2024-05-12,Website,UPI,0,Delivered
+381,17,2024-05-12,Mobile App,UPI,5,Delivered
+382,58,2024-05-13,Website,Credit Card,0,Delivered
+383,38,2024-05-14,Mobile App,COD,0,Delivered
+384,177,2024-05-14,Mobile App,Net Banking,0,Delivered
+385,86,2024-05-15,Mobile App,UPI,5,Delivered
+386,242,2024-05-15,Instagram,COD,0,Delivered
+387,148,2024-05-15,Marketplace,Credit Card,5,Delivered
+388,235,2024-05-15,Website,UPI,10,Delivered
+389,30,2024-05-16,Mobile App,Net Banking,0,Delivered
+390,307,2024-05-16,Mobile App,UPI,10,Delivered
+391,177,2024-05-17,Website,Credit Card,0,Delivered
+392,58,2024-05-17,Website,Debit Card,5,Delivered
+393,8,2024-05-17,Mobile App,COD,0,Delivered
+394,201,2024-05-18,Mobile App,COD,0,Delivered
+395,31,2024-05-18,Marketplace,UPI,10,Delivered
+396,357,2024-05-19,Marketplace,UPI,0,Delivered
+397,75,2024-05-19,Instagram,Credit Card,0,Delivered
+398,252,2024-05-19,Mobile App,UPI,15,Returned
+399,242,2024-05-19,Marketplace,UPI,10,Delivered
+400,400,2024-05-19,Website,Debit Card,5,Delivered
+401,230,2024-05-20,Marketplace,Credit Card,15,Delivered
+402,57,2024-05-20,Instagram,Debit Card,20,Delivered
+403,280,2024-05-21,Mobile App,UPI,0,Delivered
+404,224,2024-05-21,Website,COD,10,Delivered
+405,137,2024-05-22,Website,UPI,0,Delivered
+406,75,2024-05-23,Mobile App,UPI,10,Delivered
+407,74,2024-05-23,Instagram,UPI,0,Delivered
+408,223,2024-05-23,Mobile App,Net Banking,5,Delivered
+409,99,2024-05-23,Website,UPI,0,Delivered
+410,293,2024-05-24,Marketplace,Credit Card,0,Delivered
+411,57,2024-05-25,Mobile App,UPI,20,Cancelled
+412,392,2024-05-25,Mobile App,COD,15,Delivered
+413,137,2024-05-25,Mobile App,UPI,10,Delivered
+414,137,2024-05-25,Instagram,UPI,15,Delivered
+415,81,2024-05-26,Website,UPI,5,Delivered
+416,314,2024-05-26,Website,UPI,0,Delivered
+417,201,2024-05-26,Mobile App,COD,5,Delivered
+418,363,2024-05-26,Website,COD,5,Returned
+419,357,2024-05-26,Website,Net Banking,0,Delivered
+420,19,2024-05-27,Website,UPI,15,Delivered
+421,362,2024-05-27,Mobile App,Credit Card,15,Delivered
+422,130,2024-05-27,Mobile App,UPI,5,Delivered
+423,93,2024-05-28,Website,UPI,0,Delivered
+424,249,2024-05-28,Marketplace,UPI,0,Delivered
+425,373,2024-05-29,Marketplace,UPI,20,Delivered
+426,119,2024-05-29,Instagram,Debit Card,15,Delivered
+427,21,2024-05-30,Mobile App,COD,0,Returned
+428,179,2024-05-30,Instagram,COD,0,Returned
+429,400,2024-05-31,Marketplace,COD,0,Returned
+430,72,2024-05-31,Website,COD,10,Delivered
+431,322,2024-06-01,Website,Credit Card,0,Delivered
+432,305,2024-06-01,Website,UPI,15,Delivered
+433,307,2024-06-01,Website,Credit Card,10,Delivered
+434,122,2024-06-01,Website,Net Banking,10,Delivered
+435,189,2024-06-01,Website,COD,5,Delivered
+436,375,2024-06-02,Marketplace,COD,0,Delivered
+437,117,2024-06-02,Website,COD,0,Delivered
+438,64,2024-06-03,Mobile App,COD,0,Returned
+439,290,2024-06-03,Website,Credit Card,10,Cancelled
+440,123,2024-06-04,Website,UPI,0,Delivered
+441,86,2024-06-04,Mobile App,COD,0,Returned
+442,99,2024-06-04,Marketplace,COD,5,Delivered
+443,105,2024-06-05,Instagram,UPI,0,Delivered
+444,17,2024-06-05,Instagram,COD,0,Returned
+445,74,2024-06-05,Instagram,COD,0,Delivered
+446,217,2024-06-06,Marketplace,UPI,0,Delivered
+447,9,2024-06-06,Mobile App,Debit Card,20,Delivered
+448,80,2024-06-07,Website,UPI,0,Delivered
+449,93,2024-06-07,Mobile App,Credit Card,5,Delivered
+450,380,2024-06-08,Website,UPI,5,Delivered
+451,290,2024-06-08,Website,Net Banking,5,Delivered
+452,77,2024-06-09,Instagram,COD,0,Delivered
+453,314,2024-06-09,Website,COD,10,Delivered
+454,309,2024-06-09,Mobile App,Debit Card,20,Delivered
+455,179,2024-06-09,Mobile App,UPI,0,Returned
+456,297,2024-06-10,Mobile App,UPI,0,Delivered
+457,381,2024-06-10,Website,UPI,15,Delivered
+458,231,2024-06-10,Marketplace,UPI,0,Delivered
+459,364,2024-06-11,Mobile App,COD,5,Delivered
+460,239,2024-06-12,Website,Credit Card,0,Delivered
+461,317,2024-06-12,Mobile App,Debit Card,0,Delivered
+462,357,2024-06-13,Instagram,UPI,5,Delivered
+463,237,2024-06-13,Mobile App,UPI,5,Delivered
+464,380,2024-06-13,Marketplace,Debit Card,0,Delivered
+465,308,2024-06-14,Marketplace,Credit Card,20,Delivered
+466,321,2024-06-14,Website,COD,10,Delivered
+467,143,2024-06-14,Marketplace,Credit Card,5,Delivered
+468,322,2024-06-15,Marketplace,Debit Card,0,Delivered
+469,314,2024-06-15,Website,COD,0,Delivered
+470,189,2024-06-16,Instagram,UPI,0,Delivered
+471,314,2024-06-18,Mobile App,UPI,0,Delivered
+472,129,2024-06-18,Mobile App,UPI,10,Delivered
+473,222,2024-06-18,Marketplace,COD,0,Delivered
+474,90,2024-06-19,Mobile App,COD,15,Delivered
+475,93,2024-06-19,Instagram,UPI,10,Delivered
+476,195,2024-06-19,Mobile App,UPI,5,Delivered
+477,309,2024-06-19,Mobile App,UPI,0,Delivered
+478,222,2024-06-20,Website,Net Banking,5,Delivered
+479,400,2024-06-20,Mobile App,Credit Card,10,Delivered
+480,289,2024-06-20,Marketplace,COD,0,Delivered
+481,297,2024-06-20,Instagram,UPI,0,Delivered
+482,117,2024-06-21,Instagram,Credit Card,0,Delivered
+483,96,2024-06-21,Website,UPI,0,Delivered
+484,95,2024-06-21,Marketplace,Debit Card,10,Delivered
+485,198,2024-06-22,Website,UPI,0,Delivered
+486,137,2024-06-22,Website,COD,0,Delivered
+487,86,2024-06-22,Website,Credit Card,10,Delivered
+488,309,2024-06-23,Marketplace,Credit Card,20,Delivered
+489,181,2024-06-23,Website,Credit Card,0,Delivered
+490,289,2024-06-23,Instagram,Debit Card,10,Delivered
+491,232,2024-06-24,Marketplace,Credit Card,0,Delivered
+492,271,2024-06-25,Website,UPI,0,Delivered
+493,327,2024-06-25,Website,UPI,5,Delivered
+494,195,2024-06-25,Instagram,COD,0,Delivered
+495,223,2024-06-25,Instagram,Credit Card,20,Delivered
+496,327,2024-06-26,Mobile App,Net Banking,15,Returned
+497,362,2024-06-26,Website,Debit Card,0,Delivered
+498,147,2024-06-27,Mobile App,Net Banking,5,Delivered
+499,72,2024-06-27,Marketplace,UPI,10,Delivered
+500,60,2024-06-29,Mobile App,Debit Card,5,Delivered
+501,38,2024-06-29,Instagram,Net Banking,0,Delivered
+502,195,2024-06-29,Website,UPI,0,Delivered
+503,285,2024-06-30,Website,COD,0,Delivered
+504,86,2024-06-30,Website,COD,10,Delivered
+505,297,2024-07-01,Website,UPI,0,Delivered
+506,108,2024-07-01,Marketplace,Credit Card,5,Returned
+507,202,2024-07-02,Marketplace,Credit Card,0,Returned
+508,297,2024-07-02,Mobile App,Credit Card,10,Delivered
+509,9,2024-07-02,Website,Debit Card,0,Delivered
+510,202,2024-07-02,Website,Debit Card,10,Delivered
+511,307,2024-07-03,Mobile App,UPI,0,Delivered
+512,340,2024-07-03,Website,COD,5,Delivered
+513,129,2024-07-03,Marketplace,UPI,5,Delivered
+514,129,2024-07-04,Website,COD,0,Delivered
+515,309,2024-07-04,Marketplace,Credit Card,15,Delivered
+516,49,2024-07-04,Website,UPI,10,Delivered
+517,381,2024-07-04,Marketplace,UPI,0,Delivered
+518,52,2024-07-04,Mobile App,UPI,0,Returned
+519,130,2024-07-05,Mobile App,UPI,5,Delivered
+520,201,2024-07-05,Instagram,UPI,0,Delivered
+521,143,2024-07-05,Website,Debit Card,10,Delivered
+522,293,2024-07-05,Marketplace,Credit Card,0,Delivered
+523,81,2024-07-06,Mobile App,UPI,0,Delivered
+524,383,2024-07-06,Website,UPI,10,Delivered
+525,80,2024-07-06,Marketplace,COD,5,Delivered
+526,118,2024-07-06,Mobile App,COD,15,Returned
+527,241,2024-07-07,Website,UPI,10,Delivered
+528,322,2024-07-07,Website,Credit Card,0,Delivered
+529,297,2024-07-07,Mobile App,UPI,5,Delivered
+530,64,2024-07-07,Website,UPI,10,Delivered
+531,106,2024-07-08,Marketplace,UPI,5,Delivered
+532,379,2024-07-08,Marketplace,Debit Card,0,Delivered
+533,307,2024-07-08,Instagram,COD,10,Delivered
+534,93,2024-07-09,Mobile App,Credit Card,0,Delivered
+535,17,2024-07-09,Website,COD,5,Delivered
+536,234,2024-07-10,Website,COD,15,Delivered
+537,389,2024-07-10,Mobile App,COD,5,Delivered
+538,98,2024-07-10,Instagram,Credit Card,0,Delivered
+539,285,2024-07-10,Website,UPI,15,Delivered
+540,400,2024-07-10,Mobile App,COD,15,Delivered
+541,349,2024-07-11,Website,Debit Card,0,Delivered
+542,86,2024-07-11,Mobile App,UPI,0,Delivered
+543,241,2024-07-11,Website,Credit Card,10,Delivered
+544,325,2024-07-12,Website,Credit Card,0,Returned
+545,242,2024-07-12,Mobile App,Debit Card,5,Delivered
+546,222,2024-07-12,Website,Credit Card,5,Delivered
+547,65,2024-07-12,Marketplace,Debit Card,5,Delivered
+548,385,2024-07-13,Instagram,Net Banking,5,Delivered
+549,186,2024-07-13,Instagram,UPI,10,Delivered
+550,271,2024-07-13,Mobile App,Credit Card,15,Delivered
+551,243,2024-07-13,Website,UPI,0,Delivered
+552,209,2024-07-13,Marketplace,Debit Card,0,Delivered
+553,74,2024-07-14,Website,UPI,0,Delivered
+554,249,2024-07-14,Marketplace,UPI,0,Delivered
+555,9,2024-07-14,Website,Net Banking,10,Delivered
+556,340,2024-07-14,Website,Net Banking,0,Delivered
+557,198,2024-07-14,Instagram,UPI,0,Delivered
+558,231,2024-07-14,Marketplace,UPI,10,Delivered
+559,98,2024-07-15,Instagram,Net Banking,15,Delivered
+560,307,2024-07-15,Website,Debit Card,0,Delivered
+561,377,2024-07-15,Marketplace,Debit Card,10,Delivered
+562,90,2024-07-15,Mobile App,COD,10,Delivered
+563,6,2024-07-15,Website,UPI,0,Cancelled
+564,202,2024-07-16,Marketplace,UPI,20,Delivered
+565,143,2024-07-16,Website,Net Banking,5,Delivered
+566,130,2024-07-16,Instagram,Credit Card,10,Delivered
+567,178,2024-07-16,Marketplace,COD,15,Delivered
+568,168,2024-07-17,Instagram,COD,0,Delivered
+569,271,2024-07-17,Website,Debit Card,5,Delivered
+570,129,2024-07-17,Website,COD,10,Delivered
+571,166,2024-07-17,Website,UPI,0,Delivered
+572,222,2024-07-17,Marketplace,UPI,5,Delivered
+573,71,2024-07-18,Mobile App,Credit Card,0,Returned
+574,52,2024-07-18,Instagram,UPI,10,Returned
+575,241,2024-07-18,Mobile App,Credit Card,0,Delivered
+576,17,2024-07-19,Mobile App,UPI,0,Delivered
+577,340,2024-07-19,Website,UPI,10,Delivered
+578,203,2024-07-19,Mobile App,Credit Card,10,Delivered
+579,194,2024-07-19,Mobile App,UPI,5,Delivered
+580,39,2024-07-19,Mobile App,UPI,0,Delivered
+581,381,2024-07-20,Mobile App,UPI,0,Delivered
+582,321,2024-07-20,Website,UPI,0,Delivered
+583,237,2024-07-20,Website,UPI,20,Delivered
+584,189,2024-07-20,Mobile App,Credit Card,15,Delivered
+585,129,2024-07-20,Website,COD,15,Cancelled
+586,232,2024-07-21,Instagram,COD,20,Delivered
+587,234,2024-07-21,Instagram,UPI,0,Delivered
+588,86,2024-07-21,Marketplace,Net Banking,15,Delivered
+589,51,2024-07-21,Website,UPI,15,Delivered
+590,232,2024-07-22,Mobile App,Credit Card,20,Delivered
+591,129,2024-07-22,Mobile App,UPI,0,Delivered
+592,166,2024-07-22,Mobile App,UPI,0,Delivered
+593,216,2024-07-22,Mobile App,Credit Card,0,Delivered
+594,225,2024-07-23,Marketplace,UPI,5,Delivered
+595,80,2024-07-23,Website,UPI,0,Delivered
+596,179,2024-07-23,Website,Credit Card,0,Delivered
+597,216,2024-07-24,Instagram,UPI,0,Delivered
+598,239,2024-07-24,Website,Debit Card,0,Delivered
+599,58,2024-07-24,Website,UPI,10,Delivered
+600,230,2024-07-24,Website,COD,0,Delivered
+601,242,2024-07-24,Instagram,Debit Card,0,Delivered
+602,383,2024-07-25,Mobile App,UPI,0,Delivered
+603,205,2024-07-26,Mobile App,Credit Card,15,Delivered
+604,381,2024-07-26,Mobile App,UPI,0,Delivered
+605,325,2024-07-27,Website,UPI,15,Delivered
+606,305,2024-07-27,Website,Credit Card,0,Delivered
+607,241,2024-07-27,Mobile App,UPI,0,Delivered
+608,290,2024-07-27,Website,COD,10,Delivered
+609,117,2024-07-28,Instagram,UPI,10,Returned
+610,135,2024-07-28,Marketplace,UPI,10,Delivered
+611,203,2024-07-28,Mobile App,UPI,0,Returned
+612,293,2024-07-28,Mobile App,Debit Card,15,Delivered
+613,308,2024-07-29,Mobile App,UPI,10,Delivered
+614,107,2024-07-29,Website,UPI,0,Delivered
+615,105,2024-07-30,Mobile App,UPI,10,Delivered
+616,72,2024-07-30,Mobile App,UPI,0,Cancelled
+617,7,2024-07-30,Website,UPI,10,Delivered
+618,203,2024-07-30,Website,Credit Card,5,Delivered
+619,74,2024-07-30,Mobile App,UPI,0,Delivered
+620,225,2024-07-31,Website,COD,0,Delivered
+621,357,2024-07-31,Website,Net Banking,5,Delivered
+622,205,2024-07-31,Website,COD,10,Delivered
+623,317,2024-07-31,Mobile App,UPI,5,Delivered
+624,189,2024-08-01,Website,UPI,0,Returned
+625,228,2024-08-01,Website,UPI,15,Delivered
+626,202,2024-08-02,Website,UPI,0,Delivered
+627,307,2024-08-02,Website,UPI,5,Delivered
+628,122,2024-08-02,Website,UPI,10,Delivered
+629,178,2024-08-03,Mobile App,Net Banking,0,Delivered
+630,250,2024-08-03,Mobile App,Debit Card,10,Delivered
+631,98,2024-08-03,Mobile App,UPI,0,Delivered
+632,203,2024-08-03,Website,Credit Card,0,Delivered
+633,235,2024-08-04,Marketplace,UPI,5,Delivered
+634,351,2024-08-05,Website,COD,20,Delivered
+635,249,2024-08-05,Instagram,UPI,0,Delivered
+636,156,2024-08-05,Mobile App,COD,0,Delivered
+637,362,2024-08-06,Marketplace,UPI,15,Delivered
+638,307,2024-08-06,Marketplace,Debit Card,0,Delivered
+639,57,2024-08-06,Website,Credit Card,10,Delivered
+640,180,2024-08-07,Website,UPI,5,Delivered
+641,86,2024-08-07,Website,UPI,15,Delivered
+642,377,2024-08-08,Marketplace,UPI,5,Returned
+643,19,2024-08-08,Mobile App,Credit Card,10,Delivered
+644,352,2024-08-08,Instagram,UPI,0,Delivered
+645,156,2024-08-08,Marketplace,Credit Card,0,Delivered
+646,137,2024-08-09,Marketplace,Debit Card,0,Returned
+647,271,2024-08-09,Marketplace,UPI,10,Delivered
+648,143,2024-08-09,Mobile App,Credit Card,10,Delivered
+649,8,2024-08-10,Mobile App,COD,20,Delivered
+650,202,2024-08-10,Mobile App,COD,15,Delivered
+651,349,2024-08-10,Instagram,Debit Card,0,Delivered
+652,280,2024-08-10,Website,UPI,0,Delivered
+653,392,2024-08-10,Instagram,UPI,20,Cancelled
+654,81,2024-08-10,Marketplace,Credit Card,5,Delivered
+655,362,2024-08-11,Website,UPI,15,Delivered
+656,135,2024-08-11,Website,UPI,0,Returned
+657,181,2024-08-11,Marketplace,Credit Card,0,Returned
+658,77,2024-08-11,Mobile App,Credit Card,0,Delivered
+659,362,2024-08-12,Website,Debit Card,10,Delivered
+660,75,2024-08-12,Website,COD,5,Delivered
+661,39,2024-08-13,Marketplace,UPI,10,Delivered
+662,107,2024-08-13,Marketplace,Debit Card,0,Delivered
+663,224,2024-08-13,Mobile App,Credit Card,0,Delivered
+664,337,2024-08-14,Marketplace,UPI,15,Delivered
+665,119,2024-08-14,Website,Debit Card,10,Cancelled
+666,237,2024-08-14,Instagram,UPI,0,Delivered
+667,241,2024-08-14,Marketplace,Credit Card,0,Cancelled
+668,105,2024-08-14,Instagram,UPI,10,Delivered
+669,381,2024-08-15,Mobile App,UPI,0,Delivered
+670,278,2024-08-15,Website,Debit Card,10,Delivered
+671,42,2024-08-15,Instagram,COD,5,Delivered
+672,42,2024-08-15,Mobile App,Credit Card,10,Delivered
+673,74,2024-08-15,Website,Credit Card,0,Delivered
+674,290,2024-08-16,Website,Net Banking,0,Delivered
+675,166,2024-08-16,Instagram,UPI,5,Delivered
+676,58,2024-08-16,Instagram,UPI,0,Delivered
+677,234,2024-08-16,Website,UPI,0,Delivered
+678,234,2024-08-16,Marketplace,UPI,0,Delivered
+679,212,2024-08-16,Mobile App,Credit Card,5,Delivered
+680,308,2024-08-16,Website,Credit Card,0,Delivered
+681,122,2024-08-17,Website,UPI,20,Delivered
+682,321,2024-08-17,Marketplace,Credit Card,5,Delivered
+683,194,2024-08-17,Marketplace,Debit Card,10,Delivered
+684,81,2024-08-17,Mobile App,Debit Card,0,Delivered
+685,150,2024-08-17,Marketplace,Credit Card,10,Delivered
+686,56,2024-08-18,Mobile App,UPI,0,Delivered
+687,6,2024-08-18,Marketplace,UPI,5,Delivered
+688,224,2024-08-18,Website,UPI,10,Cancelled
+689,379,2024-08-19,Marketplace,COD,15,Delivered
+690,297,2024-08-19,Marketplace,UPI,0,Delivered
+691,96,2024-08-19,Mobile App,UPI,15,Delivered
+692,118,2024-08-19,Website,Credit Card,0,Delivered
+693,3,2024-08-19,Mobile App,UPI,0,Cancelled
+694,69,2024-08-20,Marketplace,UPI,10,Delivered
+695,143,2024-08-20,Website,UPI,10,Delivered
+696,107,2024-08-20,Website,UPI,0,Delivered
+697,255,2024-08-21,Marketplace,Net Banking,0,Delivered
+698,216,2024-08-21,Mobile App,COD,10,Delivered
+699,86,2024-08-21,Website,UPI,10,Returned
+700,284,2024-08-22,Website,UPI,0,Delivered
+701,58,2024-08-22,Instagram,Credit Card,0,Delivered
+702,105,2024-08-23,Marketplace,UPI,5,Delivered
+703,357,2024-08-23,Marketplace,UPI,0,Returned
+704,198,2024-08-23,Website,UPI,0,Delivered
+705,177,2024-08-23,Website,Credit Card,15,Delivered
+706,7,2024-08-24,Instagram,COD,0,Delivered
+707,52,2024-08-24,Marketplace,UPI,10,Delivered
+708,57,2024-08-24,Website,Credit Card,0,Delivered
+709,314,2024-08-24,Marketplace,COD,0,Delivered
+710,325,2024-08-25,Website,Net Banking,0,Delivered
+711,212,2024-08-25,Mobile App,Credit Card,5,Returned
+712,205,2024-08-25,Mobile App,UPI,0,Delivered
+713,280,2024-08-25,Mobile App,Debit Card,5,Delivered
+714,90,2024-08-25,Website,Credit Card,0,Delivered
+715,195,2024-08-26,Website,COD,15,Delivered
+716,31,2024-08-26,Mobile App,UPI,0,Delivered
+717,369,2024-08-27,Marketplace,COD,10,Returned
+718,305,2024-08-27,Website,UPI,0,Delivered
+719,249,2024-08-28,Website,UPI,0,Delivered
+720,357,2024-08-28,Website,UPI,15,Delivered
+721,357,2024-08-28,Marketplace,UPI,5,Delivered
+722,23,2024-08-29,Website,COD,0,Delivered
+723,293,2024-08-29,Instagram,UPI,10,Delivered
+724,81,2024-08-29,Website,Credit Card,0,Delivered
+725,57,2024-08-29,Mobile App,COD,0,Delivered
+726,377,2024-08-30,Mobile App,COD,10,Returned
+727,143,2024-08-30,Mobile App,Credit Card,0,Delivered
+728,80,2024-08-30,Marketplace,Debit Card,5,Delivered
+729,1,2024-08-31,Marketplace,Net Banking,10,Delivered
+730,243,2024-08-31,Marketplace,UPI,0,Delivered
+731,201,2024-08-31,Mobile App,Credit Card,5,Delivered
+732,289,2024-09-01,Mobile App,Credit Card,10,Delivered
+733,383,2024-09-01,Website,UPI,0,Delivered
+734,60,2024-09-01,Website,UPI,10,Delivered
+735,113,2024-09-02,Website,UPI,20,Delivered
+736,191,2024-09-02,Website,UPI,5,Delivered
+737,122,2024-09-02,Website,Credit Card,10,Delivered
+738,380,2024-09-02,Marketplace,Credit Card,10,Delivered
+739,91,2024-09-03,Mobile App,UPI,10,Delivered
+740,86,2024-09-03,Website,UPI,0,Delivered
+741,304,2024-09-04,Mobile App,UPI,10,Delivered
+742,217,2024-09-04,Website,UPI,0,Delivered
+743,341,2024-09-05,Marketplace,UPI,0,Delivered
+744,26,2024-09-05,Website,COD,0,Delivered
+745,198,2024-09-05,Instagram,Net Banking,10,Delivered
+746,77,2024-09-06,Website,COD,5,Delivered
+747,42,2024-09-06,Marketplace,UPI,10,Delivered
+748,351,2024-09-06,Mobile App,COD,0,Returned
+749,22,2024-09-06,Marketplace,COD,0,Delivered
+750,7,2024-09-06,Website,COD,5,Delivered
+751,91,2024-09-07,Instagram,Credit Card,20,Delivered
+752,138,2024-09-07,Mobile App,COD,15,Returned
+753,189,2024-09-07,Website,UPI,5,Delivered
+754,56,2024-09-07,Website,UPI,0,Returned
+755,234,2024-09-08,Mobile App,Credit Card,10,Delivered
+756,201,2024-09-08,Instagram,UPI,0,Delivered
+757,340,2024-09-08,Website,Credit Card,20,Delivered
+758,237,2024-09-08,Website,UPI,0,Delivered
+759,74,2024-09-08,Website,UPI,0,Delivered
+760,88,2024-09-09,Website,COD,5,Delivered
+761,315,2024-09-09,Website,Debit Card,5,Delivered
+762,392,2024-09-10,Website,UPI,5,Delivered
+763,67,2024-09-10,Mobile App,Credit Card,5,Cancelled
+764,108,2024-09-10,Website,Net Banking,20,Delivered
+765,150,2024-09-10,Mobile App,COD,10,Delivered
+766,168,2024-09-10,Website,UPI,0,Delivered
+767,322,2024-09-11,Marketplace,COD,0,Returned
+768,285,2024-09-11,Website,UPI,5,Cancelled
+769,230,2024-09-11,Mobile App,UPI,15,Delivered
+770,349,2024-09-12,Instagram,Debit Card,0,Delivered
+771,130,2024-09-12,Website,COD,15,Delivered
+772,17,2024-09-12,Website,UPI,10,Delivered
+773,198,2024-09-12,Website,Credit Card,10,Delivered
+774,222,2024-09-13,Website,Debit Card,0,Delivered
+775,81,2024-09-13,Marketplace,UPI,0,Delivered
+776,42,2024-09-13,Mobile App,UPI,10,Delivered
+777,96,2024-09-13,Mobile App,UPI,10,Delivered
+778,56,2024-09-13,Website,COD,0,Returned
+779,184,2024-09-14,Marketplace,UPI,0,Delivered
+780,106,2024-09-14,Instagram,UPI,0,Delivered
+781,20,2024-09-14,Website,UPI,0,Delivered
+782,262,2024-09-15,Mobile App,UPI,15,Delivered
+783,388,2024-09-15,Instagram,UPI,0,Delivered
+784,232,2024-09-15,Instagram,Credit Card,5,Delivered
+785,380,2024-09-16,Website,UPI,5,Delivered
+786,241,2024-09-16,Mobile App,UPI,5,Delivered
+787,99,2024-09-16,Mobile App,UPI,5,Returned
+788,341,2024-09-17,Marketplace,Credit Card,0,Delivered
+789,156,2024-09-17,Website,UPI,0,Delivered
+790,316,2024-09-17,Website,UPI,5,Delivered
+791,98,2024-09-18,Website,COD,5,Delivered
+792,159,2024-09-18,Mobile App,UPI,0,Cancelled
+793,274,2024-09-18,Marketplace,UPI,5,Returned
+794,195,2024-09-19,Website,COD,5,Returned
+795,328,2024-09-19,Marketplace,UPI,0,Delivered
+796,56,2024-09-19,Marketplace,COD,10,Delivered
+797,274,2024-09-20,Marketplace,COD,15,Delivered
+798,186,2024-09-20,Website,UPI,0,Delivered
+799,202,2024-09-20,Mobile App,Debit Card,5,Delivered
+800,51,2024-09-20,Website,UPI,0,Delivered
+801,7,2024-09-20,Instagram,Credit Card,0,Delivered
+802,150,2024-09-21,Instagram,Debit Card,10,Delivered
+803,223,2024-09-21,Marketplace,Credit Card,10,Delivered
+804,295,2024-09-21,Mobile App,UPI,15,Delivered
+805,19,2024-09-22,Mobile App,Credit Card,0,Delivered
+806,213,2024-09-22,Mobile App,UPI,0,Delivered
+807,308,2024-09-22,Website,Credit Card,5,Delivered
+808,60,2024-09-22,Website,UPI,0,Returned
+809,52,2024-09-23,Website,COD,10,Delivered
+810,373,2024-09-23,Mobile App,Debit Card,0,Delivered
+811,150,2024-09-23,Instagram,UPI,0,Delivered
+812,170,2024-09-24,Marketplace,Credit Card,5,Delivered
+813,137,2024-09-24,Marketplace,Credit Card,0,Delivered
+814,277,2024-09-25,Website,Credit Card,0,Cancelled
+815,341,2024-09-25,Marketplace,COD,5,Returned
+816,340,2024-09-26,Marketplace,UPI,0,Delivered
+817,184,2024-09-26,Mobile App,Net Banking,15,Delivered
+818,190,2024-09-26,Mobile App,COD,0,Delivered
+819,289,2024-09-26,Marketplace,COD,0,Delivered
+820,146,2024-09-27,Mobile App,UPI,0,Delivered
+821,237,2024-09-27,Website,UPI,10,Cancelled
+822,242,2024-09-28,Instagram,COD,0,Returned
+823,297,2024-09-28,Marketplace,UPI,0,Delivered
+824,194,2024-09-28,Marketplace,UPI,0,Delivered
+825,352,2024-09-29,Instagram,UPI,0,Delivered
+826,225,2024-09-29,Mobile App,UPI,15,Delivered
+827,356,2024-09-29,Instagram,Credit Card,0,Delivered
+828,203,2024-09-29,Website,UPI,15,Delivered
+829,30,2024-09-30,Instagram,UPI,0,Cancelled
+830,162,2024-09-30,Mobile App,COD,5,Delivered
+831,285,2024-09-30,Instagram,Credit Card,0,Delivered
+832,58,2024-09-30,Website,UPI,15,Delivered
+833,243,2024-09-30,Mobile App,UPI,0,Delivered
+834,383,2024-10-01,Instagram,UPI,15,Delivered
+835,239,2024-10-01,Mobile App,UPI,20,Delivered
+836,328,2024-10-01,Marketplace,Credit Card,25,Delivered
+837,242,2024-10-01,Website,COD,15,Delivered
+838,224,2024-10-01,Instagram,COD,20,Delivered
+839,184,2024-10-02,Marketplace,Credit Card,20,Delivered
+840,297,2024-10-02,Mobile App,UPI,25,Delivered
+841,231,2024-10-02,Website,UPI,25,Delivered
+842,186,2024-10-02,Instagram,UPI,15,Delivered
+843,363,2024-10-02,Mobile App,UPI,15,Delivered
+844,48,2024-10-03,Mobile App,Credit Card,10,Delivered
+845,377,2024-10-03,Mobile App,Credit Card,15,Delivered
+846,71,2024-10-03,Marketplace,UPI,25,Delivered
+847,239,2024-10-04,Website,Credit Card,10,Delivered
+848,311,2024-10-04,Mobile App,UPI,20,Delivered
+849,123,2024-10-04,Website,COD,10,Delivered
+850,33,2024-10-04,Website,UPI,25,Delivered
+851,278,2024-10-04,Mobile App,UPI,0,Delivered
+852,109,2024-10-05,Website,UPI,20,Delivered
+853,209,2024-10-05,Instagram,Credit Card,0,Delivered
+854,198,2024-10-05,Instagram,COD,15,Delivered
+855,38,2024-10-05,Website,UPI,10,Delivered
+856,274,2024-10-05,Website,Debit Card,25,Delivered
+857,278,2024-10-05,Website,Debit Card,10,Delivered
+858,134,2024-10-05,Website,COD,15,Delivered
+859,113,2024-10-06,Instagram,Credit Card,0,Delivered
+860,42,2024-10-06,Website,COD,0,Delivered
+861,328,2024-10-06,Mobile App,UPI,15,Delivered
+862,125,2024-10-06,Marketplace,Credit Card,10,Delivered
+863,56,2024-10-07,Mobile App,Net Banking,10,Delivered
+864,181,2024-10-07,Mobile App,Net Banking,25,Delivered
+865,286,2024-10-07,Mobile App,Credit Card,20,Delivered
+866,223,2024-10-07,Website,UPI,10,Delivered
+867,277,2024-10-07,Website,UPI,20,Delivered
+868,21,2024-10-08,Website,Credit Card,10,Delivered
+869,122,2024-10-08,Website,COD,15,Returned
+870,57,2024-10-08,Mobile App,UPI,10,Delivered
+871,72,2024-10-08,Website,Credit Card,25,Delivered
+872,19,2024-10-08,Website,UPI,25,Cancelled
+873,106,2024-10-09,Mobile App,Credit Card,0,Delivered
+874,286,2024-10-09,Mobile App,Debit Card,0,Delivered
+875,118,2024-10-09,Website,COD,10,Delivered
+876,170,2024-10-09,Instagram,Credit Card,15,Delivered
+877,122,2024-10-10,Instagram,UPI,15,Delivered
+878,95,2024-10-10,Marketplace,COD,0,Delivered
+879,203,2024-10-10,Website,UPI,15,Delivered
+880,352,2024-10-10,Mobile App,Debit Card,25,Delivered
+881,166,2024-10-10,Marketplace,COD,20,Delivered
+882,293,2024-10-11,Mobile App,Credit Card,15,Delivered
+883,278,2024-10-11,Mobile App,Credit Card,25,Delivered
+884,21,2024-10-11,Marketplace,Debit Card,10,Delivered
+885,130,2024-10-11,Mobile App,UPI,25,Delivered
+886,271,2024-10-11,Marketplace,COD,25,Delivered
+887,98,2024-10-11,Website,COD,15,Returned
+888,58,2024-10-12,Mobile App,UPI,25,Delivered
+889,106,2024-10-12,Instagram,UPI,10,Delivered
+890,203,2024-10-12,Website,Debit Card,0,Delivered
+891,106,2024-10-12,Instagram,UPI,20,Delivered
+892,243,2024-10-12,Marketplace,Debit Card,0,Delivered
+893,123,2024-10-12,Mobile App,Credit Card,10,Delivered
+894,265,2024-10-12,Mobile App,UPI,25,Delivered
+895,222,2024-10-13,Marketplace,Debit Card,10,Delivered
+896,105,2024-10-13,Marketplace,COD,20,Delivered
+897,189,2024-10-13,Website,UPI,10,Delivered
+898,81,2024-10-13,Mobile App,COD,25,Delivered
+899,9,2024-10-13,Marketplace,UPI,25,Delivered
+900,77,2024-10-13,Marketplace,UPI,10,Delivered
+901,118,2024-10-14,Marketplace,UPI,25,Delivered
+902,139,2024-10-14,Website,Credit Card,0,Delivered
+903,239,2024-10-14,Instagram,COD,0,Delivered
+904,305,2024-10-14,Marketplace,COD,20,Delivered
+905,202,2024-10-14,Website,Net Banking,15,Delivered
+906,54,2024-10-15,Mobile App,Credit Card,20,Delivered
+907,39,2024-10-15,Website,UPI,15,Delivered
+908,370,2024-10-15,Marketplace,COD,15,Delivered
+909,3,2024-10-15,Website,UPI,15,Delivered
+910,35,2024-10-16,Mobile App,COD,20,Delivered
+911,198,2024-10-16,Mobile App,Credit Card,0,Delivered
+912,136,2024-10-16,Instagram,COD,10,Delivered
+913,357,2024-10-16,Mobile App,Credit Card,10,Delivered
+914,224,2024-10-16,Website,UPI,0,Delivered
+915,252,2024-10-16,Mobile App,UPI,15,Returned
+916,201,2024-10-17,Mobile App,UPI,15,Delivered
+917,130,2024-10-17,Website,Credit Card,15,Delivered
+918,295,2024-10-17,Website,COD,20,Delivered
+919,42,2024-10-17,Marketplace,Credit Card,15,Cancelled
+920,205,2024-10-17,Mobile App,Credit Card,20,Delivered
+921,164,2024-10-18,Website,Credit Card,25,Delivered
+922,271,2024-10-18,Marketplace,Debit Card,25,Delivered
+923,177,2024-10-18,Website,Debit Card,15,Delivered
+924,170,2024-10-18,Marketplace,Credit Card,10,Delivered
+925,28,2024-10-18,Marketplace,COD,25,Delivered
+926,51,2024-10-18,Website,UPI,0,Delivered
+927,48,2024-10-18,Marketplace,UPI,20,Delivered
+928,356,2024-10-18,Website,Net Banking,10,Cancelled
+929,123,2024-10-19,Website,UPI,0,Delivered
+930,1,2024-10-19,Website,Credit Card,15,Delivered
+931,42,2024-10-19,Website,UPI,15,Cancelled
+932,216,2024-10-19,Website,Debit Card,20,Delivered
+933,67,2024-10-19,Mobile App,UPI,10,Delivered
+934,340,2024-10-19,Marketplace,UPI,10,Delivered
+935,337,2024-10-19,Instagram,UPI,15,Delivered
+936,319,2024-10-20,Mobile App,Credit Card,10,Delivered
+937,6,2024-10-20,Website,Credit Card,25,Delivered
+938,376,2024-10-20,Website,COD,15,Delivered
+939,177,2024-10-20,Mobile App,Credit Card,0,Delivered
+940,52,2024-10-20,Mobile App,COD,15,Cancelled
+941,93,2024-10-20,Marketplace,Credit Card,20,Delivered
+942,185,2024-10-21,Website,UPI,25,Delivered
+943,42,2024-10-21,Instagram,UPI,20,Cancelled
+944,184,2024-10-21,Instagram,COD,20,Delivered
+945,131,2024-10-21,Marketplace,Debit Card,10,Returned
+946,381,2024-10-21,Website,UPI,0,Delivered
+947,234,2024-10-21,Website,UPI,10,Delivered
+948,228,2024-10-22,Website,Net Banking,0,Delivered
+949,7,2024-10-22,Website,UPI,20,Cancelled
+950,370,2024-10-22,Mobile App,Credit Card,15,Delivered
+951,198,2024-10-22,Mobile App,UPI,0,Delivered
+952,231,2024-10-22,Mobile App,UPI,10,Delivered
+953,194,2024-10-22,Website,UPI,15,Delivered
+954,362,2024-10-23,Website,Credit Card,10,Delivered
+955,245,2024-10-23,Mobile App,UPI,0,Delivered
+956,158,2024-10-23,Marketplace,Debit Card,0,Delivered
+957,202,2024-10-23,Marketplace,COD,25,Delivered
+958,101,2024-10-23,Instagram,UPI,20,Delivered
+959,190,2024-10-23,Website,COD,10,Delivered
+960,297,2024-10-24,Website,Debit Card,15,Delivered
+961,7,2024-10-24,Website,UPI,0,Delivered
+962,319,2024-10-24,Marketplace,Net Banking,15,Delivered
+963,135,2024-10-24,Instagram,Credit Card,0,Delivered
+964,131,2024-10-24,Mobile App,Credit Card,25,Delivered
+965,278,2024-10-24,Website,COD,25,Delivered
+966,321,2024-10-25,Marketplace,Net Banking,10,Delivered
+967,217,2024-10-25,Website,COD,25,Delivered
+968,317,2024-10-25,Website,COD,20,Delivered
+969,67,2024-10-25,Mobile App,Credit Card,15,Delivered
+970,308,2024-10-25,Mobile App,UPI,20,Delivered
+971,170,2024-10-25,Instagram,UPI,20,Delivered
+972,280,2024-10-26,Mobile App,UPI,25,Delivered
+973,3,2024-10-26,Instagram,Debit Card,15,Delivered
+974,352,2024-10-26,Mobile App,Debit Card,25,Delivered
+975,185,2024-10-26,Marketplace,Debit Card,10,Delivered
+976,376,2024-10-26,Marketplace,COD,0,Delivered
+977,314,2024-10-27,Instagram,Credit Card,20,Delivered
+978,213,2024-10-27,Instagram,Credit Card,20,Delivered
+979,168,2024-10-27,Instagram,UPI,15,Delivered
+980,295,2024-10-27,Website,UPI,0,Delivered
+981,356,2024-10-27,Mobile App,COD,15,Delivered
+982,228,2024-10-27,Website,COD,25,Delivered
+983,383,2024-10-27,Instagram,UPI,15,Delivered
+984,107,2024-10-28,Instagram,UPI,15,Delivered
+985,36,2024-10-28,Marketplace,UPI,10,Delivered
+986,213,2024-10-28,Website,Net Banking,10,Delivered
+987,98,2024-10-28,Website,Credit Card,15,Delivered
+988,252,2024-10-28,Mobile App,Credit Card,0,Delivered
+989,374,2024-10-28,Mobile App,UPI,15,Delivered
+990,249,2024-10-29,Website,UPI,10,Delivered
+991,138,2024-10-29,Website,COD,20,Delivered
+992,139,2024-10-29,Mobile App,UPI,0,Delivered
+993,385,2024-10-29,Website,UPI,10,Delivered
+994,122,2024-10-29,Mobile App,COD,0,Delivered
+995,195,2024-10-29,Mobile App,COD,25,Returned
+996,213,2024-10-30,Instagram,UPI,10,Delivered
+997,388,2024-10-30,Mobile App,Credit Card,20,Delivered
+998,77,2024-10-30,Website,Credit Card,15,Delivered
+999,341,2024-10-30,Mobile App,UPI,10,Delivered
+1000,65,2024-10-30,Marketplace,UPI,20,Delivered
+1001,135,2024-10-31,Instagram,UPI,25,Delivered
+1002,99,2024-10-31,Website,Credit Card,10,Delivered
+1003,190,2024-10-31,Mobile App,COD,20,Returned
+1004,156,2024-10-31,Mobile App,Debit Card,25,Delivered
+1005,295,2024-10-31,Instagram,UPI,20,Delivered
+1006,89,2024-11-01,Mobile App,UPI,20,Delivered
+1007,3,2024-11-01,Mobile App,UPI,10,Delivered
+1008,278,2024-11-01,Marketplace,COD,15,Delivered
+1009,249,2024-11-01,Mobile App,COD,15,Delivered
+1010,195,2024-11-02,Marketplace,UPI,20,Cancelled
+1011,364,2024-11-02,Website,UPI,0,Delivered
+1012,241,2024-11-02,Website,COD,15,Delivered
+1013,166,2024-11-02,Mobile App,Credit Card,0,Delivered
+1014,166,2024-11-02,Marketplace,COD,20,Delivered
+1015,69,2024-11-02,Marketplace,UPI,15,Delivered
+1016,136,2024-11-02,Mobile App,UPI,0,Delivered
+1017,304,2024-11-03,Mobile App,COD,0,Cancelled
+1018,67,2024-11-03,Marketplace,UPI,15,Delivered
+1019,42,2024-11-03,Mobile App,UPI,15,Delivered
+1020,118,2024-11-03,Website,Debit Card,15,Delivered
+1021,60,2024-11-03,Marketplace,UPI,20,Delivered
+1022,117,2024-11-03,Website,Debit Card,25,Delivered
+1023,191,2024-11-03,Mobile App,UPI,25,Delivered
+1024,385,2024-11-03,Website,UPI,15,Delivered
+1025,209,2024-11-04,Mobile App,Credit Card,10,Delivered
+1026,156,2024-11-04,Instagram,UPI,15,Cancelled
+1027,340,2024-11-05,Website,COD,15,Delivered
+1028,179,2024-11-05,Marketplace,COD,0,Delivered
+1029,22,2024-11-05,Marketplace,UPI,25,Delivered
+1030,305,2024-11-05,Marketplace,UPI,20,Delivered
+1031,216,2024-11-05,Mobile App,UPI,0,Delivered
+1032,28,2024-11-05,Instagram,UPI,0,Delivered
+1033,123,2024-11-05,Website,UPI,15,Delivered
+1034,146,2024-11-05,Website,UPI,0,Delivered
+1035,369,2024-11-06,Marketplace,UPI,25,Delivered
+1036,370,2024-11-06,Website,Credit Card,20,Delivered
+1037,49,2024-11-06,Marketplace,UPI,10,Delivered
+1038,48,2024-11-06,Instagram,Credit Card,10,Delivered
+1039,223,2024-11-06,Mobile App,COD,15,Delivered
+1040,379,2024-11-07,Mobile App,UPI,25,Delivered
+1041,20,2024-11-07,Website,COD,15,Delivered
+1042,143,2024-11-07,Website,COD,20,Delivered
+1043,108,2024-11-07,Website,COD,20,Delivered
+1044,374,2024-11-07,Marketplace,COD,10,Delivered
+1045,42,2024-11-07,Marketplace,UPI,15,Delivered
+1046,8,2024-11-08,Website,Credit Card,20,Delivered
+1047,311,2024-11-08,Mobile App,UPI,15,Delivered
+1048,98,2024-11-08,Mobile App,UPI,20,Delivered
+1049,305,2024-11-08,Marketplace,UPI,25,Delivered
+1050,81,2024-11-08,Marketplace,Credit Card,25,Delivered
+1051,162,2024-11-08,Mobile App,COD,15,Returned
+1052,266,2024-11-09,Website,Net Banking,15,Delivered
+1053,337,2024-11-09,Website,Debit Card,20,Delivered
+1054,194,2024-11-09,Mobile App,UPI,0,Delivered
+1055,317,2024-11-09,Mobile App,Net Banking,10,Delivered
+1056,364,2024-11-09,Marketplace,Net Banking,15,Delivered
+1057,60,2024-11-09,Instagram,Net Banking,25,Delivered
+1058,373,2024-11-09,Marketplace,Credit Card,20,Delivered
+1059,305,2024-11-10,Marketplace,Debit Card,0,Delivered
+1060,148,2024-11-10,Website,UPI,15,Delivered
+1061,153,2024-11-10,Marketplace,Credit Card,20,Delivered
+1062,26,2024-11-10,Instagram,UPI,25,Cancelled
+1063,255,2024-11-10,Mobile App,COD,0,Delivered
+1064,316,2024-11-10,Marketplace,Credit Card,25,Delivered
+1065,377,2024-11-10,Marketplace,COD,10,Delivered
+1066,223,2024-11-11,Website,UPI,10,Delivered
+1067,28,2024-11-11,Website,UPI,20,Delivered
+1068,214,2024-11-11,Marketplace,COD,20,Returned
+1069,237,2024-11-11,Mobile App,COD,10,Returned
+1070,139,2024-11-11,Mobile App,Credit Card,25,Delivered
+1071,262,2024-11-11,Mobile App,Credit Card,15,Returned
+1072,190,2024-11-12,Instagram,Credit Card,10,Delivered
+1073,91,2024-11-12,Mobile App,Credit Card,0,Delivered
+1074,143,2024-11-12,Marketplace,Net Banking,10,Delivered
+1075,311,2024-11-12,Website,COD,20,Delivered
+1076,119,2024-11-12,Mobile App,UPI,10,Delivered
+1077,6,2024-11-12,Mobile App,UPI,15,Delivered
+1078,375,2024-11-12,Mobile App,UPI,25,Delivered
+1079,252,2024-11-12,Website,COD,25,Delivered
+1080,230,2024-11-13,Marketplace,Credit Card,10,Delivered
+1081,106,2024-11-13,Mobile App,UPI,15,Delivered
+1082,21,2024-11-13,Mobile App,COD,25,Delivered
+1083,170,2024-11-13,Mobile App,COD,10,Delivered
+1084,191,2024-11-13,Website,UPI,15,Delivered
+1085,60,2024-11-13,Marketplace,Debit Card,0,Returned
+1086,241,2024-11-14,Website,Credit Card,25,Delivered
+1087,351,2024-11-14,Website,Credit Card,25,Delivered
+1088,125,2024-11-14,Mobile App,UPI,25,Delivered
+1089,60,2024-11-14,Website,UPI,25,Delivered
+1090,178,2024-11-14,Mobile App,UPI,15,Delivered
+1091,331,2024-11-14,Mobile App,UPI,15,Delivered
+1092,375,2024-11-15,Mobile App,Credit Card,0,Delivered
+1093,23,2024-11-15,Website,UPI,20,Delivered
+1094,91,2024-11-15,Mobile App,Debit Card,20,Delivered
+1095,89,2024-11-15,Website,UPI,20,Delivered
+1096,19,2024-11-15,Instagram,COD,0,Delivered
+1097,65,2024-11-16,Marketplace,UPI,15,Delivered
+1098,65,2024-11-16,Website,UPI,15,Delivered
+1099,51,2024-11-16,Instagram,UPI,20,Delivered
+1100,9,2024-11-16,Mobile App,Net Banking,15,Delivered
+1101,311,2024-11-16,Mobile App,COD,25,Returned
+1102,65,2024-11-16,Website,COD,0,Delivered
+1103,156,2024-11-16,Mobile App,COD,25,Delivered
+1104,122,2024-11-17,Marketplace,COD,10,Delivered
+1105,119,2024-11-17,Instagram,COD,0,Delivered
+1106,337,2024-11-17,Mobile App,UPI,15,Delivered
+1107,364,2024-11-17,Mobile App,Debit Card,10,Delivered
+1108,194,2024-11-17,Marketplace,UPI,10,Delivered
+1109,48,2024-11-17,Website,UPI,15,Delivered
+1110,284,2024-11-18,Website,Credit Card,25,Delivered
+1111,25,2024-11-18,Instagram,UPI,0,Delivered
+1112,89,2024-11-18,Instagram,Credit Card,15,Delivered
+1113,89,2024-11-18,Website,COD,0,Returned
+1114,130,2024-11-18,Mobile App,Credit Card,15,Delivered
+1115,351,2024-11-19,Website,UPI,25,Returned
+1116,138,2024-11-19,Mobile App,COD,20,Delivered
+1117,194,2024-11-19,Mobile App,COD,10,Delivered
+1118,177,2024-11-19,Mobile App,Credit Card,20,Delivered
+1119,56,2024-11-20,Instagram,UPI,0,Delivered
+1120,60,2024-11-20,Mobile App,UPI,10,Delivered
+1121,130,2024-11-20,Marketplace,COD,0,Delivered
+1122,150,2024-11-20,Marketplace,UPI,15,Delivered
+1123,177,2024-11-20,Mobile App,Net Banking,10,Delivered
+1124,159,2024-11-21,Marketplace,COD,25,Returned
+1125,138,2024-11-21,Instagram,COD,15,Delivered
+1126,52,2024-11-21,Marketplace,COD,25,Delivered
+1127,135,2024-11-21,Mobile App,UPI,15,Returned
+1128,190,2024-11-21,Mobile App,UPI,20,Delivered
+1129,358,2024-11-21,Website,UPI,15,Delivered
+1130,120,2024-11-22,Website,UPI,25,Delivered
+1131,287,2024-11-22,Instagram,UPI,25,Delivered
+1132,118,2024-11-22,Mobile App,UPI,10,Delivered
+1133,138,2024-11-22,Mobile App,UPI,20,Delivered
+1134,18,2024-11-22,Mobile App,UPI,0,Delivered
+1135,39,2024-11-22,Mobile App,COD,20,Delivered
+1136,212,2024-11-23,Mobile App,UPI,20,Delivered
+1137,392,2024-11-23,Website,UPI,15,Returned
+1138,64,2024-11-23,Marketplace,UPI,10,Delivered
+1139,14,2024-11-23,Instagram,Debit Card,0,Delivered
+1140,312,2024-11-23,Website,COD,20,Delivered
+1141,277,2024-11-23,Website,Credit Card,0,Delivered
+1142,120,2024-11-23,Mobile App,UPI,20,Delivered
+1143,42,2024-11-23,Instagram,COD,15,Delivered
+1144,242,2024-11-23,Marketplace,COD,0,Cancelled
+1145,209,2024-11-24,Mobile App,Credit Card,20,Delivered
+1146,17,2024-11-24,Mobile App,COD,25,Delivered
+1147,23,2024-11-24,Mobile App,Credit Card,20,Delivered
+1148,18,2024-11-24,Marketplace,UPI,25,Delivered
+1149,201,2024-11-24,Website,UPI,15,Delivered
+1150,309,2024-11-24,Website,UPI,0,Delivered
+1151,118,2024-11-25,Instagram,Debit Card,10,Delivered
+1152,312,2024-11-25,Mobile App,UPI,0,Delivered
+1153,158,2024-11-25,Instagram,Credit Card,15,Delivered
+1154,302,2024-11-25,Instagram,Credit Card,10,Delivered
+1155,331,2024-11-25,Mobile App,Debit Card,10,Delivered
+1156,374,2024-11-26,Mobile App,UPI,0,Delivered
+1157,69,2024-11-26,Instagram,Debit Card,15,Delivered
+1158,171,2024-11-26,Instagram,Net Banking,15,Delivered
+1159,362,2024-11-26,Website,UPI,25,Delivered
+1160,37,2024-11-26,Marketplace,UPI,10,Delivered
+1161,6,2024-11-26,Instagram,UPI,10,Delivered
+1162,18,2024-11-27,Mobile App,UPI,15,Delivered
+1163,14,2024-11-27,Mobile App,Net Banking,0,Delivered
+1164,280,2024-11-27,Marketplace,Credit Card,10,Delivered
+1165,385,2024-11-27,Mobile App,Credit Card,20,Delivered
+1166,117,2024-11-27,Instagram,UPI,20,Returned
+1167,138,2024-11-28,Mobile App,Debit Card,0,Delivered
+1168,289,2024-11-28,Marketplace,COD,0,Delivered
+1169,48,2024-11-28,Website,UPI,25,Delivered
+1170,9,2024-11-28,Instagram,COD,15,Delivered
+1171,28,2024-11-28,Website,UPI,10,Delivered
+1172,186,2024-11-28,Instagram,Credit Card,15,Delivered
+1173,125,2024-11-29,Website,Debit Card,0,Delivered
+1174,6,2024-11-29,Website,COD,10,Delivered
+1175,91,2024-11-29,Website,UPI,15,Delivered
+1176,383,2024-11-29,Instagram,Credit Card,0,Delivered
+1177,170,2024-11-29,Website,UPI,20,Cancelled
+1178,323,2024-11-29,Marketplace,Credit Card,15,Delivered
+1179,309,2024-11-30,Marketplace,UPI,10,Delivered
+1180,136,2024-11-30,Marketplace,COD,15,Delivered
+1181,139,2024-11-30,Website,Credit Card,15,Delivered
+1182,120,2024-11-30,Mobile App,UPI,10,Delivered
+1183,138,2024-11-30,Mobile App,UPI,15,Delivered
+1184,228,2024-12-01,Mobile App,UPI,5,Delivered
+1185,105,2024-12-01,Website,COD,10,Delivered
+1186,113,2024-12-01,Marketplace,Credit Card,0,Delivered
+1187,231,2024-12-01,Marketplace,UPI,0,Delivered
+1188,178,2024-12-01,Mobile App,Credit Card,0,Delivered
+1189,328,2024-12-01,Marketplace,UPI,10,Delivered
+1190,89,2024-12-01,Website,Debit Card,0,Delivered
+1191,99,2024-12-01,Website,Credit Card,0,Delivered
+1192,202,2024-12-02,Website,UPI,0,Delivered
+1193,293,2024-12-02,Website,Credit Card,5,Delivered
+1194,312,2024-12-02,Mobile App,UPI,15,Delivered
+1195,141,2024-12-02,Website,Credit Card,5,Delivered
+1196,158,2024-12-02,Website,UPI,0,Delivered
+1197,159,2024-12-02,Mobile App,Credit Card,0,Delivered
+1198,356,2024-12-02,Website,Credit Card,0,Cancelled
+1199,180,2024-12-03,Website,UPI,0,Delivered
+1200,362,2024-12-03,Website,UPI,0,Returned
+1201,266,2024-12-03,Instagram,UPI,0,Delivered
+1202,77,2024-12-03,Website,UPI,5,Delivered
+1203,350,2024-12-03,Marketplace,COD,10,Delivered
+1204,255,2024-12-03,Instagram,UPI,0,Delivered
+1205,64,2024-12-04,Mobile App,UPI,10,Delivered
+1206,212,2024-12-04,Mobile App,UPI,0,Returned
+1207,374,2024-12-04,Mobile App,COD,5,Delivered
+1208,158,2024-12-04,Website,UPI,5,Delivered
+1209,351,2024-12-04,Mobile App,Debit Card,10,Delivered
+1210,89,2024-12-04,Website,Net Banking,10,Delivered
+1211,341,2024-12-05,Mobile App,UPI,15,Delivered
+1212,96,2024-12-05,Marketplace,UPI,0,Delivered
+1213,23,2024-12-05,Website,UPI,5,Delivered
+1214,286,2024-12-05,Marketplace,UPI,0,Delivered
+1215,212,2024-12-06,Website,Net Banking,0,Delivered
+1216,217,2024-12-06,Mobile App,UPI,0,Delivered
+1217,352,2024-12-06,Mobile App,UPI,0,Delivered
+1218,64,2024-12-06,Marketplace,UPI,10,Delivered
+1219,162,2024-12-06,Website,UPI,0,Cancelled
+1220,351,2024-12-07,Marketplace,UPI,5,Delivered
+1221,194,2024-12-07,Marketplace,UPI,10,Delivered
+1222,195,2024-12-07,Marketplace,UPI,5,Delivered
+1223,294,2024-12-07,Website,Credit Card,15,Delivered
+1224,213,2024-12-07,Website,Net Banking,20,Returned
+1225,374,2024-12-07,Instagram,COD,0,Delivered
+1226,286,2024-12-07,Website,UPI,15,Delivered
+1227,388,2024-12-07,Marketplace,COD,0,Delivered
+1228,250,2024-12-08,Website,UPI,0,Returned
+1229,278,2024-12-08,Website,UPI,5,Cancelled
+1230,362,2024-12-08,Instagram,Debit Card,0,Delivered
+1231,34,2024-12-08,Marketplace,Credit Card,10,Delivered
+1232,42,2024-12-08,Website,UPI,10,Returned
+1233,331,2024-12-08,Instagram,UPI,5,Delivered
+1234,297,2024-12-08,Mobile App,Credit Card,20,Delivered
+1235,370,2024-12-09,Website,UPI,0,Delivered
+1236,49,2024-12-09,Website,Net Banking,0,Delivered
+1237,99,2024-12-09,Instagram,UPI,0,Delivered
+1238,26,2024-12-09,Website,COD,10,Delivered
+1239,354,2024-12-09,Website,Net Banking,0,Delivered
+1240,58,2024-12-10,Website,UPI,5,Delivered
+1241,19,2024-12-10,Instagram,Credit Card,10,Delivered
+1242,358,2024-12-11,Marketplace,UPI,0,Delivered
+1243,84,2024-12-11,Mobile App,COD,10,Delivered
+1244,137,2024-12-11,Website,Credit Card,20,Returned
+1245,93,2024-12-11,Mobile App,UPI,10,Cancelled
+1246,108,2024-12-11,Website,UPI,0,Delivered
+1247,31,2024-12-11,Marketplace,UPI,10,Delivered
+1248,128,2024-12-12,Instagram,Debit Card,5,Delivered
+1249,162,2024-12-12,Mobile App,UPI,5,Delivered
+1250,53,2024-12-12,Marketplace,Debit Card,0,Delivered
+1251,312,2024-12-12,Website,UPI,15,Delivered
+1252,374,2024-12-12,Marketplace,Net Banking,0,Delivered
+1253,222,2024-12-12,Mobile App,UPI,10,Delivered
+1254,162,2024-12-13,Marketplace,Credit Card,0,Cancelled
+1255,354,2024-12-13,Instagram,UPI,20,Delivered
+1256,321,2024-12-13,Mobile App,COD,10,Delivered
+1257,243,2024-12-13,Instagram,UPI,20,Delivered
+1258,20,2024-12-14,Website,UPI,5,Cancelled
+1259,130,2024-12-14,Marketplace,UPI,10,Delivered
+1260,309,2024-12-14,Instagram,UPI,10,Delivered
+1261,42,2024-12-14,Website,UPI,20,Delivered
+1262,139,2024-12-14,Marketplace,Net Banking,20,Delivered
+1263,77,2024-12-14,Instagram,COD,15,Delivered
+1264,90,2024-12-14,Mobile App,UPI,0,Delivered
+1265,225,2024-12-15,Website,Credit Card,0,Delivered
+1266,28,2024-12-15,Website,COD,0,Delivered
+1267,42,2024-12-15,Website,Credit Card,5,Delivered
+1268,235,2024-12-15,Instagram,UPI,10,Delivered
+1269,99,2024-12-15,Marketplace,UPI,5,Delivered
+1270,81,2024-12-15,Marketplace,UPI,0,Delivered
+1271,302,2024-12-16,Mobile App,Credit Card,5,Delivered
+1272,52,2024-12-16,Mobile App,COD,5,Delivered
+1273,101,2024-12-16,Instagram,Debit Card,10,Delivered
+1274,277,2024-12-16,Website,UPI,10,Delivered
+1275,274,2024-12-17,Instagram,COD,0,Delivered
+1276,88,2024-12-17,Mobile App,UPI,10,Delivered
+1277,22,2024-12-17,Website,UPI,0,Delivered
+1278,74,2024-12-17,Mobile App,UPI,10,Delivered
+1279,162,2024-12-18,Website,Credit Card,0,Delivered
+1280,109,2024-12-18,Instagram,Credit Card,10,Delivered
+1281,383,2024-12-18,Website,COD,0,Delivered
+1282,1,2024-12-18,Website,UPI,10,Delivered
+1283,77,2024-12-18,Website,UPI,10,Delivered
+1284,147,2024-12-18,Website,Credit Card,0,Delivered
+1285,99,2024-12-19,Mobile App,Credit Card,0,Delivered
+1286,88,2024-12-19,Mobile App,Credit Card,10,Delivered
+1287,49,2024-12-19,Marketplace,Credit Card,15,Delivered
+1288,36,2024-12-19,Marketplace,COD,5,Delivered
+1289,364,2024-12-19,Mobile App,Net Banking,10,Delivered
+1290,239,2024-12-19,Website,UPI,0,Delivered
+1291,9,2024-12-19,Instagram,UPI,10,Delivered
+1292,25,2024-12-20,Instagram,UPI,0,Delivered
+1293,26,2024-12-20,Marketplace,UPI,0,Delivered
+1294,171,2024-12-20,Website,COD,0,Returned
+1295,109,2024-12-20,Instagram,Debit Card,15,Delivered
+1296,244,2024-12-20,Mobile App,Credit Card,20,Delivered
+1297,309,2024-12-20,Instagram,COD,0,Delivered
+1298,311,2024-12-21,Instagram,COD,0,Delivered
+1299,96,2024-12-21,Instagram,UPI,0,Delivered
+1300,216,2024-12-21,Mobile App,UPI,0,Delivered
+1301,88,2024-12-21,Website,COD,10,Returned
+1302,265,2024-12-21,Mobile App,Debit Card,0,Delivered
+1303,319,2024-12-21,Website,UPI,10,Cancelled
+1304,80,2024-12-21,Mobile App,COD,0,Delivered
+1305,60,2024-12-21,Marketplace,UPI,10,Delivered
+1306,223,2024-12-22,Mobile App,Credit Card,15,Returned
+1307,328,2024-12-22,Website,UPI,0,Delivered
+1308,107,2024-12-22,Marketplace,UPI,5,Returned
+1309,169,2024-12-22,Website,UPI,0,Delivered
+1310,20,2024-12-22,Mobile App,UPI,5,Delivered
+1311,186,2024-12-22,Mobile App,COD,0,Delivered
+1312,109,2024-12-22,Marketplace,COD,15,Delivered
+1313,309,2024-12-22,Website,COD,0,Delivered
+1314,217,2024-12-23,Mobile App,UPI,0,Delivered
+1315,307,2024-12-23,Website,Credit Card,10,Delivered
+1316,171,2024-12-23,Instagram,UPI,10,Delivered
+1317,105,2024-12-23,Website,COD,10,Delivered
+1318,95,2024-12-23,Instagram,UPI,5,Delivered
+1319,282,2024-12-23,Website,UPI,0,Delivered
+1320,206,2024-12-23,Marketplace,UPI,0,Delivered
+1321,307,2024-12-24,Marketplace,Credit Card,10,Returned
+1322,367,2024-12-24,Website,UPI,0,Delivered
+1323,348,2024-12-24,Website,UPI,0,Delivered
+1324,84,2024-12-24,Website,UPI,10,Delivered
+1325,20,2024-12-24,Marketplace,COD,10,Delivered
+1326,205,2024-12-24,Marketplace,COD,10,Delivered
+1327,14,2024-12-25,Marketplace,UPI,0,Delivered
+1328,400,2024-12-25,Website,Debit Card,0,Delivered
+1329,388,2024-12-25,Mobile App,UPI,5,Delivered
+1330,24,2024-12-25,Website,Credit Card,10,Delivered
+1331,217,2024-12-25,Mobile App,COD,5,Delivered
+1332,206,2024-12-26,Website,UPI,0,Delivered
+1333,314,2024-12-26,Marketplace,UPI,5,Delivered
+1334,202,2024-12-26,Marketplace,UPI,20,Delivered
+1335,20,2024-12-26,Marketplace,COD,0,Delivered
+1336,351,2024-12-26,Marketplace,UPI,0,Delivered
+1337,72,2024-12-26,Instagram,UPI,0,Returned
+1338,42,2024-12-26,Mobile App,COD,0,Delivered
+1339,125,2024-12-27,Marketplace,UPI,5,Delivered
+1340,280,2024-12-27,Marketplace,Debit Card,5,Delivered
+1341,51,2024-12-27,Website,Debit Card,5,Delivered
+1342,341,2024-12-27,Website,Credit Card,15,Delivered
+1343,235,2024-12-27,Mobile App,Credit Card,10,Delivered
+1344,245,2024-12-28,Instagram,Debit Card,10,Delivered
+1345,327,2024-12-28,Mobile App,UPI,20,Delivered
+1346,205,2024-12-28,Marketplace,Credit Card,10,Delivered
+1347,232,2024-12-28,Mobile App,COD,0,Delivered
+1348,315,2024-12-28,Website,Credit Card,20,Delivered
+1349,381,2024-12-29,Marketplace,UPI,15,Delivered
+1350,57,2024-12-29,Marketplace,Credit Card,0,Cancelled
+1351,277,2024-12-29,Website,COD,0,Delivered
+1352,7,2024-12-29,Mobile App,COD,0,Delivered
+1353,357,2024-12-29,Website,UPI,5,Delivered
+1354,194,2024-12-29,Instagram,UPI,10,Delivered
+1355,86,2024-12-30,Website,Debit Card,10,Delivered
+1356,364,2024-12-30,Instagram,UPI,0,Delivered
+1357,57,2024-12-30,Website,UPI,5,Delivered
+1358,305,2024-12-30,Mobile App,COD,10,Delivered
+1359,370,2024-12-30,Mobile App,Credit Card,5,Delivered
+1360,245,2024-12-30,Website,COD,0,Delivered
+1361,35,2024-12-30,Marketplace,Net Banking,0,Delivered
+1362,42,2024-12-31,Mobile App,COD,5,Delivered
+1363,280,2024-12-31,Website,Credit Card,5,Delivered
+1364,377,2024-12-31,Instagram,UPI,0,Returned
+1365,23,2024-12-31,Website,UPI,0,Delivered
+1366,278,2024-12-31,Mobile App,COD,0,Delivered
+1367,39,2024-12-31,Mobile App,UPI,15,Delivered
+1368,368,2025-01-01,Marketplace,COD,5,Delivered
+1369,311,2025-01-01,Website,COD,5,Delivered
+1370,184,2025-01-02,Mobile App,UPI,15,Delivered
+1371,57,2025-01-02,Website,COD,0,Delivered
+1372,284,2025-01-02,Marketplace,UPI,10,Delivered
+1373,232,2025-01-02,Website,UPI,10,Delivered
+1374,163,2025-01-02,Marketplace,COD,20,Delivered
+1375,65,2025-01-03,Website,COD,15,Delivered
+1376,267,2025-01-03,Website,COD,0,Delivered
+1377,223,2025-01-03,Mobile App,Net Banking,10,Cancelled
+1378,180,2025-01-03,Mobile App,UPI,10,Delivered
+1379,322,2025-01-04,Website,Credit Card,10,Delivered
+1380,235,2025-01-04,Marketplace,Credit Card,10,Delivered
+1381,266,2025-01-05,Website,Credit Card,0,Returned
+1382,147,2025-01-05,Instagram,UPI,10,Delivered
+1383,74,2025-01-05,Instagram,UPI,0,Delivered
+1384,54,2025-01-05,Instagram,Debit Card,10,Delivered
+1385,39,2025-01-05,Website,UPI,0,Delivered
+1386,389,2025-01-06,Mobile App,COD,0,Delivered
+1387,216,2025-01-06,Mobile App,Debit Card,0,Delivered
+1388,230,2025-01-06,Website,Credit Card,10,Delivered
+1389,128,2025-01-06,Mobile App,UPI,10,Delivered
+1390,293,2025-01-07,Website,UPI,10,Returned
+1391,122,2025-01-07,Mobile App,UPI,0,Delivered
+1392,354,2025-01-07,Marketplace,UPI,10,Delivered
+1393,354,2025-01-07,Website,COD,10,Delivered
+1394,289,2025-01-07,Mobile App,Credit Card,0,Delivered
+1395,53,2025-01-08,Website,Credit Card,5,Delivered
+1396,227,2025-01-08,Marketplace,COD,0,Returned
+1397,324,2025-01-08,Instagram,Credit Card,0,Delivered
+1398,308,2025-01-08,Marketplace,UPI,5,Delivered
+1399,119,2025-01-09,Website,UPI,20,Delivered
+1400,153,2025-01-09,Mobile App,Credit Card,15,Returned
+1401,348,2025-01-09,Website,UPI,0,Delivered
+1402,256,2025-01-09,Mobile App,Credit Card,0,Delivered
+1403,158,2025-01-10,Mobile App,Credit Card,10,Delivered
+1404,309,2025-01-10,Website,UPI,5,Delivered
+1405,328,2025-01-11,Marketplace,Debit Card,10,Delivered
+1406,244,2025-01-11,Website,COD,0,Delivered
+1407,36,2025-01-11,Mobile App,UPI,5,Delivered
+1408,290,2025-01-11,Website,Credit Card,10,Delivered
+1409,195,2025-01-11,Website,UPI,5,Cancelled
+1410,356,2025-01-11,Instagram,Credit Card,15,Delivered
+1411,49,2025-01-12,Mobile App,UPI,5,Delivered
+1412,228,2025-01-12,Instagram,Net Banking,20,Delivered
+1413,230,2025-01-12,Marketplace,UPI,0,Delivered
+1414,356,2025-01-12,Mobile App,Credit Card,0,Delivered
+1415,232,2025-01-13,Marketplace,Credit Card,0,Delivered
+1416,186,2025-01-13,Instagram,COD,0,Delivered
+1417,107,2025-01-13,Marketplace,Credit Card,20,Delivered
+1418,235,2025-01-13,Mobile App,UPI,0,Returned
+1419,189,2025-01-14,Instagram,COD,10,Delivered
+1420,212,2025-01-14,Website,UPI,10,Delivered
+1421,323,2025-01-14,Instagram,UPI,0,Cancelled
+1422,189,2025-01-15,Mobile App,Credit Card,5,Delivered
+1423,153,2025-01-15,Instagram,UPI,0,Delivered
+1424,125,2025-01-15,Website,UPI,0,Delivered
+1425,231,2025-01-15,Marketplace,COD,0,Returned
+1426,14,2025-01-15,Website,UPI,0,Delivered
+1427,190,2025-01-16,Website,Debit Card,5,Delivered
+1428,305,2025-01-16,Website,UPI,0,Delivered
+1429,35,2025-01-17,Website,UPI,0,Delivered
+1430,54,2025-01-17,Instagram,Debit Card,15,Delivered
+1431,271,2025-01-18,Website,Debit Card,10,Delivered
+1432,36,2025-01-18,Website,COD,10,Delivered
+1433,274,2025-01-18,Website,UPI,5,Delivered
+1434,352,2025-01-18,Mobile App,Net Banking,10,Delivered
+1435,274,2025-01-19,Mobile App,UPI,10,Delivered
+1436,223,2025-01-19,Website,UPI,0,Delivered
+1437,369,2025-01-19,Instagram,UPI,0,Delivered
+1438,194,2025-01-19,Website,Credit Card,0,Delivered
+1439,175,2025-01-19,Mobile App,Credit Card,0,Delivered
+1440,366,2025-01-20,Instagram,Credit Card,0,Delivered
+1441,249,2025-01-20,Mobile App,COD,20,Delivered
+1442,319,2025-01-20,Marketplace,UPI,0,Delivered
+1443,177,2025-01-21,Website,UPI,0,Delivered
+1444,181,2025-01-21,Mobile App,COD,0,Delivered
+1445,180,2025-01-21,Website,Credit Card,15,Delivered
+1446,206,2025-01-21,Website,Credit Card,0,Delivered
+1447,362,2025-01-22,Website,Net Banking,20,Delivered
+1448,84,2025-01-22,Website,Credit Card,0,Delivered
+1449,17,2025-01-22,Website,Credit Card,0,Delivered
+1450,177,2025-01-23,Marketplace,UPI,5,Delivered
+1451,129,2025-01-23,Marketplace,Credit Card,0,Returned
+1452,189,2025-01-23,Website,UPI,0,Delivered
+1453,311,2025-01-23,Instagram,Debit Card,10,Delivered
+1454,131,2025-01-23,Instagram,UPI,5,Delivered
+1455,199,2025-01-24,Mobile App,Credit Card,0,Delivered
+1456,166,2025-01-24,Marketplace,Net Banking,0,Delivered
+1457,237,2025-01-25,Mobile App,Credit Card,15,Delivered
+1458,374,2025-01-25,Website,COD,10,Delivered
+1459,184,2025-01-25,Marketplace,Credit Card,0,Returned
+1460,17,2025-01-25,Mobile App,Debit Card,0,Delivered
+1461,206,2025-01-26,Mobile App,COD,10,Delivered
+1462,392,2025-01-26,Website,COD,5,Delivered
+1463,337,2025-01-26,Marketplace,Net Banking,15,Delivered
+1464,143,2025-01-27,Mobile App,Debit Card,0,Delivered
+1465,270,2025-01-27,Website,COD,10,Delivered
+1466,261,2025-01-28,Instagram,COD,5,Delivered
+1467,308,2025-01-28,Mobile App,COD,10,Delivered
+1468,106,2025-01-28,Marketplace,UPI,5,Delivered
+1469,100,2025-01-28,Website,UPI,15,Delivered
+1470,232,2025-01-28,Instagram,COD,10,Delivered
+1471,341,2025-01-29,Mobile App,UPI,0,Delivered
+1472,6,2025-01-29,Website,UPI,0,Delivered
+1473,389,2025-01-30,Instagram,UPI,5,Delivered
+1474,191,2025-01-30,Website,Net Banking,5,Delivered
+1475,35,2025-01-30,Website,UPI,10,Delivered
+1476,358,2025-01-30,Website,UPI,0,Delivered
+1477,100,2025-01-30,Website,UPI,5,Delivered
+1478,113,2025-01-31,Instagram,Credit Card,0,Delivered
+1479,285,2025-01-31,Website,UPI,5,Delivered
+1480,373,2025-01-31,Marketplace,UPI,5,Delivered
+1481,371,2025-01-31,Instagram,COD,5,Delivered
+1482,209,2025-01-31,Marketplace,UPI,0,Delivered
+1483,107,2025-02-01,Mobile App,Credit Card,5,Delivered
+1484,249,2025-02-01,Mobile App,UPI,5,Delivered
+1485,324,2025-02-01,Instagram,UPI,5,Delivered
+1486,285,2025-02-01,Marketplace,COD,0,Returned
+1487,308,2025-02-01,Instagram,COD,0,Delivered
+1488,206,2025-02-01,Mobile App,UPI,5,Delivered
+1489,230,2025-02-01,Website,UPI,5,Delivered
+1490,319,2025-02-02,Marketplace,COD,5,Delivered
+1491,67,2025-02-02,Website,COD,0,Delivered
+1492,367,2025-02-02,Website,Credit Card,20,Delivered
+1493,163,2025-02-03,Marketplace,COD,15,Delivered
+1494,159,2025-02-03,Mobile App,Credit Card,0,Delivered
+1495,351,2025-02-03,Website,UPI,0,Delivered
+1496,243,2025-02-03,Website,UPI,0,Delivered
+1497,3,2025-02-03,Instagram,Net Banking,0,Delivered
+1498,357,2025-02-03,Website,Credit Card,15,Delivered
+1499,42,2025-02-04,Marketplace,UPI,5,Delivered
+1500,306,2025-02-04,Mobile App,Credit Card,0,Delivered
+1501,69,2025-02-04,Website,UPI,5,Delivered
+1502,21,2025-02-05,Website,COD,0,Delivered
+1503,352,2025-02-05,Website,COD,0,Delivered
+1504,311,2025-02-05,Mobile App,COD,10,Delivered
+1505,270,2025-02-05,Instagram,Credit Card,0,Delivered
+1506,24,2025-02-06,Marketplace,UPI,10,Delivered
+1507,130,2025-02-06,Instagram,Credit Card,0,Delivered
+1508,6,2025-02-06,Website,COD,10,Delivered
+1509,173,2025-02-06,Mobile App,UPI,15,Delivered
+1510,370,2025-02-07,Instagram,UPI,0,Returned
+1511,244,2025-02-07,Website,Debit Card,5,Cancelled
+1512,179,2025-02-08,Marketplace,Credit Card,0,Delivered
+1513,392,2025-02-08,Mobile App,Credit Card,0,Delivered
+1514,52,2025-02-08,Marketplace,UPI,10,Delivered
+1515,348,2025-02-08,Instagram,Credit Card,10,Delivered
+1516,327,2025-02-09,Mobile App,UPI,0,Delivered
+1517,42,2025-02-09,Marketplace,Debit Card,5,Delivered
+1518,21,2025-02-09,Instagram,Credit Card,0,Delivered
+1519,68,2025-02-09,Marketplace,UPI,10,Delivered
+1520,202,2025-02-09,Marketplace,Credit Card,15,Delivered
+1521,72,2025-02-10,Website,COD,0,Delivered
+1522,108,2025-02-10,Website,UPI,15,Delivered
+1523,318,2025-02-10,Marketplace,UPI,10,Delivered
+1524,57,2025-02-10,Website,COD,0,Delivered
+1525,293,2025-02-11,Website,UPI,0,Delivered
+1526,373,2025-02-11,Website,Credit Card,0,Delivered
+1527,109,2025-02-11,Mobile App,Debit Card,5,Delivered
+1528,181,2025-02-11,Mobile App,Credit Card,5,Delivered
+1529,382,2025-02-11,Instagram,UPI,0,Delivered
+1530,20,2025-02-12,Instagram,UPI,0,Returned
+1531,363,2025-02-12,Marketplace,Credit Card,5,Delivered
+1532,4,2025-02-13,Instagram,Net Banking,5,Delivered
+1533,107,2025-02-13,Mobile App,UPI,0,Returned
+1534,317,2025-02-13,Marketplace,UPI,0,Delivered
+1535,270,2025-02-14,Instagram,UPI,10,Returned
+1536,109,2025-02-14,Website,COD,5,Cancelled
+1537,266,2025-02-14,Mobile App,Net Banking,5,Delivered
+1538,136,2025-02-14,Mobile App,COD,5,Delivered
+1539,125,2025-02-15,Instagram,Debit Card,0,Delivered
+1540,293,2025-02-15,Website,UPI,10,Delivered
+1541,1,2025-02-15,Mobile App,COD,15,Returned
+1542,177,2025-02-15,Marketplace,COD,0,Delivered
+1543,339,2025-02-15,Mobile App,Debit Card,0,Delivered
+1544,227,2025-02-15,Website,Credit Card,10,Delivered
+1545,199,2025-02-16,Website,Credit Card,0,Delivered
+1546,109,2025-02-16,Marketplace,UPI,0,Delivered
+1547,28,2025-02-16,Website,UPI,0,Delivered
+1548,282,2025-02-16,Mobile App,Credit Card,15,Delivered
+1549,337,2025-02-16,Mobile App,Credit Card,0,Delivered
+1550,150,2025-02-16,Mobile App,Net Banking,0,Delivered
+1551,351,2025-02-17,Marketplace,Debit Card,0,Delivered
+1552,123,2025-02-17,Website,UPI,10,Delivered
+1553,239,2025-02-17,Instagram,Debit Card,5,Delivered
+1554,74,2025-02-18,Mobile App,Debit Card,0,Delivered
+1555,21,2025-02-18,Mobile App,Credit Card,15,Delivered
+1556,139,2025-02-18,Mobile App,UPI,10,Delivered
+1557,88,2025-02-18,Website,COD,15,Delivered
+1558,201,2025-02-18,Mobile App,COD,0,Delivered
+1559,350,2025-02-19,Instagram,COD,5,Delivered
+1560,168,2025-02-20,Marketplace,COD,0,Delivered
+1561,328,2025-02-20,Website,Credit Card,20,Delivered
+1562,74,2025-02-21,Marketplace,Net Banking,0,Delivered
+1563,116,2025-02-21,Website,UPI,0,Delivered
+1564,46,2025-02-21,Website,UPI,0,Delivered
+1565,169,2025-02-21,Instagram,Credit Card,0,Delivered
+1566,251,2025-02-21,Website,UPI,0,Cancelled
+1567,222,2025-02-21,Website,Credit Card,0,Returned
+1568,237,2025-02-22,Website,UPI,0,Delivered
+1569,189,2025-02-22,Website,COD,5,Delivered
+1570,306,2025-02-22,Mobile App,COD,5,Cancelled
+1571,352,2025-02-22,Website,Credit Card,0,Delivered
+1572,186,2025-02-22,Mobile App,COD,0,Cancelled
+1573,364,2025-02-22,Marketplace,Debit Card,0,Delivered
+1574,175,2025-02-23,Instagram,Credit Card,0,Delivered
+1575,380,2025-02-23,Instagram,Debit Card,5,Delivered
+1576,242,2025-02-23,Mobile App,Credit Card,20,Delivered
+1577,262,2025-02-23,Marketplace,Credit Card,10,Delivered
+1578,134,2025-02-23,Marketplace,UPI,20,Delivered
+1579,131,2025-02-23,Instagram,Credit Card,0,Delivered
+1580,178,2025-02-23,Website,COD,0,Returned
+1581,88,2025-02-24,Website,Net Banking,20,Delivered
+1582,99,2025-02-24,Website,UPI,0,Delivered
+1583,99,2025-02-24,Instagram,UPI,0,Delivered
+1584,3,2025-02-24,Instagram,COD,0,Delivered
+1585,280,2025-02-25,Mobile App,Credit Card,5,Delivered
+1586,56,2025-02-26,Mobile App,UPI,5,Delivered
+1587,93,2025-02-26,Marketplace,UPI,0,Delivered
+1588,64,2025-02-26,Marketplace,UPI,0,Delivered
+1589,319,2025-02-26,Marketplace,COD,5,Delivered
+1590,282,2025-02-26,Website,Credit Card,10,Delivered
+1591,304,2025-02-27,Marketplace,Debit Card,5,Delivered
+1592,351,2025-02-28,Website,COD,0,Delivered
+1593,265,2025-02-28,Marketplace,Credit Card,0,Delivered
+1594,31,2025-02-28,Mobile App,Credit Card,20,Delivered
+1595,239,2025-03-01,Marketplace,Debit Card,10,Delivered
+1596,185,2025-03-01,Marketplace,Debit Card,20,Delivered
+1597,181,2025-03-01,Website,UPI,0,Delivered
+1598,290,2025-03-01,Marketplace,UPI,15,Delivered
+1599,309,2025-03-02,Mobile App,COD,10,Delivered
+1600,364,2025-03-02,Marketplace,UPI,0,Delivered
+1601,221,2025-03-02,Mobile App,Credit Card,15,Delivered
+1602,289,2025-03-03,Mobile App,UPI,10,Delivered
+1603,92,2025-03-03,Website,UPI,15,Delivered
+1604,243,2025-03-03,Marketplace,UPI,10,Delivered
+1605,81,2025-03-03,Marketplace,Debit Card,0,Delivered
+1606,285,2025-03-04,Instagram,UPI,15,Delivered
+1607,216,2025-03-04,Instagram,UPI,15,Delivered
+1608,89,2025-03-04,Mobile App,Credit Card,0,Delivered
+1609,345,2025-03-04,Mobile App,UPI,0,Delivered
+1610,214,2025-03-04,Marketplace,Credit Card,0,Delivered
+1611,285,2025-03-05,Website,Credit Card,20,Cancelled
+1612,323,2025-03-05,Website,UPI,20,Delivered
+1613,68,2025-03-05,Mobile App,UPI,0,Delivered
+1614,398,2025-03-05,Instagram,UPI,10,Delivered
+1615,190,2025-03-05,Website,Debit Card,20,Delivered
+1616,147,2025-03-06,Marketplace,Credit Card,0,Delivered
+1617,322,2025-03-06,Mobile App,Credit Card,20,Delivered
+1618,35,2025-03-07,Mobile App,UPI,5,Delivered
+1619,305,2025-03-07,Website,Credit Card,20,Delivered
+1620,139,2025-03-07,Instagram,Net Banking,5,Delivered
+1621,309,2025-03-07,Mobile App,UPI,10,Delivered
+1622,119,2025-03-07,Website,UPI,10,Cancelled
+1623,119,2025-03-08,Instagram,Debit Card,10,Delivered
+1624,293,2025-03-08,Website,COD,20,Delivered
+1625,368,2025-03-08,Marketplace,UPI,15,Delivered
+1626,213,2025-03-08,Website,UPI,5,Delivered
+1627,170,2025-03-08,Instagram,UPI,10,Delivered
+1628,364,2025-03-08,Instagram,UPI,0,Delivered
+1629,52,2025-03-09,Mobile App,UPI,10,Returned
+1630,71,2025-03-09,Mobile App,UPI,20,Delivered
+1631,107,2025-03-09,Website,UPI,20,Delivered
+1632,106,2025-03-09,Instagram,UPI,0,Delivered
+1633,349,2025-03-09,Mobile App,Credit Card,5,Delivered
+1634,60,2025-03-09,Instagram,Net Banking,0,Delivered
+1635,364,2025-03-10,Mobile App,UPI,0,Delivered
+1636,234,2025-03-10,Website,Credit Card,5,Delivered
+1637,252,2025-03-10,Website,UPI,0,Delivered
+1638,369,2025-03-11,Marketplace,UPI,0,Delivered
+1639,230,2025-03-11,Website,Debit Card,0,Delivered
+1640,157,2025-03-11,Mobile App,UPI,10,Cancelled
+1641,295,2025-03-11,Marketplace,Credit Card,5,Delivered
+1642,274,2025-03-11,Website,Debit Card,0,Delivered
+1643,125,2025-03-11,Mobile App,Credit Card,10,Delivered
+1644,251,2025-03-12,Mobile App,UPI,0,Delivered
+1645,222,2025-03-12,Instagram,UPI,0,Returned
+1646,198,2025-03-12,Website,Credit Card,0,Delivered
+1647,36,2025-03-12,Mobile App,Credit Card,0,Delivered
+1648,394,2025-03-13,Mobile App,COD,0,Returned
+1649,227,2025-03-13,Marketplace,Credit Card,0,Delivered
+1650,33,2025-03-13,Website,Credit Card,10,Delivered
+1651,39,2025-03-13,Marketplace,UPI,10,Delivered
+1652,351,2025-03-13,Website,UPI,0,Delivered
+1653,358,2025-03-13,Marketplace,Credit Card,0,Delivered
+1654,170,2025-03-14,Marketplace,Credit Card,0,Delivered
+1655,231,2025-03-14,Mobile App,UPI,0,Delivered
+1656,314,2025-03-14,Mobile App,Debit Card,10,Delivered
+1657,108,2025-03-14,Mobile App,UPI,10,Delivered
+1658,369,2025-03-15,Mobile App,UPI,5,Delivered
+1659,119,2025-03-15,Website,COD,10,Delivered
+1660,212,2025-03-15,Mobile App,UPI,0,Delivered
+1661,178,2025-03-15,Website,UPI,0,Delivered
+1662,20,2025-03-15,Website,UPI,5,Returned
+1663,108,2025-03-16,Instagram,Credit Card,0,Delivered
+1664,282,2025-03-16,Website,UPI,15,Delivered
+1665,165,2025-03-16,Website,COD,10,Returned
+1666,17,2025-03-16,Website,Debit Card,20,Delivered
+1667,328,2025-03-16,Marketplace,Debit Card,15,Delivered
+1668,241,2025-03-16,Marketplace,UPI,5,Delivered
+1669,357,2025-03-16,Mobile App,UPI,15,Returned
+1670,254,2025-03-17,Mobile App,COD,0,Delivered
+1671,345,2025-03-17,Mobile App,COD,10,Returned
+1672,348,2025-03-17,Marketplace,UPI,10,Delivered
+1673,54,2025-03-17,Mobile App,UPI,10,Delivered
+1674,188,2025-03-18,Instagram,UPI,0,Delivered
+1675,165,2025-03-18,Mobile App,UPI,0,Delivered
+1676,237,2025-03-18,Instagram,UPI,15,Delivered
+1677,17,2025-03-18,Website,COD,5,Delivered
+1678,53,2025-03-18,Mobile App,COD,0,Delivered
+1679,158,2025-03-19,Website,COD,10,Delivered
+1680,235,2025-03-19,Instagram,UPI,0,Delivered
+1681,64,2025-03-19,Website,Credit Card,0,Delivered
+1682,307,2025-03-19,Website,UPI,0,Delivered
+1683,117,2025-03-19,Mobile App,UPI,5,Delivered
+1684,142,2025-03-20,Website,UPI,10,Delivered
+1685,166,2025-03-20,Instagram,UPI,10,Returned
+1686,86,2025-03-20,Instagram,Credit Card,15,Delivered
+1687,84,2025-03-20,Mobile App,UPI,5,Delivered
+1688,325,2025-03-21,Mobile App,Credit Card,10,Delivered
+1689,90,2025-03-21,Mobile App,Debit Card,0,Delivered
+1690,108,2025-03-21,Website,UPI,0,Delivered
+1691,209,2025-03-22,Instagram,COD,15,Delivered
+1692,304,2025-03-22,Mobile App,Credit Card,5,Delivered
+1693,17,2025-03-22,Website,COD,0,Cancelled
+1694,120,2025-03-22,Mobile App,UPI,0,Delivered
+1695,134,2025-03-22,Website,COD,15,Delivered
+1696,309,2025-03-22,Marketplace,Credit Card,10,Delivered
+1697,345,2025-03-23,Instagram,COD,15,Delivered
+1698,150,2025-03-23,Website,Credit Card,15,Returned
+1699,299,2025-03-23,Website,Credit Card,0,Delivered
+1700,74,2025-03-23,Instagram,COD,10,Delivered
+1701,17,2025-03-23,Mobile App,COD,5,Returned
+1702,125,2025-03-23,Website,COD,5,Returned
+1703,327,2025-03-23,Marketplace,UPI,15,Delivered
+1704,398,2025-03-23,Mobile App,Credit Card,0,Delivered
+1705,293,2025-03-24,Mobile App,Debit Card,10,Delivered
+1706,376,2025-03-24,Mobile App,COD,0,Delivered
+1707,221,2025-03-24,Marketplace,Credit Card,5,Delivered
+1708,224,2025-03-24,Website,UPI,5,Delivered
+1709,189,2025-03-25,Mobile App,Debit Card,15,Delivered
+1710,375,2025-03-25,Marketplace,UPI,5,Delivered
+1711,398,2025-03-25,Website,UPI,10,Delivered
+1712,125,2025-03-25,Instagram,Credit Card,0,Cancelled
+1713,134,2025-03-26,Website,COD,0,Returned
+1714,140,2025-03-26,Marketplace,COD,0,Delivered
+1715,254,2025-03-26,Mobile App,COD,0,Delivered
+1716,1,2025-03-26,Website,Debit Card,10,Delivered
+1717,262,2025-03-27,Mobile App,UPI,20,Delivered
+1718,141,2025-03-27,Marketplace,Net Banking,10,Delivered
+1719,358,2025-03-27,Marketplace,COD,10,Delivered
+1720,22,2025-03-27,Website,COD,0,Delivered
+1721,98,2025-03-28,Mobile App,COD,0,Delivered
+1722,297,2025-03-28,Marketplace,UPI,0,Cancelled
+1723,251,2025-03-28,Mobile App,UPI,5,Delivered
+1724,134,2025-03-29,Website,UPI,0,Delivered
+1725,289,2025-03-29,Website,UPI,10,Delivered
+1726,170,2025-03-29,Mobile App,UPI,5,Returned
+1727,77,2025-03-29,Website,COD,15,Returned
+1728,49,2025-03-29,Marketplace,COD,0,Delivered
+1729,314,2025-03-29,Instagram,Credit Card,5,Delivered
+1730,237,2025-03-29,Website,Credit Card,0,Delivered
+1731,299,2025-03-29,Website,Credit Card,5,Delivered
+1732,266,2025-03-30,Website,UPI,0,Delivered
+1733,322,2025-03-30,Marketplace,Debit Card,15,Delivered
+1734,191,2025-03-30,Website,COD,0,Delivered
+1735,60,2025-03-31,Marketplace,UPI,0,Delivered
+1736,374,2025-03-31,Mobile App,UPI,15,Returned
+1737,46,2025-03-31,Website,UPI,10,Delivered
+1738,35,2025-03-31,Website,Credit Card,0,Delivered
+1739,122,2025-04-01,Mobile App,UPI,15,Delivered
+1740,188,2025-04-01,Marketplace,Credit Card,0,Delivered
+1741,21,2025-04-01,Instagram,UPI,5,Delivered
+1742,246,2025-04-02,Website,Debit Card,5,Delivered
+1743,377,2025-04-02,Instagram,UPI,10,Delivered
+1744,270,2025-04-02,Marketplace,COD,0,Delivered
+1745,84,2025-04-02,Marketplace,UPI,0,Delivered
+1746,53,2025-04-02,Marketplace,UPI,5,Delivered
+1747,74,2025-04-03,Instagram,COD,0,Delivered
+1748,22,2025-04-03,Website,Credit Card,10,Delivered
+1749,363,2025-04-03,Marketplace,UPI,15,Delivered
+1750,124,2025-04-03,Marketplace,UPI,5,Delivered
+1751,150,2025-04-03,Website,COD,0,Delivered
+1752,345,2025-04-03,Marketplace,UPI,10,Delivered
+1753,92,2025-04-03,Website,UPI,5,Cancelled
+1754,30,2025-04-04,Mobile App,Debit Card,0,Delivered
+1755,207,2025-04-04,Website,COD,0,Delivered
+1756,389,2025-04-04,Mobile App,UPI,0,Delivered
+1757,295,2025-04-04,Mobile App,UPI,0,Delivered
+1758,266,2025-04-05,Mobile App,UPI,10,Returned
+1759,361,2025-04-05,Mobile App,UPI,10,Delivered
+1760,30,2025-04-05,Instagram,COD,15,Delivered
+1761,308,2025-04-05,Marketplace,Debit Card,0,Delivered
+1762,186,2025-04-05,Website,COD,10,Returned
+1763,219,2025-04-05,Mobile App,UPI,20,Delivered
+1764,100,2025-04-06,Mobile App,UPI,0,Delivered
+1765,77,2025-04-06,Website,UPI,0,Delivered
+1766,31,2025-04-06,Mobile App,UPI,10,Delivered
+1767,128,2025-04-06,Mobile App,COD,0,Delivered
+1768,239,2025-04-07,Mobile App,COD,0,Delivered
+1769,91,2025-04-07,Instagram,COD,10,Delivered
+1770,48,2025-04-07,Mobile App,UPI,5,Delivered
+1771,157,2025-04-07,Mobile App,COD,0,Delivered
+1772,84,2025-04-08,Marketplace,UPI,5,Delivered
+1773,289,2025-04-08,Website,UPI,0,Cancelled
+1774,24,2025-04-09,Instagram,UPI,5,Cancelled
+1775,157,2025-04-09,Website,UPI,10,Delivered
+1776,106,2025-04-09,Website,UPI,20,Cancelled
+1777,296,2025-04-09,Website,UPI,0,Delivered
+1778,191,2025-04-09,Marketplace,Debit Card,10,Delivered
+1779,25,2025-04-09,Website,UPI,0,Delivered
+1780,290,2025-04-10,Mobile App,Debit Card,0,Delivered
+1781,99,2025-04-10,Website,UPI,0,Delivered
+1782,362,2025-04-11,Website,UPI,10,Delivered
+1783,65,2025-04-11,Website,COD,10,Delivered
+1784,30,2025-04-11,Instagram,Credit Card,0,Delivered
+1785,184,2025-04-11,Website,COD,10,Delivered
+1786,6,2025-04-12,Mobile App,UPI,0,Delivered
+1787,97,2025-04-12,Website,UPI,5,Cancelled
+1788,58,2025-04-12,Website,Debit Card,15,Delivered
+1789,131,2025-04-12,Mobile App,UPI,10,Delivered
+1790,340,2025-04-12,Mobile App,UPI,5,Delivered
+1791,251,2025-04-12,Website,UPI,0,Delivered
+1792,311,2025-04-13,Mobile App,UPI,10,Delivered
+1793,373,2025-04-13,Instagram,UPI,5,Delivered
+1794,65,2025-04-13,Marketplace,UPI,0,Delivered
+1795,142,2025-04-13,Mobile App,Net Banking,5,Delivered
+1796,367,2025-04-13,Website,UPI,20,Delivered
+1797,7,2025-04-13,Website,Net Banking,0,Delivered
+1798,147,2025-04-14,Instagram,UPI,0,Delivered
+1799,293,2025-04-14,Mobile App,Credit Card,5,Cancelled
+1800,294,2025-04-14,Instagram,UPI,20,Delivered
+1801,169,2025-04-14,Website,Credit Card,15,Delivered
+1802,390,2025-04-15,Instagram,UPI,5,Delivered
+1803,307,2025-04-15,Mobile App,UPI,0,Returned
+1804,320,2025-04-15,Website,UPI,15,Delivered
+1805,223,2025-04-16,Website,UPI,5,Delivered
+1806,297,2025-04-16,Website,UPI,15,Delivered
+1807,294,2025-04-16,Mobile App,UPI,0,Returned
+1808,388,2025-04-17,Marketplace,Debit Card,0,Delivered
+1809,206,2025-04-17,Marketplace,UPI,15,Delivered
+1810,99,2025-04-17,Mobile App,COD,0,Delivered
+1811,245,2025-04-17,Marketplace,UPI,0,Delivered
+1812,395,2025-04-17,Instagram,UPI,0,Delivered
+1813,231,2025-04-18,Website,UPI,10,Delivered
+1814,125,2025-04-18,Website,UPI,0,Returned
+1815,64,2025-04-18,Website,Debit Card,10,Delivered
+1816,357,2025-04-19,Instagram,UPI,0,Delivered
+1817,128,2025-04-19,Marketplace,Net Banking,0,Delivered
+1818,168,2025-04-19,Website,Credit Card,10,Delivered
+1819,109,2025-04-19,Website,UPI,20,Returned
+1820,131,2025-04-20,Mobile App,Net Banking,5,Delivered
+1821,112,2025-04-20,Marketplace,UPI,0,Delivered
+1822,209,2025-04-20,Mobile App,COD,10,Delivered
+1823,366,2025-04-20,Website,Credit Card,20,Delivered
+1824,147,2025-04-20,Website,UPI,0,Delivered
+1825,308,2025-04-21,Marketplace,Credit Card,10,Delivered
+1826,285,2025-04-21,Instagram,UPI,0,Delivered
+1827,327,2025-04-21,Website,COD,0,Delivered
+1828,361,2025-04-21,Marketplace,Debit Card,5,Delivered
+1829,74,2025-04-21,Marketplace,UPI,0,Delivered
+1830,134,2025-04-21,Website,UPI,10,Returned
+1831,105,2025-04-22,Website,Debit Card,15,Delivered
+1832,35,2025-04-22,Website,COD,0,Cancelled
+1833,170,2025-04-22,Website,Debit Card,10,Delivered
+1834,270,2025-04-22,Marketplace,UPI,20,Delivered
+1835,201,2025-04-22,Marketplace,Credit Card,10,Delivered
+1836,158,2025-04-23,Website,UPI,0,Delivered
+1837,311,2025-04-23,Mobile App,UPI,0,Delivered
+1838,81,2025-04-23,Instagram,Credit Card,10,Delivered
+1839,265,2025-04-23,Website,Credit Card,0,Delivered
+1840,294,2025-04-23,Mobile App,UPI,15,Delivered
+1841,385,2025-04-24,Mobile App,UPI,15,Delivered
+1842,206,2025-04-24,Website,COD,0,Delivered
+1843,26,2025-04-24,Instagram,UPI,10,Delivered
+1844,327,2025-04-24,Website,COD,10,Delivered
+1845,250,2025-04-24,Instagram,COD,15,Returned
+1846,208,2025-04-24,Marketplace,UPI,0,Delivered
+1847,184,2025-04-25,Marketplace,UPI,10,Delivered
+1848,205,2025-04-25,Mobile App,UPI,0,Delivered
+1849,163,2025-04-25,Website,UPI,15,Delivered
+1850,282,2025-04-25,Instagram,UPI,10,Delivered
+1851,195,2025-04-25,Marketplace,UPI,10,Delivered
+1852,327,2025-04-25,Website,UPI,10,Delivered
+1853,314,2025-04-26,Marketplace,UPI,0,Delivered
+1854,235,2025-04-26,Mobile App,UPI,15,Delivered
+1855,305,2025-04-26,Instagram,COD,0,Delivered
+1856,43,2025-04-26,Marketplace,Credit Card,0,Delivered
+1857,345,2025-04-26,Website,Net Banking,5,Delivered
+1858,118,2025-04-27,Mobile App,UPI,10,Delivered
+1859,209,2025-04-27,Marketplace,UPI,0,Delivered
+1860,106,2025-04-27,Mobile App,UPI,10,Delivered
+1861,281,2025-04-27,Mobile App,Debit Card,0,Delivered
+1862,186,2025-04-27,Mobile App,COD,20,Delivered
+1863,252,2025-04-28,Instagram,UPI,0,Cancelled
+1864,58,2025-04-28,Marketplace,UPI,15,Delivered
+1865,223,2025-04-28,Mobile App,UPI,5,Delivered
+1866,169,2025-04-29,Marketplace,Credit Card,0,Delivered
+1867,317,2025-04-29,Instagram,UPI,10,Delivered
+1868,251,2025-04-30,Instagram,Credit Card,5,Delivered
+1869,112,2025-04-30,Mobile App,Credit Card,0,Delivered
+1870,294,2025-04-30,Marketplace,UPI,5,Delivered
+1871,380,2025-05-01,Website,Net Banking,15,Delivered
+1872,290,2025-05-01,Mobile App,COD,5,Delivered
+1873,232,2025-05-01,Instagram,COD,0,Delivered
+1874,194,2025-05-01,Mobile App,UPI,0,Delivered
+1875,168,2025-05-01,Marketplace,UPI,0,Delivered
+1876,380,2025-05-01,Website,Debit Card,0,Delivered
+1877,341,2025-05-01,Website,COD,0,Delivered
+1878,296,2025-05-02,Instagram,Credit Card,5,Delivered
+1879,339,2025-05-02,Website,Debit Card,5,Cancelled
+1880,345,2025-05-02,Marketplace,COD,10,Cancelled
+1881,122,2025-05-03,Mobile App,UPI,10,Delivered
+1882,397,2025-05-03,Marketplace,Credit Card,0,Delivered
+1883,226,2025-05-03,Website,Net Banking,0,Delivered
+1884,24,2025-05-03,Website,UPI,5,Delivered
+1885,135,2025-05-03,Marketplace,UPI,0,Delivered
+1886,373,2025-05-03,Marketplace,UPI,0,Delivered
+1887,39,2025-05-03,Mobile App,UPI,5,Delivered
+1888,53,2025-05-04,Mobile App,UPI,0,Delivered
+1889,232,2025-05-04,Mobile App,COD,5,Delivered
+1890,251,2025-05-04,Website,UPI,15,Delivered
+1891,352,2025-05-04,Mobile App,UPI,0,Delivered
+1892,90,2025-05-04,Mobile App,COD,0,Delivered
+1893,186,2025-05-04,Website,UPI,0,Delivered
+1894,69,2025-05-05,Website,Debit Card,0,Delivered
+1895,358,2025-05-05,Marketplace,Credit Card,5,Delivered
+1896,174,2025-05-05,Marketplace,UPI,0,Delivered
+1897,80,2025-05-06,Mobile App,Debit Card,20,Delivered
+1898,137,2025-05-06,Marketplace,COD,10,Delivered
+1899,296,2025-05-06,Website,COD,0,Delivered
+1900,298,2025-05-06,Instagram,Credit Card,0,Delivered
+1901,216,2025-05-07,Instagram,UPI,5,Delivered
+1902,77,2025-05-07,Mobile App,UPI,10,Delivered
+1903,304,2025-05-08,Website,UPI,5,Delivered
+1904,119,2025-05-08,Instagram,UPI,0,Delivered
+1905,282,2025-05-08,Mobile App,COD,0,Returned
+1906,229,2025-05-08,Marketplace,UPI,5,Delivered
+1907,27,2025-05-08,Website,UPI,0,Delivered
+1908,138,2025-05-08,Mobile App,UPI,0,Delivered
+1909,281,2025-05-09,Marketplace,COD,0,Delivered
+1910,281,2025-05-09,Marketplace,UPI,20,Delivered
+1911,234,2025-05-09,Website,Credit Card,0,Delivered
+1912,105,2025-05-09,Marketplace,Debit Card,0,Delivered
+1913,174,2025-05-09,Website,UPI,0,Delivered
+1914,194,2025-05-10,Website,Debit Card,5,Delivered
+1915,23,2025-05-10,Mobile App,Debit Card,10,Delivered
+1916,287,2025-05-10,Marketplace,Credit Card,15,Delivered
+1917,126,2025-05-11,Website,UPI,5,Delivered
+1918,118,2025-05-11,Website,UPI,10,Delivered
+1919,116,2025-05-11,Mobile App,UPI,5,Delivered
+1920,383,2025-05-11,Website,Debit Card,0,Delivered
+1921,226,2025-05-12,Website,COD,5,Delivered
+1922,398,2025-05-12,Mobile App,COD,0,Delivered
+1923,271,2025-05-12,Instagram,UPI,5,Delivered
+1924,232,2025-05-13,Marketplace,UPI,0,Delivered
+1925,46,2025-05-13,Mobile App,UPI,10,Delivered
+1926,389,2025-05-14,Marketplace,UPI,5,Delivered
+1927,159,2025-05-14,Mobile App,COD,0,Delivered
+1928,284,2025-05-14,Mobile App,UPI,0,Delivered
+1929,89,2025-05-15,Mobile App,UPI,10,Delivered
+1930,345,2025-05-16,Mobile App,UPI,0,Delivered
+1931,274,2025-05-16,Website,Debit Card,0,Delivered
+1932,209,2025-05-16,Instagram,Credit Card,10,Delivered
+1933,175,2025-05-16,Mobile App,Credit Card,10,Delivered
+1934,48,2025-05-17,Mobile App,UPI,15,Delivered
+1935,56,2025-05-17,Instagram,Credit Card,5,Delivered
+1936,138,2025-05-17,Instagram,UPI,0,Delivered
+1937,397,2025-05-17,Mobile App,Net Banking,0,Delivered
+1938,14,2025-05-18,Website,UPI,5,Delivered
+1939,42,2025-05-18,Mobile App,COD,0,Cancelled
+1940,180,2025-05-18,Website,COD,10,Delivered
+1941,363,2025-05-18,Website,Credit Card,15,Cancelled
+1942,356,2025-05-18,Mobile App,COD,15,Returned
+1943,100,2025-05-19,Marketplace,Debit Card,0,Cancelled
+1944,31,2025-05-19,Website,Credit Card,5,Delivered
+1945,269,2025-05-20,Mobile App,Debit Card,10,Delivered
+1946,385,2025-05-20,Marketplace,Net Banking,0,Delivered
+1947,79,2025-05-20,Instagram,COD,0,Returned
+1948,119,2025-05-21,Marketplace,UPI,10,Delivered
+1949,248,2025-05-21,Mobile App,UPI,0,Delivered
+1950,195,2025-05-21,Marketplace,COD,0,Delivered
+1951,237,2025-05-21,Website,UPI,15,Delivered
+1952,165,2025-05-22,Mobile App,Credit Card,0,Delivered
+1953,146,2025-05-22,Instagram,UPI,5,Returned
+1954,162,2025-05-22,Marketplace,COD,0,Delivered
+1955,327,2025-05-22,Website,UPI,15,Delivered
+1956,306,2025-05-23,Mobile App,Credit Card,5,Delivered
+1957,319,2025-05-23,Marketplace,COD,10,Delivered
+1958,266,2025-05-24,Mobile App,UPI,0,Delivered
+1959,400,2025-05-24,Instagram,UPI,15,Delivered
+1960,296,2025-05-24,Mobile App,UPI,10,Cancelled
+1961,349,2025-05-24,Marketplace,COD,15,Delivered
+1962,128,2025-05-24,Marketplace,Credit Card,0,Delivered
+1963,307,2025-05-25,Marketplace,UPI,5,Delivered
+1964,150,2025-05-25,Marketplace,COD,10,Delivered
+1965,383,2025-05-25,Mobile App,UPI,5,Delivered
+1966,214,2025-05-25,Marketplace,UPI,0,Delivered
+1967,153,2025-05-26,Website,COD,20,Delivered
+1968,366,2025-05-26,Marketplace,Net Banking,0,Delivered
+1969,56,2025-05-26,Mobile App,UPI,5,Cancelled
+1970,219,2025-05-26,Marketplace,UPI,10,Delivered
+1971,202,2025-05-26,Mobile App,UPI,0,Delivered
+1972,9,2025-05-27,Website,Credit Card,0,Delivered
+1973,120,2025-05-27,Marketplace,UPI,0,Delivered
+1974,195,2025-05-27,Instagram,COD,15,Delivered
+1975,352,2025-05-28,Mobile App,UPI,0,Delivered
+1976,23,2025-05-28,Marketplace,Debit Card,15,Delivered
+1977,112,2025-05-28,Marketplace,Credit Card,0,Delivered
+1978,48,2025-05-28,Mobile App,UPI,0,Delivered
+1979,170,2025-05-28,Website,COD,0,Delivered
+1980,386,2025-05-29,Website,COD,0,Delivered
+1981,362,2025-05-29,Website,UPI,5,Delivered
+1982,157,2025-05-29,Mobile App,COD,5,Delivered
+1983,221,2025-05-29,Website,COD,0,Delivered
+1984,133,2025-05-30,Website,UPI,20,Delivered
+1985,398,2025-05-30,Mobile App,Net Banking,0,Delivered
+1986,184,2025-05-30,Marketplace,UPI,0,Delivered
+1987,221,2025-05-31,Mobile App,UPI,10,Delivered
+1988,108,2025-05-31,Website,UPI,5,Delivered
+1989,181,2025-05-31,Website,Debit Card,20,Returned
+1990,52,2025-05-31,Mobile App,UPI,0,Returned
+1991,317,2025-06-01,Marketplace,Net Banking,0,Delivered
+1992,3,2025-06-01,Mobile App,Net Banking,0,Delivered
+1993,293,2025-06-01,Website,COD,5,Returned
+1994,57,2025-06-01,Mobile App,UPI,10,Delivered
+1995,83,2025-06-01,Marketplace,UPI,10,Delivered
+1996,299,2025-06-02,Instagram,Credit Card,10,Delivered
+1997,28,2025-06-02,Website,Net Banking,0,Delivered
+1998,388,2025-06-02,Marketplace,UPI,0,Delivered
+1999,368,2025-06-03,Website,Credit Card,10,Delivered
+2000,184,2025-06-03,Instagram,UPI,0,Delivered
+2001,205,2025-06-03,Instagram,UPI,0,Delivered
+2002,357,2025-06-03,Mobile App,UPI,0,Delivered
+2003,13,2025-06-03,Website,UPI,20,Delivered
+2004,150,2025-06-04,Instagram,Credit Card,0,Delivered
+2005,286,2025-06-04,Mobile App,UPI,0,Delivered
+2006,374,2025-06-04,Website,Debit Card,20,Delivered
+2007,306,2025-06-05,Mobile App,UPI,5,Delivered
+2008,282,2025-06-05,Marketplace,COD,10,Delivered
+2009,364,2025-06-05,Website,COD,10,Delivered
+2010,158,2025-06-06,Marketplace,Debit Card,10,Delivered
+2011,69,2025-06-06,Mobile App,UPI,5,Delivered
+2012,393,2025-06-07,Instagram,UPI,10,Delivered
+2013,252,2025-06-07,Marketplace,COD,5,Delivered
+2014,108,2025-06-07,Website,Credit Card,0,Delivered
+2015,65,2025-06-07,Website,Net Banking,0,Delivered
+2016,189,2025-06-07,Website,Net Banking,5,Returned
+2017,212,2025-06-08,Marketplace,Debit Card,0,Delivered
+2018,88,2025-06-08,Website,Debit Card,0,Delivered
+2019,280,2025-06-08,Marketplace,Debit Card,0,Delivered
+2020,49,2025-06-08,Mobile App,Debit Card,10,Cancelled
+2021,20,2025-06-08,Marketplace,UPI,0,Delivered
+2022,202,2025-06-09,Website,Credit Card,0,Delivered
+2023,34,2025-06-10,Website,Credit Card,0,Delivered
+2024,112,2025-06-10,Mobile App,UPI,0,Delivered
+2025,229,2025-06-10,Mobile App,COD,15,Delivered
+2026,316,2025-06-10,Mobile App,UPI,5,Delivered
+2027,180,2025-06-11,Marketplace,Credit Card,0,Delivered
+2028,202,2025-06-11,Website,UPI,10,Delivered
+2029,190,2025-06-11,Website,UPI,0,Delivered
+2030,72,2025-06-12,Website,UPI,15,Delivered
+2031,290,2025-06-12,Mobile App,Debit Card,15,Delivered
+2032,109,2025-06-12,Website,Debit Card,10,Delivered
+2033,98,2025-06-13,Marketplace,UPI,5,Delivered
+2034,246,2025-06-13,Mobile App,UPI,0,Delivered
+2035,174,2025-06-14,Mobile App,COD,0,Delivered
+2036,245,2025-06-14,Website,Debit Card,0,Cancelled
+2037,350,2025-06-14,Website,COD,0,Delivered
+2038,205,2025-06-14,Instagram,Debit Card,0,Delivered
+2039,228,2025-06-14,Marketplace,UPI,20,Delivered
+2040,337,2025-06-14,Instagram,UPI,5,Delivered
+2041,207,2025-06-15,Website,UPI,0,Delivered
+2042,188,2025-06-15,Website,COD,10,Delivered
+2043,327,2025-06-15,Instagram,COD,10,Delivered
+2044,28,2025-06-15,Marketplace,UPI,15,Delivered
+2045,29,2025-06-16,Mobile App,Debit Card,0,Delivered
+2046,39,2025-06-16,Marketplace,Credit Card,5,Delivered
+2047,135,2025-06-16,Mobile App,Credit Card,5,Delivered
+2048,9,2025-06-16,Mobile App,Credit Card,5,Delivered
+2049,400,2025-06-16,Instagram,UPI,10,Delivered
+2050,27,2025-06-17,Marketplace,Net Banking,0,Delivered
+2051,144,2025-06-17,Website,Debit Card,10,Delivered
+2052,196,2025-06-17,Website,COD,10,Delivered
+2053,89,2025-06-17,Marketplace,UPI,5,Delivered
+2054,269,2025-06-18,Website,Credit Card,10,Delivered
+2055,327,2025-06-18,Website,COD,0,Delivered
+2056,54,2025-06-18,Mobile App,Net Banking,5,Delivered
+2057,216,2025-06-19,Mobile App,UPI,5,Delivered
+2058,18,2025-06-19,Marketplace,COD,0,Delivered
+2059,173,2025-06-19,Marketplace,Debit Card,5,Delivered
+2060,282,2025-06-20,Mobile App,UPI,0,Delivered
+2061,39,2025-06-20,Website,Credit Card,5,Delivered
+2062,348,2025-06-20,Website,UPI,5,Delivered
+2063,99,2025-06-21,Website,UPI,0,Delivered
+2064,345,2025-06-21,Marketplace,Credit Card,0,Delivered
+2065,89,2025-06-21,Marketplace,UPI,10,Cancelled
+2066,374,2025-06-21,Website,UPI,5,Delivered
+2067,320,2025-06-22,Instagram,COD,10,Delivered
+2068,309,2025-06-22,Website,Credit Card,0,Delivered
+2069,8,2025-06-22,Marketplace,UPI,10,Delivered
+2070,197,2025-06-22,Mobile App,COD,0,Delivered
+2071,174,2025-06-23,Website,UPI,20,Delivered
+2072,304,2025-06-23,Marketplace,Debit Card,10,Delivered
+2073,331,2025-06-23,Mobile App,Debit Card,5,Delivered
+2074,187,2025-06-23,Marketplace,Credit Card,0,Delivered
+2075,143,2025-06-24,Marketplace,UPI,15,Delivered
+2076,130,2025-06-24,Marketplace,UPI,15,Delivered
+2077,144,2025-06-24,Website,UPI,5,Delivered
+2078,188,2025-06-25,Mobile App,Net Banking,0,Delivered
+2079,41,2025-06-25,Mobile App,Credit Card,0,Delivered
+2080,130,2025-06-25,Website,COD,10,Delivered
+2081,392,2025-06-25,Mobile App,Credit Card,10,Delivered
+2082,274,2025-06-25,Website,UPI,0,Delivered
+2083,178,2025-06-25,Marketplace,UPI,10,Delivered
+2084,348,2025-06-26,Website,Credit Card,0,Cancelled
+2085,19,2025-06-26,Marketplace,UPI,15,Delivered
+2086,232,2025-06-26,Mobile App,UPI,10,Delivered
+2087,195,2025-06-26,Instagram,COD,0,Delivered
+2088,25,2025-06-26,Website,Net Banking,10,Delivered
+2089,295,2025-06-27,Marketplace,Credit Card,0,Delivered
+2090,18,2025-06-27,Mobile App,UPI,10,Delivered
+2091,231,2025-06-27,Marketplace,UPI,0,Delivered
+2092,221,2025-06-27,Instagram,Credit Card,15,Delivered
+2093,164,2025-06-28,Marketplace,UPI,0,Delivered
+2094,37,2025-06-28,Instagram,Net Banking,10,Delivered
+2095,340,2025-06-28,Mobile App,UPI,5,Delivered
+2096,222,2025-06-29,Website,Debit Card,10,Delivered
+2097,363,2025-06-29,Mobile App,Credit Card,5,Delivered
+2098,9,2025-06-29,Mobile App,UPI,0,Delivered
+2099,326,2025-06-29,Marketplace,Credit Card,0,Delivered
+2100,142,2025-06-30,Mobile App,Credit Card,0,Delivered
+2101,324,2025-06-30,Website,UPI,0,Delivered
+2102,3,2025-06-30,Website,UPI,5,Delivered
+2103,117,2025-06-30,Marketplace,UPI,0,Delivered
+2104,18,2025-07-01,Mobile App,Credit Card,0,Returned
+2105,58,2025-07-01,Marketplace,UPI,15,Delivered
+2106,24,2025-07-01,Website,UPI,15,Delivered
+2107,91,2025-07-01,Instagram,UPI,10,Delivered
+2108,159,2025-07-01,Mobile App,UPI,5,Delivered
+2109,369,2025-07-02,Website,COD,0,Delivered
+2110,185,2025-07-02,Instagram,UPI,0,Delivered
+2111,122,2025-07-02,Website,Debit Card,10,Delivered
+2112,294,2025-07-02,Mobile App,COD,0,Delivered
+2113,248,2025-07-02,Marketplace,UPI,10,Delivered
+2114,153,2025-07-03,Marketplace,Credit Card,5,Delivered
+2115,227,2025-07-03,Website,UPI,5,Delivered
+2116,168,2025-07-03,Marketplace,UPI,10,Delivered
+2117,249,2025-07-03,Website,Credit Card,10,Delivered
+2118,237,2025-07-03,Mobile App,Credit Card,0,Delivered
+2119,255,2025-07-03,Marketplace,Debit Card,5,Delivered
+2120,262,2025-07-04,Website,Credit Card,0,Delivered
+2121,374,2025-07-04,Instagram,COD,10,Returned
+2122,311,2025-07-04,Website,UPI,10,Delivered
+2123,84,2025-07-05,Mobile App,Credit Card,0,Delivered
+2124,257,2025-07-05,Marketplace,Net Banking,15,Cancelled
+2125,124,2025-07-05,Mobile App,UPI,10,Delivered
+2126,357,2025-07-05,Marketplace,Credit Card,0,Delivered
+2127,120,2025-07-05,Mobile App,Credit Card,10,Delivered
+2128,68,2025-07-06,Website,UPI,15,Delivered
+2129,338,2025-07-06,Website,UPI,5,Cancelled
+2130,358,2025-07-06,Website,COD,0,Delivered
+2131,173,2025-07-06,Website,Credit Card,10,Delivered
+2132,42,2025-07-06,Marketplace,COD,0,Delivered
+2133,101,2025-07-06,Marketplace,UPI,5,Delivered
+2134,331,2025-07-07,Marketplace,Debit Card,0,Delivered
+2135,123,2025-07-07,Website,COD,15,Delivered
+2136,195,2025-07-07,Website,UPI,10,Delivered
+2137,331,2025-07-07,Mobile App,UPI,10,Delivered
+2138,188,2025-07-08,Marketplace,COD,20,Delivered
+2139,400,2025-07-08,Website,UPI,0,Delivered
+2140,263,2025-07-08,Mobile App,Credit Card,5,Delivered
+2141,46,2025-07-08,Website,Credit Card,0,Delivered
+2142,389,2025-07-09,Website,UPI,15,Returned
+2143,30,2025-07-09,Mobile App,Debit Card,20,Delivered
+2144,205,2025-07-09,Website,UPI,10,Delivered
+2145,37,2025-07-10,Marketplace,Credit Card,5,Delivered
+2146,255,2025-07-10,Mobile App,UPI,5,Delivered
+2147,360,2025-07-10,Marketplace,Debit Card,0,Delivered
+2148,52,2025-07-10,Mobile App,UPI,0,Delivered
+2149,6,2025-07-11,Mobile App,Debit Card,0,Delivered
+2150,311,2025-07-11,Mobile App,Net Banking,15,Delivered
+2151,246,2025-07-11,Mobile App,Credit Card,10,Delivered
+2152,307,2025-07-11,Instagram,UPI,15,Delivered
+2153,108,2025-07-11,Mobile App,UPI,5,Delivered
+2154,23,2025-07-11,Instagram,Credit Card,5,Delivered
+2155,19,2025-07-12,Marketplace,COD,0,Delivered
+2156,262,2025-07-12,Website,Credit Card,15,Delivered
+2157,79,2025-07-12,Marketplace,UPI,0,Delivered
+2158,199,2025-07-12,Website,UPI,0,Delivered
+2159,274,2025-07-12,Website,COD,0,Cancelled
+2160,371,2025-07-12,Website,UPI,10,Delivered
+2161,91,2025-07-13,Website,COD,5,Delivered
+2162,242,2025-07-13,Mobile App,UPI,10,Delivered
+2163,1,2025-07-13,Marketplace,Credit Card,0,Delivered
+2164,9,2025-07-13,Mobile App,Debit Card,0,Delivered
+2165,266,2025-07-13,Marketplace,UPI,0,Delivered
+2166,39,2025-07-13,Website,COD,0,Delivered
+2167,238,2025-07-14,Website,UPI,10,Delivered
+2168,152,2025-07-14,Website,UPI,0,Cancelled
+2169,201,2025-07-14,Website,COD,0,Returned
+2170,230,2025-07-14,Website,Credit Card,10,Cancelled
+2171,130,2025-07-14,Website,UPI,10,Delivered
+2172,49,2025-07-14,Website,Credit Card,10,Delivered
+2173,88,2025-07-15,Mobile App,UPI,15,Delivered
+2174,88,2025-07-15,Marketplace,UPI,0,Delivered
+2175,4,2025-07-15,Mobile App,Net Banking,10,Delivered
+2176,27,2025-07-15,Mobile App,Debit Card,0,Delivered
+2177,367,2025-07-15,Website,UPI,0,Delivered
+2178,170,2025-07-15,Instagram,UPI,10,Delivered
+2179,209,2025-07-16,Instagram,Net Banking,0,Delivered
+2180,148,2025-07-16,Mobile App,COD,0,Delivered
+2181,256,2025-07-16,Marketplace,Debit Card,0,Delivered
+2182,349,2025-07-16,Website,UPI,10,Delivered
+2183,81,2025-07-16,Website,Debit Card,0,Delivered
+2184,125,2025-07-17,Website,UPI,0,Delivered
+2185,315,2025-07-17,Instagram,Credit Card,0,Delivered
+2186,24,2025-07-17,Website,Debit Card,5,Delivered
+2187,127,2025-07-17,Website,UPI,5,Delivered
+2188,298,2025-07-17,Instagram,UPI,10,Delivered
+2189,166,2025-07-18,Instagram,UPI,0,Delivered
+2190,133,2025-07-18,Marketplace,UPI,10,Delivered
+2191,230,2025-07-18,Mobile App,Net Banking,0,Delivered
+2192,349,2025-07-18,Website,UPI,0,Delivered
+2193,250,2025-07-18,Website,Credit Card,0,Delivered
+2194,360,2025-07-19,Marketplace,Debit Card,10,Delivered
+2195,84,2025-07-19,Website,Credit Card,0,Delivered
+2196,297,2025-07-19,Mobile App,Net Banking,10,Delivered
+2197,343,2025-07-19,Mobile App,COD,0,Delivered
+2198,123,2025-07-19,Website,Credit Card,0,Delivered
+2199,116,2025-07-19,Mobile App,Debit Card,0,Returned
+2200,264,2025-07-20,Website,UPI,5,Delivered
+2201,92,2025-07-20,Website,COD,0,Delivered
+2202,327,2025-07-20,Website,Net Banking,0,Delivered
+2203,325,2025-07-20,Mobile App,Credit Card,10,Returned
+2204,151,2025-07-20,Mobile App,UPI,0,Delivered
+2205,249,2025-07-21,Website,Debit Card,0,Delivered
+2206,54,2025-07-21,Marketplace,COD,0,Delivered
+2207,384,2025-07-21,Website,COD,0,Delivered
+2208,38,2025-07-21,Website,UPI,0,Delivered
+2209,128,2025-07-21,Marketplace,UPI,5,Delivered
+2210,8,2025-07-22,Website,UPI,15,Delivered
+2211,329,2025-07-22,Website,UPI,15,Cancelled
+2212,123,2025-07-22,Mobile App,UPI,0,Delivered
+2213,348,2025-07-22,Instagram,Credit Card,10,Delivered
+2214,18,2025-07-22,Website,Net Banking,0,Delivered
+2215,249,2025-07-23,Website,Debit Card,5,Delivered
+2216,278,2025-07-23,Marketplace,Debit Card,0,Returned
+2217,362,2025-07-23,Marketplace,UPI,15,Delivered
+2218,274,2025-07-23,Website,COD,0,Delivered
+2219,35,2025-07-23,Website,UPI,5,Delivered
+2220,325,2025-07-23,Mobile App,UPI,15,Delivered
+2221,100,2025-07-24,Marketplace,COD,5,Delivered
+2222,229,2025-07-24,Website,COD,0,Delivered
+2223,166,2025-07-24,Website,UPI,0,Delivered
+2224,395,2025-07-24,Mobile App,Credit Card,10,Delivered
+2225,365,2025-07-24,Mobile App,COD,0,Delivered
+2226,222,2025-07-25,Mobile App,UPI,0,Delivered
+2227,167,2025-07-25,Marketplace,Net Banking,0,Delivered
+2228,108,2025-07-25,Website,UPI,0,Delivered
+2229,380,2025-07-25,Mobile App,UPI,15,Cancelled
+2230,79,2025-07-26,Mobile App,Credit Card,10,Delivered
+2231,304,2025-07-26,Mobile App,UPI,5,Returned
+2232,340,2025-07-26,Website,UPI,0,Delivered
+2233,140,2025-07-26,Marketplace,UPI,0,Delivered
+2234,353,2025-07-26,Marketplace,Net Banking,5,Delivered
+2235,390,2025-07-26,Website,Credit Card,10,Returned
+2236,199,2025-07-26,Website,COD,5,Returned
+2237,128,2025-07-27,Mobile App,Debit Card,10,Delivered
+2238,22,2025-07-27,Mobile App,Credit Card,5,Delivered
+2239,318,2025-07-27,Marketplace,UPI,5,Delivered
+2240,324,2025-07-27,Marketplace,Credit Card,0,Delivered
+2241,244,2025-07-27,Mobile App,UPI,0,Delivered
+2242,37,2025-07-27,Website,Net Banking,10,Delivered
+2243,41,2025-07-28,Marketplace,COD,0,Delivered
+2244,365,2025-07-28,Mobile App,COD,5,Delivered
+2245,72,2025-07-28,Instagram,UPI,0,Delivered
+2246,305,2025-07-28,Mobile App,UPI,15,Delivered
+2247,395,2025-07-29,Instagram,UPI,10,Delivered
+2248,261,2025-07-29,Mobile App,Debit Card,0,Delivered
+2249,231,2025-07-29,Marketplace,UPI,0,Delivered
+2250,347,2025-07-29,Mobile App,COD,5,Returned
+2251,90,2025-07-29,Mobile App,Net Banking,10,Delivered
+2252,218,2025-07-29,Marketplace,Credit Card,0,Delivered
+2253,347,2025-07-30,Website,UPI,10,Delivered
+2254,251,2025-07-30,Website,COD,0,Returned
+2255,262,2025-07-30,Mobile App,COD,0,Delivered
+2256,84,2025-07-30,Mobile App,UPI,0,Delivered
+2257,229,2025-07-31,Marketplace,UPI,0,Delivered
+2258,124,2025-07-31,Marketplace,Credit Card,0,Delivered
+2259,116,2025-07-31,Website,UPI,0,Delivered
+2260,339,2025-07-31,Mobile App,UPI,15,Delivered
+2261,293,2025-07-31,Marketplace,Debit Card,10,Delivered
+2262,217,2025-07-31,Marketplace,Debit Card,15,Delivered
+2263,148,2025-08-01,Website,UPI,0,Delivered
+2264,116,2025-08-01,Instagram,COD,5,Delivered
+2265,250,2025-08-01,Mobile App,COD,10,Delivered
+2266,299,2025-08-01,Marketplace,UPI,0,Delivered
+2267,385,2025-08-01,Marketplace,UPI,0,Delivered
+2268,317,2025-08-02,Website,UPI,10,Delivered
+2269,97,2025-08-02,Instagram,UPI,5,Delivered
+2270,287,2025-08-02,Marketplace,COD,5,Delivered
+2271,80,2025-08-02,Website,Net Banking,0,Cancelled
+2272,201,2025-08-02,Website,UPI,5,Delivered
+2273,271,2025-08-02,Mobile App,COD,10,Delivered
+2274,58,2025-08-02,Website,UPI,0,Cancelled
+2275,202,2025-08-03,Website,UPI,0,Delivered
+2276,171,2025-08-03,Website,UPI,5,Delivered
+2277,46,2025-08-03,Mobile App,UPI,0,Delivered
+2278,109,2025-08-03,Mobile App,UPI,5,Delivered
+2279,49,2025-08-03,Instagram,COD,0,Delivered
+2280,101,2025-08-03,Instagram,UPI,0,Delivered
+2281,250,2025-08-03,Website,COD,0,Delivered
+2282,33,2025-08-03,Website,UPI,0,Delivered
+2283,243,2025-08-04,Mobile App,Debit Card,0,Delivered
+2284,295,2025-08-04,Website,COD,10,Delivered
+2285,233,2025-08-04,Website,UPI,10,Delivered
+2286,108,2025-08-04,Mobile App,UPI,10,Delivered
+2287,118,2025-08-05,Mobile App,UPI,15,Delivered
+2288,69,2025-08-05,Instagram,UPI,0,Delivered
+2289,198,2025-08-05,Marketplace,COD,0,Delivered
+2290,47,2025-08-05,Instagram,Debit Card,5,Delivered
+2291,231,2025-08-05,Mobile App,UPI,0,Delivered
+2292,304,2025-08-05,Instagram,Credit Card,0,Delivered
+2293,29,2025-08-06,Website,Net Banking,0,Delivered
+2294,288,2025-08-06,Mobile App,UPI,0,Delivered
+2295,231,2025-08-06,Website,Credit Card,0,Cancelled
+2296,315,2025-08-06,Instagram,UPI,10,Delivered
+2297,101,2025-08-07,Website,COD,0,Delivered
+2298,93,2025-08-07,Website,UPI,5,Delivered
+2299,321,2025-08-07,Instagram,Debit Card,0,Delivered
+2300,237,2025-08-07,Website,COD,0,Delivered
+2301,221,2025-08-08,Mobile App,Credit Card,5,Delivered
+2302,46,2025-08-08,Website,Debit Card,10,Delivered
+2303,388,2025-08-08,Mobile App,Credit Card,0,Delivered
+2304,341,2025-08-08,Instagram,Credit Card,10,Delivered
+2305,83,2025-08-08,Mobile App,UPI,0,Delivered
+2306,68,2025-08-09,Instagram,Debit Card,5,Delivered
+2307,254,2025-08-09,Mobile App,COD,0,Delivered
+2308,26,2025-08-09,Website,UPI,10,Delivered
+2309,287,2025-08-09,Mobile App,Debit Card,0,Delivered
+2310,54,2025-08-10,Instagram,UPI,10,Delivered
+2311,310,2025-08-10,Instagram,UPI,15,Delivered
+2312,314,2025-08-10,Marketplace,UPI,5,Delivered
+2313,134,2025-08-10,Website,UPI,0,Delivered
+2314,345,2025-08-10,Website,Credit Card,5,Returned
+2315,153,2025-08-10,Website,Debit Card,10,Delivered
+2316,91,2025-08-10,Website,UPI,0,Returned
+2317,276,2025-08-11,Website,UPI,5,Delivered
+2318,356,2025-08-11,Mobile App,Credit Card,0,Delivered
+2319,318,2025-08-11,Marketplace,COD,20,Delivered
+2320,6,2025-08-11,Mobile App,Credit Card,5,Delivered
+2321,213,2025-08-11,Marketplace,UPI,0,Delivered
+2322,236,2025-08-11,Website,COD,5,Returned
+2323,308,2025-08-12,Marketplace,UPI,0,Delivered
+2324,393,2025-08-12,Instagram,UPI,0,Delivered
+2325,139,2025-08-12,Website,Credit Card,5,Delivered
+2326,348,2025-08-12,Marketplace,UPI,10,Delivered
+2327,136,2025-08-13,Instagram,COD,5,Delivered
+2328,126,2025-08-13,Mobile App,UPI,15,Delivered
+2329,188,2025-08-14,Mobile App,COD,5,Delivered
+2330,106,2025-08-14,Instagram,UPI,0,Delivered
+2331,150,2025-08-14,Website,UPI,10,Delivered
+2332,29,2025-08-14,Mobile App,UPI,10,Delivered
+2333,360,2025-08-14,Website,Credit Card,10,Delivered
+2334,352,2025-08-14,Mobile App,UPI,0,Delivered
+2335,360,2025-08-15,Mobile App,COD,5,Delivered
+2336,171,2025-08-15,Marketplace,Debit Card,0,Delivered
+2337,157,2025-08-15,Website,Credit Card,15,Delivered
+2338,141,2025-08-15,Website,UPI,0,Delivered
+2339,181,2025-08-15,Website,UPI,10,Delivered
+2340,213,2025-08-16,Website,Credit Card,0,Delivered
+2341,158,2025-08-16,Website,COD,0,Delivered
+2342,36,2025-08-16,Marketplace,Credit Card,0,Delivered
+2343,393,2025-08-16,Mobile App,UPI,15,Delivered
+2344,153,2025-08-16,Website,Credit Card,20,Cancelled
+2345,221,2025-08-17,Website,UPI,10,Delivered
+2346,133,2025-08-17,Instagram,UPI,0,Delivered
+2347,101,2025-08-17,Mobile App,UPI,0,Delivered
+2348,136,2025-08-17,Website,Credit Card,0,Delivered
+2349,209,2025-08-17,Marketplace,UPI,0,Delivered
+2350,190,2025-08-18,Website,UPI,0,Delivered
+2351,323,2025-08-18,Mobile App,COD,10,Delivered
+2352,142,2025-08-18,Mobile App,COD,5,Delivered
+2353,269,2025-08-18,Mobile App,UPI,5,Delivered
+2354,77,2025-08-18,Mobile App,COD,0,Delivered
+2355,248,2025-08-19,Mobile App,Credit Card,5,Delivered
+2356,368,2025-08-19,Website,COD,15,Delivered
+2357,46,2025-08-19,Website,Net Banking,0,Delivered
+2358,246,2025-08-19,Instagram,UPI,0,Delivered
+2359,148,2025-08-20,Mobile App,Debit Card,0,Delivered
+2360,366,2025-08-20,Marketplace,Credit Card,0,Delivered
+2361,277,2025-08-20,Website,UPI,10,Delivered
+2362,39,2025-08-20,Mobile App,Debit Card,5,Delivered
+2363,281,2025-08-21,Mobile App,UPI,0,Delivered
+2364,141,2025-08-21,Mobile App,UPI,0,Delivered
+2365,47,2025-08-21,Website,UPI,10,Delivered
+2366,1,2025-08-21,Instagram,Credit Card,5,Delivered
+2367,222,2025-08-21,Website,UPI,15,Delivered
+2368,358,2025-08-22,Mobile App,UPI,10,Delivered
+2369,111,2025-08-22,Website,UPI,0,Delivered
+2370,205,2025-08-22,Mobile App,COD,0,Delivered
+2371,309,2025-08-22,Website,UPI,5,Delivered
+2372,156,2025-08-22,Instagram,Debit Card,15,Delivered
+2373,261,2025-08-22,Instagram,COD,15,Delivered
+2374,265,2025-08-23,Mobile App,UPI,0,Delivered
+2375,118,2025-08-23,Instagram,UPI,5,Returned
+2376,159,2025-08-23,Instagram,COD,0,Delivered
+2377,139,2025-08-23,Mobile App,Net Banking,0,Delivered
+2378,113,2025-08-23,Marketplace,UPI,0,Delivered
+2379,148,2025-08-23,Mobile App,COD,5,Returned
+2380,378,2025-08-23,Mobile App,UPI,0,Delivered
+2381,48,2025-08-24,Mobile App,Debit Card,0,Delivered
+2382,369,2025-08-24,Mobile App,Credit Card,0,Delivered
+2383,315,2025-08-24,Marketplace,Debit Card,0,Delivered
+2384,336,2025-08-24,Mobile App,Credit Card,5,Delivered
+2385,102,2025-08-24,Mobile App,UPI,0,Delivered
+2386,99,2025-08-25,Marketplace,UPI,0,Returned
+2387,338,2025-08-25,Marketplace,UPI,10,Delivered
+2388,72,2025-08-25,Website,UPI,0,Delivered
+2389,309,2025-08-25,Marketplace,Debit Card,10,Delivered
+2390,174,2025-08-25,Website,UPI,0,Delivered
+2391,237,2025-08-26,Instagram,Credit Card,0,Delivered
+2392,277,2025-08-26,Mobile App,UPI,15,Delivered
+2393,383,2025-08-26,Instagram,UPI,0,Delivered
+2394,308,2025-08-26,Website,COD,5,Delivered
+2395,305,2025-08-26,Website,UPI,0,Delivered
+2396,346,2025-08-26,Marketplace,Credit Card,10,Delivered
+2397,47,2025-08-27,Website,UPI,0,Returned
+2398,177,2025-08-27,Website,UPI,5,Delivered
+2399,231,2025-08-27,Mobile App,Credit Card,10,Delivered
+2400,186,2025-08-27,Marketplace,UPI,10,Delivered
+2401,349,2025-08-27,Marketplace,Credit Card,0,Returned
+2402,57,2025-08-27,Website,Net Banking,15,Delivered
+2403,89,2025-08-28,Instagram,UPI,10,Delivered
+2404,84,2025-08-28,Instagram,Credit Card,5,Delivered
+2405,351,2025-08-28,Mobile App,UPI,0,Delivered
+2406,6,2025-08-28,Website,UPI,10,Delivered
+2407,262,2025-08-29,Marketplace,UPI,0,Delivered
+2408,68,2025-08-29,Website,UPI,0,Delivered
+2409,365,2025-08-29,Website,COD,15,Delivered
+2410,316,2025-08-29,Website,COD,10,Delivered
+2411,270,2025-08-29,Website,Net Banking,0,Delivered
+2412,247,2025-08-29,Mobile App,Debit Card,0,Delivered
+2413,74,2025-08-30,Website,Credit Card,5,Delivered
+2414,395,2025-08-30,Marketplace,Net Banking,5,Delivered
+2415,368,2025-08-30,Website,COD,10,Cancelled
+2416,109,2025-08-30,Mobile App,UPI,0,Delivered
+2417,43,2025-08-30,Instagram,Credit Card,0,Cancelled
+2418,297,2025-08-30,Mobile App,Net Banking,0,Delivered
+2419,68,2025-08-31,Website,COD,10,Delivered
+2420,336,2025-08-31,Mobile App,UPI,10,Delivered
+2421,224,2025-08-31,Mobile App,COD,0,Delivered
+2422,189,2025-08-31,Mobile App,Debit Card,5,Delivered
+2423,307,2025-08-31,Marketplace,COD,0,Delivered
+2424,290,2025-08-31,Mobile App,UPI,10,Delivered
+2425,158,2025-08-31,Website,Credit Card,5,Delivered
+2426,191,2025-08-31,Website,UPI,5,Returned
+2427,89,2025-09-01,Marketplace,Debit Card,5,Delivered
+2428,302,2025-09-01,Mobile App,COD,15,Delivered
+2429,66,2025-09-01,Instagram,Credit Card,0,Delivered
+2430,38,2025-09-01,Instagram,COD,0,Delivered
+2431,27,2025-09-01,Mobile App,UPI,10,Delivered
+2432,21,2025-09-01,Website,Debit Card,5,Delivered
+2433,122,2025-09-02,Website,Debit Card,0,Delivered
+2434,27,2025-09-02,Marketplace,COD,15,Delivered
+2435,171,2025-09-02,Mobile App,UPI,15,Delivered
+2436,302,2025-09-03,Mobile App,Net Banking,5,Delivered
+2437,197,2025-09-03,Website,UPI,0,Delivered
+2438,229,2025-09-03,Mobile App,UPI,0,Delivered
+2439,34,2025-09-03,Website,Debit Card,10,Delivered
+2440,386,2025-09-03,Website,Credit Card,10,Delivered
+2441,369,2025-09-04,Marketplace,UPI,0,Cancelled
+2442,220,2025-09-04,Website,UPI,15,Delivered
+2443,347,2025-09-04,Instagram,UPI,5,Delivered
+2444,345,2025-09-04,Mobile App,Credit Card,0,Returned
+2445,92,2025-09-05,Website,Debit Card,0,Delivered
+2446,193,2025-09-05,Instagram,Credit Card,0,Delivered
+2447,271,2025-09-05,Website,UPI,10,Delivered
+2448,372,2025-09-05,Mobile App,UPI,0,Delivered
+2449,170,2025-09-05,Marketplace,UPI,0,Delivered
+2450,69,2025-09-05,Marketplace,Credit Card,5,Delivered
+2451,393,2025-09-05,Mobile App,UPI,0,Delivered
+2452,368,2025-09-06,Mobile App,UPI,10,Delivered
+2453,197,2025-09-06,Mobile App,Credit Card,10,Delivered
+2454,303,2025-09-06,Instagram,UPI,5,Delivered
+2455,371,2025-09-06,Instagram,Credit Card,0,Delivered
+2456,53,2025-09-06,Website,Net Banking,10,Delivered
+2457,23,2025-09-07,Mobile App,UPI,15,Delivered
+2458,199,2025-09-07,Mobile App,UPI,10,Delivered
+2459,324,2025-09-07,Instagram,UPI,0,Delivered
+2460,397,2025-09-07,Website,Debit Card,0,Delivered
+2461,330,2025-09-07,Mobile App,UPI,0,Delivered
+2462,25,2025-09-07,Mobile App,Credit Card,0,Delivered
+2463,197,2025-09-07,Marketplace,COD,5,Returned
+2464,177,2025-09-08,Marketplace,UPI,0,Delivered
+2465,320,2025-09-08,Mobile App,COD,15,Delivered
+2466,374,2025-09-08,Website,UPI,5,Delivered
+2467,13,2025-09-08,Mobile App,Net Banking,0,Delivered
+2468,397,2025-09-09,Instagram,UPI,15,Delivered
+2469,71,2025-09-09,Marketplace,COD,0,Delivered
+2470,328,2025-09-09,Mobile App,Credit Card,5,Delivered
+2471,352,2025-09-09,Mobile App,UPI,0,Delivered
+2472,42,2025-09-09,Website,UPI,10,Delivered
+2473,383,2025-09-09,Website,UPI,5,Delivered
+2474,302,2025-09-10,Instagram,UPI,5,Returned
+2475,41,2025-09-10,Website,Credit Card,0,Delivered
+2476,267,2025-09-10,Marketplace,UPI,0,Delivered
+2477,369,2025-09-11,Instagram,UPI,20,Delivered
+2478,269,2025-09-11,Instagram,UPI,0,Delivered
+2479,27,2025-09-11,Instagram,UPI,0,Delivered
+2480,218,2025-09-11,Marketplace,Debit Card,10,Delivered
+2481,45,2025-09-11,Mobile App,UPI,15,Delivered
+2482,397,2025-09-12,Instagram,Credit Card,0,Delivered
+2483,211,2025-09-12,Mobile App,UPI,0,Delivered
+2484,188,2025-09-12,Marketplace,UPI,0,Delivered
+2485,77,2025-09-12,Website,UPI,10,Delivered
+2486,337,2025-09-12,Website,COD,0,Delivered
+2487,229,2025-09-12,Mobile App,UPI,10,Delivered
+2488,394,2025-09-13,Website,UPI,0,Returned
+2489,306,2025-09-13,Website,UPI,0,Delivered
+2490,337,2025-09-13,Mobile App,Credit Card,5,Delivered
+2491,321,2025-09-13,Website,UPI,15,Delivered
+2492,304,2025-09-13,Marketplace,COD,5,Delivered
+2493,65,2025-09-13,Instagram,Credit Card,10,Delivered
+2494,252,2025-09-14,Instagram,Debit Card,0,Returned
+2495,251,2025-09-14,Website,COD,5,Delivered
+2496,244,2025-09-14,Instagram,UPI,0,Delivered
+2497,164,2025-09-14,Website,UPI,5,Delivered
+2498,61,2025-09-14,Website,Net Banking,5,Delivered
+2499,83,2025-09-14,Mobile App,COD,0,Delivered
+2500,113,2025-09-14,Mobile App,Credit Card,0,Delivered
+2501,330,2025-09-14,Instagram,UPI,15,Delivered
+2502,246,2025-09-15,Marketplace,COD,0,Delivered
+2503,228,2025-09-15,Website,UPI,5,Delivered
+2504,244,2025-09-15,Instagram,Net Banking,0,Delivered
+2505,365,2025-09-16,Marketplace,UPI,0,Delivered
+2506,225,2025-09-16,Marketplace,COD,10,Delivered
+2507,127,2025-09-17,Instagram,UPI,5,Delivered
+2508,183,2025-09-17,Instagram,Credit Card,0,Delivered
+2509,215,2025-09-17,Marketplace,UPI,5,Delivered
+2510,193,2025-09-17,Website,UPI,5,Delivered
+2511,4,2025-09-17,Website,Net Banking,0,Delivered
+2512,223,2025-09-17,Website,UPI,0,Delivered
+2513,267,2025-09-17,Website,COD,5,Delivered
+2514,322,2025-09-18,Instagram,Credit Card,5,Delivered
+2515,42,2025-09-18,Website,UPI,0,Delivered
+2516,371,2025-09-18,Mobile App,UPI,0,Cancelled
+2517,4,2025-09-18,Mobile App,UPI,0,Returned
+2518,378,2025-09-18,Website,Debit Card,10,Returned
+2519,366,2025-09-19,Marketplace,UPI,15,Delivered
+2520,10,2025-09-19,Instagram,UPI,0,Delivered
+2521,128,2025-09-19,Marketplace,UPI,5,Delivered
+2522,105,2025-09-19,Website,Credit Card,0,Delivered
+2523,222,2025-09-19,Mobile App,Credit Card,0,Delivered
+2524,368,2025-09-19,Mobile App,Credit Card,0,Delivered
+2525,267,2025-09-20,Instagram,UPI,0,Returned
+2526,307,2025-09-20,Instagram,UPI,0,Delivered
+2527,57,2025-09-20,Website,Net Banking,5,Delivered
+2528,118,2025-09-20,Marketplace,Credit Card,0,Delivered
+2529,102,2025-09-20,Website,COD,10,Delivered
+2530,287,2025-09-21,Marketplace,UPI,0,Delivered
+2531,358,2025-09-21,Mobile App,COD,5,Delivered
+2532,349,2025-09-21,Marketplace,COD,5,Delivered
+2533,226,2025-09-21,Instagram,COD,0,Delivered
+2534,126,2025-09-21,Website,Credit Card,0,Delivered
+2535,27,2025-09-22,Mobile App,UPI,0,Delivered
+2536,384,2025-09-22,Instagram,Debit Card,0,Delivered
+2537,330,2025-09-22,Instagram,Debit Card,0,Delivered
+2538,221,2025-09-22,Website,UPI,5,Delivered
+2539,6,2025-09-22,Mobile App,Credit Card,0,Delivered
+2540,152,2025-09-23,Mobile App,UPI,0,Delivered
+2541,182,2025-09-23,Mobile App,Debit Card,15,Delivered
+2542,95,2025-09-23,Website,COD,0,Delivered
+2543,336,2025-09-23,Mobile App,Credit Card,10,Delivered
+2544,358,2025-09-23,Website,UPI,5,Delivered
+2545,68,2025-09-24,Mobile App,Credit Card,0,Delivered
+2546,148,2025-09-24,Marketplace,UPI,0,Delivered
+2547,371,2025-09-24,Mobile App,UPI,20,Delivered
+2548,282,2025-09-24,Website,UPI,0,Delivered
+2549,375,2025-09-24,Website,UPI,0,Delivered
+2550,394,2025-09-25,Marketplace,UPI,0,Delivered
+2551,136,2025-09-25,Marketplace,UPI,10,Delivered
+2552,274,2025-09-25,Website,Credit Card,20,Delivered
+2553,166,2025-09-25,Marketplace,UPI,0,Delivered
+2554,72,2025-09-25,Website,Credit Card,10,Delivered
+2555,11,2025-09-25,Website,Debit Card,10,Delivered
+2556,273,2025-09-25,Marketplace,COD,0,Delivered
+2557,9,2025-09-26,Marketplace,UPI,10,Delivered
+2558,130,2025-09-26,Website,UPI,10,Delivered
+2559,328,2025-09-26,Mobile App,COD,0,Delivered
+2560,327,2025-09-26,Website,UPI,15,Delivered
+2561,118,2025-09-26,Mobile App,Credit Card,5,Delivered
+2562,217,2025-09-26,Instagram,UPI,0,Delivered
+2563,196,2025-09-27,Website,COD,0,Delivered
+2564,221,2025-09-27,Instagram,Credit Card,0,Delivered
+2565,1,2025-09-27,Instagram,Net Banking,0,Delivered
+2566,255,2025-09-27,Mobile App,Debit Card,10,Cancelled
+2567,330,2025-09-27,Mobile App,Net Banking,0,Delivered
+2568,227,2025-09-27,Mobile App,UPI,0,Delivered
+2569,36,2025-09-28,Marketplace,UPI,5,Delivered
+2570,367,2025-09-28,Mobile App,UPI,0,Delivered
+2571,344,2025-09-28,Instagram,UPI,15,Cancelled
+2572,193,2025-09-28,Mobile App,COD,0,Delivered
+2573,271,2025-09-28,Instagram,Credit Card,5,Delivered
+2574,369,2025-09-28,Website,COD,0,Delivered
+2575,187,2025-09-29,Website,Debit Card,20,Delivered
+2576,347,2025-09-29,Mobile App,Credit Card,5,Delivered
+2577,156,2025-09-29,Website,UPI,10,Cancelled
+2578,124,2025-09-29,Marketplace,Credit Card,20,Delivered
+2579,228,2025-09-30,Instagram,UPI,5,Delivered
+2580,86,2025-09-30,Website,UPI,10,Delivered
+2581,71,2025-10-01,Website,Net Banking,10,Delivered
+2582,143,2025-10-01,Website,Credit Card,20,Delivered
+2583,119,2025-10-01,Mobile App,Credit Card,20,Delivered
+2584,76,2025-10-01,Mobile App,Credit Card,20,Delivered
+2585,87,2025-10-01,Instagram,UPI,10,Delivered
+2586,253,2025-10-01,Website,UPI,10,Returned
+2587,67,2025-10-01,Marketplace,COD,10,Delivered
+2588,49,2025-10-01,Marketplace,Credit Card,20,Delivered
+2589,168,2025-10-01,Instagram,UPI,20,Delivered
+2590,189,2025-10-02,Marketplace,Debit Card,10,Delivered
+2591,315,2025-10-02,Instagram,COD,25,Delivered
+2592,116,2025-10-02,Website,UPI,20,Delivered
+2593,84,2025-10-02,Mobile App,Debit Card,10,Returned
+2594,141,2025-10-02,Mobile App,Credit Card,15,Cancelled
+2595,345,2025-10-02,Mobile App,UPI,10,Delivered
+2596,34,2025-10-02,Instagram,Credit Card,25,Delivered
+2597,292,2025-10-03,Mobile App,Credit Card,20,Delivered
+2598,11,2025-10-03,Website,UPI,15,Delivered
+2599,36,2025-10-03,Mobile App,COD,20,Cancelled
+2600,3,2025-10-03,Instagram,UPI,20,Delivered
+2601,19,2025-10-03,Mobile App,UPI,0,Delivered
+2602,92,2025-10-03,Marketplace,UPI,25,Delivered
+2603,124,2025-10-03,Website,Debit Card,20,Delivered
+2604,1,2025-10-04,Marketplace,COD,20,Delivered
+2605,114,2025-10-04,Instagram,Debit Card,15,Delivered
+2606,232,2025-10-04,Instagram,UPI,20,Delivered
+2607,360,2025-10-04,Website,Credit Card,20,Delivered
+2608,148,2025-10-04,Mobile App,COD,15,Delivered
+2609,199,2025-10-04,Mobile App,UPI,20,Delivered
+2610,72,2025-10-04,Website,UPI,15,Delivered
+2611,8,2025-10-04,Website,UPI,15,Delivered
+2612,128,2025-10-04,Website,UPI,25,Delivered
+2613,339,2025-10-05,Marketplace,UPI,0,Returned
+2614,103,2025-10-05,Mobile App,COD,20,Delivered
+2615,1,2025-10-05,Website,Debit Card,20,Delivered
+2616,384,2025-10-05,Marketplace,COD,0,Delivered
+2617,66,2025-10-05,Mobile App,COD,25,Delivered
+2618,288,2025-10-05,Mobile App,COD,10,Returned
+2619,343,2025-10-05,Mobile App,Debit Card,0,Delivered
+2620,322,2025-10-05,Website,COD,0,Delivered
+2621,312,2025-10-05,Instagram,Debit Card,0,Delivered
+2622,246,2025-10-05,Marketplace,UPI,10,Delivered
+2623,226,2025-10-06,Instagram,UPI,10,Delivered
+2624,62,2025-10-06,Website,COD,0,Delivered
+2625,44,2025-10-06,Marketplace,UPI,20,Delivered
+2626,89,2025-10-06,Instagram,Credit Card,0,Delivered
+2627,127,2025-10-06,Mobile App,UPI,20,Delivered
+2628,4,2025-10-06,Website,UPI,15,Delivered
+2629,328,2025-10-07,Marketplace,Net Banking,10,Delivered
+2630,44,2025-10-07,Website,Credit Card,10,Delivered
+2631,194,2025-10-07,Mobile App,Debit Card,0,Delivered
+2632,276,2025-10-07,Instagram,Credit Card,10,Delivered
+2633,91,2025-10-07,Instagram,UPI,20,Delivered
+2634,232,2025-10-07,Marketplace,COD,10,Delivered
+2635,73,2025-10-07,Mobile App,UPI,15,Delivered
+2636,34,2025-10-07,Website,Debit Card,10,Delivered
+2637,17,2025-10-07,Mobile App,Credit Card,20,Delivered
+2638,25,2025-10-07,Website,UPI,0,Delivered
+2639,364,2025-10-08,Website,UPI,10,Delivered
+2640,236,2025-10-08,Instagram,UPI,0,Delivered
+2641,211,2025-10-08,Marketplace,Credit Card,0,Delivered
+2642,33,2025-10-08,Marketplace,UPI,10,Delivered
+2643,181,2025-10-08,Mobile App,UPI,0,Delivered
+2644,91,2025-10-08,Mobile App,Credit Card,0,Cancelled
+2645,391,2025-10-08,Instagram,UPI,20,Delivered
+2646,25,2025-10-08,Website,COD,15,Delivered
+2647,30,2025-10-08,Marketplace,COD,25,Delivered
+2648,199,2025-10-08,Website,UPI,10,Delivered
+2649,96,2025-10-09,Mobile App,Debit Card,0,Returned
+2650,10,2025-10-09,Marketplace,UPI,10,Delivered
+2651,167,2025-10-09,Marketplace,UPI,25,Delivered
+2652,96,2025-10-09,Website,Debit Card,15,Delivered
+2653,242,2025-10-09,Marketplace,COD,20,Delivered
+2654,370,2025-10-09,Website,Net Banking,15,Delivered
+2655,20,2025-10-09,Instagram,UPI,25,Delivered
+2656,282,2025-10-09,Mobile App,UPI,15,Delivered
+2657,279,2025-10-10,Mobile App,Debit Card,25,Delivered
+2658,132,2025-10-10,Instagram,Credit Card,15,Delivered
+2659,117,2025-10-10,Website,Debit Card,25,Delivered
+2660,277,2025-10-10,Instagram,Credit Card,20,Delivered
+2661,350,2025-10-10,Website,UPI,15,Delivered
+2662,357,2025-10-10,Website,COD,20,Returned
+2663,231,2025-10-11,Website,Credit Card,10,Delivered
+2664,133,2025-10-11,Website,Debit Card,25,Delivered
+2665,198,2025-10-11,Mobile App,UPI,10,Delivered
+2666,37,2025-10-11,Mobile App,Credit Card,10,Delivered
+2667,30,2025-10-11,Marketplace,Debit Card,20,Delivered
+2668,116,2025-10-11,Mobile App,UPI,20,Delivered
+2669,316,2025-10-11,Mobile App,UPI,10,Delivered
+2670,369,2025-10-11,Marketplace,UPI,10,Delivered
+2671,373,2025-10-11,Website,UPI,10,Delivered
+2672,194,2025-10-12,Website,UPI,25,Delivered
+2673,134,2025-10-12,Website,UPI,25,Delivered
+2674,299,2025-10-12,Mobile App,COD,25,Returned
+2675,398,2025-10-12,Mobile App,COD,0,Delivered
+2676,227,2025-10-12,Mobile App,UPI,25,Delivered
+2677,27,2025-10-12,Website,UPI,15,Delivered
+2678,124,2025-10-12,Mobile App,Credit Card,0,Delivered
+2679,15,2025-10-12,Mobile App,Debit Card,15,Delivered
+2680,307,2025-10-12,Website,COD,0,Delivered
+2681,390,2025-10-12,Website,UPI,0,Delivered
+2682,208,2025-10-13,Website,UPI,20,Delivered
+2683,351,2025-10-13,Mobile App,UPI,10,Delivered
+2684,29,2025-10-13,Marketplace,UPI,10,Delivered
+2685,175,2025-10-13,Mobile App,Credit Card,20,Delivered
+2686,41,2025-10-13,Marketplace,UPI,15,Delivered
+2687,315,2025-10-13,Website,Debit Card,15,Delivered
+2688,231,2025-10-13,Marketplace,Net Banking,20,Delivered
+2689,297,2025-10-13,Marketplace,UPI,20,Delivered
+2690,235,2025-10-14,Website,COD,15,Delivered
+2691,32,2025-10-14,Instagram,UPI,0,Delivered
+2692,1,2025-10-14,Website,COD,15,Delivered
+2693,277,2025-10-14,Website,UPI,25,Delivered
+2694,200,2025-10-14,Mobile App,UPI,0,Delivered
+2695,303,2025-10-14,Instagram,UPI,20,Returned
+2696,44,2025-10-14,Marketplace,Credit Card,0,Delivered
+2697,90,2025-10-14,Website,Credit Card,25,Delivered
+2698,296,2025-10-15,Mobile App,Debit Card,15,Delivered
+2699,1,2025-10-15,Website,Credit Card,15,Delivered
+2700,78,2025-10-15,Website,UPI,20,Delivered
+2701,42,2025-10-15,Website,Debit Card,25,Delivered
+2702,357,2025-10-15,Marketplace,UPI,15,Delivered
+2703,366,2025-10-15,Instagram,COD,15,Returned
+2704,388,2025-10-15,Website,UPI,20,Delivered
+2705,330,2025-10-16,Instagram,COD,20,Delivered
+2706,364,2025-10-16,Marketplace,COD,15,Delivered
+2707,389,2025-10-16,Mobile App,Credit Card,15,Cancelled
+2708,270,2025-10-16,Mobile App,UPI,10,Delivered
+2709,235,2025-10-16,Website,UPI,10,Delivered
+2710,30,2025-10-17,Marketplace,Credit Card,25,Delivered
+2711,328,2025-10-17,Mobile App,Net Banking,10,Delivered
+2712,269,2025-10-17,Instagram,UPI,20,Delivered
+2713,21,2025-10-17,Marketplace,UPI,10,Delivered
+2714,259,2025-10-17,Marketplace,Credit Card,15,Delivered
+2715,209,2025-10-17,Website,UPI,15,Delivered
+2716,42,2025-10-17,Website,UPI,10,Returned
+2717,96,2025-10-17,Mobile App,COD,15,Delivered
+2718,274,2025-10-18,Website,Credit Card,0,Delivered
+2719,385,2025-10-18,Marketplace,Net Banking,15,Delivered
+2720,96,2025-10-18,Instagram,UPI,25,Delivered
+2721,14,2025-10-18,Website,COD,15,Delivered
+2722,36,2025-10-18,Marketplace,UPI,0,Delivered
+2723,168,2025-10-18,Marketplace,UPI,20,Delivered
+2724,262,2025-10-18,Website,UPI,10,Delivered
+2725,373,2025-10-18,Website,Credit Card,25,Delivered
+2726,178,2025-10-18,Mobile App,UPI,10,Delivered
+2727,296,2025-10-19,Instagram,UPI,25,Delivered
+2728,329,2025-10-19,Website,Credit Card,15,Delivered
+2729,240,2025-10-19,Marketplace,UPI,0,Delivered
+2730,392,2025-10-19,Instagram,UPI,25,Delivered
+2731,157,2025-10-19,Website,UPI,15,Delivered
+2732,182,2025-10-19,Website,UPI,10,Cancelled
+2733,258,2025-10-19,Mobile App,UPI,25,Delivered
+2734,117,2025-10-19,Website,Credit Card,20,Delivered
+2735,347,2025-10-19,Website,COD,15,Delivered
+2736,284,2025-10-19,Mobile App,Credit Card,25,Delivered
+2737,240,2025-10-20,Marketplace,UPI,20,Returned
+2738,324,2025-10-20,Instagram,Debit Card,15,Delivered
+2739,36,2025-10-20,Mobile App,Credit Card,25,Delivered
+2740,205,2025-10-20,Mobile App,UPI,15,Delivered
+2741,120,2025-10-20,Website,Debit Card,0,Delivered
+2742,249,2025-10-20,Marketplace,UPI,20,Delivered
+2743,313,2025-10-20,Marketplace,Debit Card,0,Delivered
+2744,67,2025-10-20,Marketplace,UPI,10,Delivered
+2745,202,2025-10-21,Website,UPI,15,Returned
+2746,114,2025-10-21,Website,UPI,10,Delivered
+2747,273,2025-10-21,Instagram,UPI,10,Delivered
+2748,189,2025-10-21,Marketplace,UPI,15,Delivered
+2749,126,2025-10-21,Instagram,UPI,15,Delivered
+2750,152,2025-10-21,Marketplace,Credit Card,25,Delivered
+2751,75,2025-10-21,Marketplace,UPI,20,Delivered
+2752,201,2025-10-21,Mobile App,Debit Card,0,Delivered
+2753,74,2025-10-22,Website,UPI,10,Delivered
+2754,394,2025-10-22,Marketplace,COD,20,Delivered
+2755,344,2025-10-22,Marketplace,COD,0,Delivered
+2756,383,2025-10-22,Marketplace,UPI,10,Delivered
+2757,71,2025-10-22,Marketplace,Debit Card,10,Delivered
+2758,59,2025-10-23,Website,UPI,25,Delivered
+2759,333,2025-10-23,Mobile App,UPI,15,Returned
+2760,86,2025-10-23,Mobile App,COD,15,Delivered
+2761,299,2025-10-23,Website,Credit Card,0,Delivered
+2762,81,2025-10-23,Website,COD,15,Delivered
+2763,388,2025-10-23,Marketplace,UPI,0,Delivered
+2764,36,2025-10-23,Marketplace,UPI,10,Delivered
+2765,16,2025-10-24,Website,Debit Card,0,Delivered
+2766,197,2025-10-24,Mobile App,Net Banking,25,Delivered
+2767,242,2025-10-24,Website,Debit Card,25,Delivered
+2768,108,2025-10-24,Website,UPI,15,Delivered
+2769,29,2025-10-24,Website,COD,25,Delivered
+2770,318,2025-10-24,Mobile App,UPI,20,Delivered
+2771,368,2025-10-24,Mobile App,UPI,20,Delivered
+2772,34,2025-10-24,Website,UPI,10,Delivered
+2773,180,2025-10-24,Marketplace,COD,25,Delivered
+2774,249,2025-10-24,Website,Debit Card,15,Delivered
+2775,143,2025-10-25,Mobile App,Net Banking,15,Delivered
+2776,86,2025-10-25,Instagram,UPI,15,Delivered
+2777,126,2025-10-25,Mobile App,UPI,15,Delivered
+2778,255,2025-10-25,Marketplace,UPI,15,Returned
+2779,184,2025-10-25,Marketplace,Credit Card,0,Delivered
+2780,41,2025-10-25,Mobile App,UPI,10,Delivered
+2781,205,2025-10-25,Website,UPI,25,Delivered
+2782,400,2025-10-25,Instagram,COD,20,Delivered
+2783,121,2025-10-25,Mobile App,UPI,0,Delivered
+2784,304,2025-10-25,Mobile App,UPI,0,Delivered
+2785,314,2025-10-26,Mobile App,UPI,0,Delivered
+2786,29,2025-10-26,Marketplace,UPI,15,Delivered
+2787,364,2025-10-26,Marketplace,UPI,0,Delivered
+2788,143,2025-10-26,Marketplace,Credit Card,0,Delivered
+2789,259,2025-10-26,Marketplace,UPI,10,Delivered
+2790,133,2025-10-26,Website,Debit Card,10,Delivered
+2791,371,2025-10-26,Instagram,UPI,15,Delivered
+2792,397,2025-10-26,Marketplace,COD,0,Delivered
+2793,150,2025-10-26,Instagram,UPI,10,Delivered
+2794,85,2025-10-27,Mobile App,COD,15,Returned
+2795,338,2025-10-27,Instagram,UPI,20,Delivered
+2796,152,2025-10-27,Website,Debit Card,25,Delivered
+2797,105,2025-10-27,Mobile App,Credit Card,20,Delivered
+2798,173,2025-10-27,Mobile App,Credit Card,15,Delivered
+2799,388,2025-10-27,Marketplace,COD,25,Delivered
+2800,2,2025-10-27,Mobile App,Credit Card,15,Returned
+2801,308,2025-10-27,Mobile App,COD,20,Delivered
+2802,346,2025-10-27,Instagram,Net Banking,15,Delivered
+2803,298,2025-10-28,Marketplace,Credit Card,0,Delivered
+2804,296,2025-10-28,Marketplace,Credit Card,0,Delivered
+2805,293,2025-10-28,Marketplace,COD,10,Returned
+2806,69,2025-10-28,Marketplace,COD,0,Delivered
+2807,237,2025-10-28,Website,UPI,0,Delivered
+2808,19,2025-10-28,Mobile App,COD,0,Delivered
+2809,161,2025-10-28,Mobile App,COD,0,Delivered
+2810,140,2025-10-28,Marketplace,UPI,15,Delivered
+2811,313,2025-10-28,Website,Credit Card,25,Delivered
+2812,77,2025-10-29,Website,UPI,15,Delivered
+2813,352,2025-10-29,Marketplace,UPI,25,Delivered
+2814,17,2025-10-29,Marketplace,Credit Card,10,Delivered
+2815,77,2025-10-29,Website,UPI,0,Delivered
+2816,382,2025-10-29,Instagram,COD,10,Delivered
+2817,261,2025-10-29,Mobile App,UPI,0,Delivered
+2818,114,2025-10-29,Mobile App,UPI,15,Delivered
+2819,390,2025-10-29,Instagram,COD,20,Delivered
+2820,99,2025-10-30,Website,COD,15,Delivered
+2821,257,2025-10-30,Marketplace,Credit Card,15,Delivered
+2822,358,2025-10-30,Website,COD,10,Cancelled
+2823,352,2025-10-30,Instagram,COD,20,Delivered
+2824,238,2025-10-30,Website,Net Banking,15,Delivered
+2825,337,2025-10-30,Marketplace,UPI,15,Delivered
+2826,12,2025-10-30,Website,UPI,20,Delivered
+2827,42,2025-10-31,Instagram,Debit Card,0,Delivered
+2828,157,2025-10-31,Mobile App,Credit Card,20,Delivered
+2829,388,2025-10-31,Website,Credit Card,0,Delivered
+2830,213,2025-10-31,Website,Debit Card,15,Delivered
+2831,317,2025-10-31,Website,UPI,10,Delivered
+2832,196,2025-10-31,Website,Credit Card,10,Returned
+2833,106,2025-10-31,Mobile App,UPI,25,Delivered
+2834,373,2025-10-31,Marketplace,UPI,10,Delivered
+2835,50,2025-11-01,Mobile App,UPI,15,Delivered
+2836,79,2025-11-01,Mobile App,UPI,20,Delivered
+2837,334,2025-11-01,Marketplace,UPI,20,Delivered
+2838,375,2025-11-01,Instagram,UPI,0,Delivered
+2839,260,2025-11-01,Instagram,Debit Card,15,Delivered
+2840,349,2025-11-01,Website,UPI,0,Delivered
+2841,399,2025-11-01,Mobile App,UPI,10,Delivered
+2842,328,2025-11-01,Website,UPI,10,Delivered
+2843,356,2025-11-02,Mobile App,UPI,15,Delivered
+2844,131,2025-11-02,Mobile App,Credit Card,0,Delivered
+2845,275,2025-11-02,Mobile App,UPI,15,Delivered
+2846,31,2025-11-02,Website,UPI,15,Delivered
+2847,60,2025-11-02,Marketplace,UPI,20,Delivered
+2848,217,2025-11-02,Instagram,Debit Card,15,Delivered
+2849,165,2025-11-02,Mobile App,UPI,0,Delivered
+2850,166,2025-11-02,Instagram,COD,15,Delivered
+2851,36,2025-11-02,Website,UPI,15,Delivered
+2852,396,2025-11-02,Marketplace,COD,15,Delivered
+2853,188,2025-11-03,Website,Credit Card,20,Delivered
+2854,4,2025-11-03,Mobile App,Credit Card,0,Delivered
+2855,193,2025-11-03,Website,COD,15,Returned
+2856,297,2025-11-03,Marketplace,COD,0,Returned
+2857,235,2025-11-03,Website,UPI,0,Delivered
+2858,204,2025-11-03,Mobile App,COD,15,Delivered
+2859,25,2025-11-03,Marketplace,UPI,0,Delivered
+2860,31,2025-11-03,Website,UPI,15,Delivered
+2861,149,2025-11-04,Marketplace,UPI,20,Delivered
+2862,204,2025-11-04,Mobile App,Credit Card,15,Delivered
+2863,73,2025-11-04,Instagram,COD,0,Returned
+2864,214,2025-11-04,Marketplace,COD,20,Delivered
+2865,123,2025-11-04,Website,Credit Card,15,Delivered
+2866,217,2025-11-04,Marketplace,Debit Card,10,Delivered
+2867,344,2025-11-04,Website,UPI,10,Delivered
+2868,226,2025-11-05,Website,COD,15,Delivered
+2869,317,2025-11-05,Marketplace,UPI,25,Delivered
+2870,354,2025-11-05,Instagram,COD,25,Returned
+2871,204,2025-11-05,Website,Debit Card,0,Delivered
+2872,333,2025-11-05,Marketplace,Debit Card,0,Delivered
+2873,361,2025-11-05,Website,UPI,20,Delivered
+2874,170,2025-11-05,Website,UPI,0,Delivered
+2875,393,2025-11-05,Marketplace,COD,10,Returned
+2876,179,2025-11-05,Instagram,UPI,20,Delivered
+2877,269,2025-11-06,Website,COD,15,Delivered
+2878,65,2025-11-06,Instagram,Debit Card,0,Delivered
+2879,367,2025-11-06,Mobile App,UPI,20,Delivered
+2880,251,2025-11-06,Mobile App,Credit Card,10,Delivered
+2881,76,2025-11-06,Website,UPI,15,Delivered
+2882,357,2025-11-06,Mobile App,UPI,25,Delivered
+2883,175,2025-11-06,Mobile App,Credit Card,20,Delivered
+2884,398,2025-11-06,Marketplace,COD,10,Delivered
+2885,275,2025-11-07,Instagram,COD,10,Delivered
+2886,275,2025-11-07,Website,Net Banking,25,Delivered
+2887,286,2025-11-07,Marketplace,UPI,20,Delivered
+2888,112,2025-11-07,Instagram,UPI,0,Delivered
+2889,43,2025-11-07,Website,Net Banking,15,Delivered
+2890,161,2025-11-07,Mobile App,Credit Card,10,Returned
+2891,144,2025-11-07,Instagram,COD,15,Delivered
+2892,107,2025-11-07,Instagram,UPI,15,Delivered
+2893,216,2025-11-07,Mobile App,Debit Card,0,Delivered
+2894,60,2025-11-08,Mobile App,Credit Card,10,Delivered
+2895,84,2025-11-08,Website,UPI,10,Returned
+2896,274,2025-11-08,Website,UPI,15,Delivered
+2897,400,2025-11-08,Mobile App,UPI,15,Delivered
+2898,80,2025-11-08,Website,Net Banking,15,Delivered
+2899,281,2025-11-08,Website,Credit Card,15,Delivered
+2900,379,2025-11-08,Instagram,Credit Card,15,Delivered
+2901,121,2025-11-08,Website,UPI,10,Delivered
+2902,272,2025-11-08,Instagram,Net Banking,10,Delivered
+2903,393,2025-11-08,Website,Credit Card,20,Cancelled
+2904,215,2025-11-09,Instagram,Credit Card,20,Delivered
+2905,302,2025-11-09,Instagram,COD,25,Delivered
+2906,272,2025-11-09,Mobile App,Credit Card,10,Delivered
+2907,253,2025-11-09,Website,Credit Card,10,Delivered
+2908,256,2025-11-09,Marketplace,UPI,0,Delivered
+2909,162,2025-11-09,Mobile App,UPI,20,Delivered
+2910,136,2025-11-09,Marketplace,Credit Card,25,Delivered
+2911,131,2025-11-09,Marketplace,Debit Card,20,Delivered
+2912,277,2025-11-09,Instagram,UPI,25,Delivered
+2913,61,2025-11-10,Website,UPI,0,Delivered
+2914,83,2025-11-10,Marketplace,COD,15,Delivered
+2915,4,2025-11-10,Website,Debit Card,15,Delivered
+2916,216,2025-11-10,Website,Net Banking,10,Delivered
+2917,397,2025-11-10,Mobile App,Debit Card,25,Delivered
+2918,215,2025-11-10,Website,COD,10,Returned
+2919,184,2025-11-10,Mobile App,COD,20,Delivered
+2920,231,2025-11-10,Instagram,UPI,20,Delivered
+2921,88,2025-11-11,Mobile App,UPI,20,Delivered
+2922,14,2025-11-11,Website,COD,15,Delivered
+2923,211,2025-11-11,Mobile App,UPI,10,Delivered
+2924,144,2025-11-11,Marketplace,UPI,10,Delivered
+2925,16,2025-11-11,Website,UPI,0,Delivered
+2926,226,2025-11-11,Website,COD,15,Delivered
+2927,206,2025-11-11,Marketplace,Debit Card,25,Delivered
+2928,28,2025-11-12,Instagram,COD,20,Returned
+2929,23,2025-11-12,Mobile App,Credit Card,15,Delivered
+2930,241,2025-11-12,Mobile App,Credit Card,0,Delivered
+2931,371,2025-11-12,Marketplace,Credit Card,10,Delivered
+2932,244,2025-11-12,Website,UPI,10,Delivered
+2933,368,2025-11-12,Mobile App,COD,15,Delivered
+2934,256,2025-11-12,Mobile App,UPI,15,Delivered
+2935,215,2025-11-12,Marketplace,UPI,20,Delivered
+2936,330,2025-11-12,Marketplace,UPI,0,Cancelled
+2937,279,2025-11-13,Instagram,UPI,10,Delivered
+2938,344,2025-11-13,Website,Debit Card,25,Delivered
+2939,288,2025-11-13,Marketplace,Credit Card,20,Delivered
+2940,255,2025-11-13,Instagram,UPI,20,Delivered
+2941,327,2025-11-13,Website,Credit Card,0,Delivered
+2942,28,2025-11-13,Website,UPI,25,Cancelled
+2943,208,2025-11-13,Mobile App,UPI,20,Delivered
+2944,137,2025-11-14,Marketplace,Net Banking,15,Delivered
+2945,14,2025-11-14,Website,COD,10,Returned
+2946,199,2025-11-14,Marketplace,UPI,10,Delivered
+2947,370,2025-11-14,Mobile App,COD,20,Delivered
+2948,391,2025-11-14,Website,COD,20,Delivered
+2949,71,2025-11-14,Mobile App,UPI,10,Delivered
+2950,274,2025-11-14,Instagram,Debit Card,25,Delivered
+2951,219,2025-11-14,Instagram,COD,20,Delivered
+2952,146,2025-11-15,Mobile App,UPI,10,Cancelled
+2953,173,2025-11-15,Website,COD,25,Delivered
+2954,109,2025-11-15,Mobile App,UPI,25,Delivered
+2955,234,2025-11-15,Mobile App,COD,15,Delivered
+2956,266,2025-11-15,Mobile App,COD,20,Delivered
+2957,172,2025-11-15,Marketplace,Credit Card,20,Delivered
+2958,226,2025-11-15,Mobile App,UPI,20,Delivered
+2959,88,2025-11-15,Instagram,UPI,20,Cancelled
+2960,79,2025-11-15,Mobile App,Debit Card,0,Returned
+2961,326,2025-11-16,Website,UPI,15,Returned
+2962,124,2025-11-16,Instagram,UPI,10,Delivered
+2963,341,2025-11-16,Mobile App,Net Banking,15,Returned
+2964,215,2025-11-16,Instagram,UPI,15,Delivered
+2965,82,2025-11-16,Website,Debit Card,10,Delivered
+2966,354,2025-11-16,Marketplace,COD,15,Delivered
+2967,285,2025-11-16,Website,UPI,20,Delivered
+2968,368,2025-11-16,Website,Debit Card,10,Delivered
+2969,121,2025-11-17,Mobile App,Credit Card,25,Delivered
+2970,153,2025-11-17,Website,COD,20,Delivered
+2971,70,2025-11-17,Instagram,Credit Card,20,Delivered
+2972,248,2025-11-17,Website,Debit Card,10,Cancelled
+2973,311,2025-11-17,Marketplace,UPI,20,Delivered
+2974,156,2025-11-17,Website,Credit Card,15,Delivered
+2975,317,2025-11-17,Website,COD,10,Returned
+2976,339,2025-11-17,Website,Credit Card,0,Delivered
+2977,200,2025-11-17,Mobile App,Debit Card,0,Delivered
+2978,75,2025-11-18,Website,COD,25,Returned
+2979,27,2025-11-18,Website,UPI,15,Delivered
+2980,169,2025-11-18,Mobile App,UPI,20,Delivered
+2981,349,2025-11-18,Instagram,Debit Card,20,Delivered
+2982,289,2025-11-18,Instagram,UPI,0,Delivered
+2983,214,2025-11-18,Marketplace,UPI,15,Delivered
+2984,130,2025-11-18,Website,UPI,25,Delivered
+2985,190,2025-11-18,Website,UPI,15,Delivered
+2986,164,2025-11-19,Marketplace,Credit Card,0,Delivered
+2987,290,2025-11-19,Mobile App,COD,15,Delivered
+2988,371,2025-11-19,Website,UPI,15,Cancelled
+2989,319,2025-11-19,Marketplace,Debit Card,0,Delivered
+2990,152,2025-11-19,Mobile App,COD,15,Delivered
+2991,319,2025-11-19,Mobile App,UPI,10,Delivered
+2992,114,2025-11-19,Website,UPI,0,Delivered
+2993,148,2025-11-20,Website,COD,0,Delivered
+2994,126,2025-11-20,Website,UPI,20,Delivered
+2995,90,2025-11-20,Website,UPI,25,Delivered
+2996,168,2025-11-20,Website,UPI,0,Returned
+2997,30,2025-11-20,Website,Debit Card,0,Delivered
+2998,165,2025-11-20,Mobile App,UPI,0,Delivered
+2999,310,2025-11-20,Website,UPI,20,Delivered
+3000,42,2025-11-21,Marketplace,UPI,0,Delivered
+3001,271,2025-11-21,Website,UPI,20,Delivered
+3002,57,2025-11-21,Mobile App,UPI,0,Delivered
+3003,98,2025-11-21,Website,COD,10,Delivered
+3004,28,2025-11-21,Website,COD,0,Delivered
+3005,330,2025-11-21,Mobile App,UPI,20,Delivered
+3006,364,2025-11-21,Instagram,Credit Card,20,Delivered
+3007,277,2025-11-22,Mobile App,Credit Card,15,Delivered
+3008,122,2025-11-22,Marketplace,COD,20,Returned
+3009,303,2025-11-22,Website,UPI,0,Delivered
+3010,193,2025-11-22,Website,Credit Card,20,Delivered
+3011,324,2025-11-22,Website,Net Banking,0,Delivered
+3012,196,2025-11-22,Marketplace,UPI,0,Cancelled
+3013,372,2025-11-22,Website,UPI,0,Cancelled
+3014,197,2025-11-22,Instagram,COD,15,Delivered
+3015,302,2025-11-22,Mobile App,Credit Card,0,Delivered
+3016,13,2025-11-23,Website,COD,20,Delivered
+3017,260,2025-11-23,Website,Net Banking,10,Delivered
+3018,327,2025-11-23,Website,Credit Card,20,Delivered
+3019,123,2025-11-23,Marketplace,Debit Card,20,Delivered
+3020,90,2025-11-23,Mobile App,UPI,15,Delivered
+3021,58,2025-11-23,Mobile App,Credit Card,25,Delivered
+3022,349,2025-11-23,Marketplace,Debit Card,15,Delivered
+3023,19,2025-11-23,Marketplace,Credit Card,10,Delivered
+3024,292,2025-11-23,Mobile App,Credit Card,10,Delivered
+3025,245,2025-11-24,Mobile App,UPI,15,Delivered
+3026,92,2025-11-24,Mobile App,UPI,20,Delivered
+3027,189,2025-11-24,Website,UPI,20,Delivered
+3028,221,2025-11-24,Website,COD,15,Delivered
+3029,162,2025-11-24,Website,Credit Card,20,Delivered
+3030,109,2025-11-24,Website,UPI,15,Delivered
+3031,302,2025-11-24,Website,Net Banking,15,Delivered
+3032,181,2025-11-24,Marketplace,UPI,0,Delivered
+3033,267,2025-11-25,Mobile App,UPI,20,Delivered
+3034,386,2025-11-25,Mobile App,UPI,10,Delivered
+3035,269,2025-11-25,Instagram,Credit Card,15,Delivered
+3036,165,2025-11-25,Website,UPI,15,Delivered
+3037,154,2025-11-25,Mobile App,UPI,25,Delivered
+3038,197,2025-11-25,Website,COD,10,Delivered
+3039,119,2025-11-25,Website,UPI,20,Delivered
+3040,228,2025-11-25,Website,UPI,10,Returned
+3041,128,2025-11-26,Marketplace,Credit Card,0,Delivered
+3042,44,2025-11-26,Instagram,UPI,10,Delivered
+3043,312,2025-11-26,Website,UPI,15,Delivered
+3044,101,2025-11-26,Mobile App,UPI,0,Delivered
+3045,343,2025-11-26,Mobile App,Credit Card,0,Delivered
+3046,60,2025-11-26,Mobile App,UPI,15,Delivered
+3047,4,2025-11-26,Instagram,UPI,10,Delivered
+3048,3,2025-11-26,Marketplace,COD,0,Delivered
+3049,201,2025-11-27,Mobile App,Credit Card,20,Delivered
+3050,340,2025-11-27,Mobile App,COD,15,Returned
+3051,296,2025-11-27,Website,COD,20,Delivered
+3052,71,2025-11-27,Website,UPI,15,Delivered
+3053,379,2025-11-27,Marketplace,UPI,15,Returned
+3054,72,2025-11-28,Website,COD,25,Returned
+3055,198,2025-11-28,Website,COD,20,Delivered
+3056,219,2025-11-28,Instagram,COD,25,Delivered
+3057,354,2025-11-28,Website,UPI,0,Delivered
+3058,75,2025-11-28,Website,Credit Card,10,Delivered
+3059,343,2025-11-28,Marketplace,Credit Card,0,Delivered
+3060,368,2025-11-28,Website,Credit Card,10,Delivered
+3061,322,2025-11-28,Website,COD,15,Cancelled
+3062,267,2025-11-29,Mobile App,UPI,20,Delivered
+3063,160,2025-11-29,Instagram,Debit Card,20,Delivered
+3064,339,2025-11-29,Mobile App,Credit Card,0,Delivered
+3065,65,2025-11-29,Instagram,UPI,20,Delivered
+3066,283,2025-11-29,Website,UPI,0,Delivered
+3067,97,2025-11-29,Instagram,Debit Card,10,Delivered
+3068,385,2025-11-29,Instagram,COD,15,Delivered
+3069,220,2025-11-29,Website,COD,0,Delivered
+3070,73,2025-11-29,Website,UPI,20,Delivered
+3071,89,2025-11-30,Website,COD,15,Delivered
+3072,158,2025-11-30,Instagram,Debit Card,10,Delivered
+3073,255,2025-11-30,Marketplace,UPI,15,Delivered
+3074,274,2025-11-30,Mobile App,UPI,20,Delivered
+3075,345,2025-11-30,Marketplace,UPI,15,Delivered
+3076,191,2025-11-30,Instagram,Debit Card,0,Delivered
+3077,45,2025-11-30,Mobile App,UPI,15,Delivered
+3078,33,2025-11-30,Website,Credit Card,25,Cancelled
+3079,158,2025-12-01,Website,UPI,0,Returned
+3080,1,2025-12-01,Website,Credit Card,0,Delivered
+3081,293,2025-12-01,Website,UPI,5,Delivered
+3082,306,2025-12-01,Marketplace,UPI,15,Delivered
+3083,400,2025-12-01,Website,Credit Card,10,Delivered
+3084,233,2025-12-01,Mobile App,Credit Card,0,Delivered
+3085,40,2025-12-01,Website,UPI,5,Delivered
+3086,260,2025-12-01,Mobile App,UPI,0,Delivered
+3087,262,2025-12-02,Marketplace,UPI,10,Delivered
+3088,297,2025-12-02,Instagram,COD,10,Returned
+3089,170,2025-12-02,Mobile App,COD,0,Delivered
+3090,143,2025-12-02,Marketplace,Credit Card,10,Delivered
+3091,16,2025-12-02,Marketplace,UPI,0,Delivered
+3092,394,2025-12-02,Mobile App,Credit Card,10,Delivered
+3093,173,2025-12-02,Instagram,Debit Card,0,Delivered
+3094,240,2025-12-02,Instagram,Credit Card,5,Delivered
+3095,55,2025-12-02,Instagram,UPI,0,Delivered
+3096,254,2025-12-02,Instagram,UPI,0,Delivered
+3097,144,2025-12-03,Website,COD,20,Delivered
+3098,140,2025-12-03,Website,UPI,10,Delivered
+3099,239,2025-12-03,Instagram,UPI,0,Delivered
+3100,387,2025-12-03,Website,UPI,0,Delivered
+3101,248,2025-12-03,Instagram,UPI,10,Delivered
+3102,227,2025-12-03,Mobile App,COD,5,Delivered
+3103,146,2025-12-04,Mobile App,UPI,5,Delivered
+3104,353,2025-12-04,Mobile App,UPI,5,Delivered
+3105,139,2025-12-04,Website,COD,0,Delivered
+3106,241,2025-12-04,Website,Net Banking,10,Delivered
+3107,333,2025-12-04,Instagram,UPI,0,Delivered
+3108,14,2025-12-04,Mobile App,UPI,0,Delivered
+3109,66,2025-12-04,Website,Net Banking,0,Delivered
+3110,287,2025-12-04,Website,UPI,10,Delivered
+3111,360,2025-12-05,Website,UPI,10,Delivered
+3112,275,2025-12-05,Marketplace,UPI,0,Delivered
+3113,314,2025-12-05,Mobile App,COD,0,Cancelled
+3114,29,2025-12-05,Instagram,COD,10,Delivered
+3115,255,2025-12-05,Instagram,Credit Card,5,Delivered
+3116,151,2025-12-05,Marketplace,UPI,0,Delivered
+3117,136,2025-12-05,Instagram,UPI,0,Delivered
+3118,273,2025-12-05,Marketplace,COD,0,Delivered
+3119,187,2025-12-06,Marketplace,Credit Card,5,Delivered
+3120,72,2025-12-06,Website,COD,0,Delivered
+3121,31,2025-12-06,Mobile App,Net Banking,15,Delivered
+3122,16,2025-12-06,Mobile App,UPI,20,Delivered
+3123,119,2025-12-06,Instagram,Net Banking,10,Delivered
+3124,80,2025-12-06,Mobile App,Credit Card,0,Delivered
+3125,136,2025-12-06,Mobile App,Debit Card,0,Delivered
+3126,376,2025-12-06,Mobile App,UPI,0,Delivered
+3127,74,2025-12-07,Mobile App,UPI,0,Delivered
+3128,237,2025-12-07,Mobile App,COD,10,Delivered
+3129,200,2025-12-07,Website,UPI,0,Delivered
+3130,9,2025-12-07,Mobile App,COD,10,Delivered
+3131,326,2025-12-07,Website,UPI,10,Delivered
+3132,358,2025-12-07,Website,COD,0,Delivered
+3133,383,2025-12-07,Mobile App,UPI,20,Delivered
+3134,388,2025-12-07,Website,UPI,15,Delivered
+3135,255,2025-12-07,Website,COD,5,Returned
+3136,287,2025-12-08,Website,Credit Card,0,Delivered
+3137,231,2025-12-08,Marketplace,COD,0,Returned
+3138,265,2025-12-08,Website,COD,10,Delivered
+3139,14,2025-12-08,Mobile App,UPI,10,Cancelled
+3140,336,2025-12-08,Mobile App,UPI,0,Delivered
+3141,330,2025-12-08,Instagram,Credit Card,10,Delivered
+3142,265,2025-12-09,Instagram,COD,0,Delivered
+3143,30,2025-12-09,Instagram,COD,15,Delivered
+3144,376,2025-12-09,Website,COD,15,Returned
+3145,249,2025-12-09,Website,Debit Card,0,Delivered
+3146,225,2025-12-09,Website,UPI,0,Delivered
+3147,174,2025-12-09,Website,COD,0,Delivered
+3148,334,2025-12-09,Mobile App,COD,0,Returned
+3149,104,2025-12-09,Marketplace,COD,0,Delivered
+3150,356,2025-12-09,Mobile App,Credit Card,10,Delivered
+3151,45,2025-12-09,Website,Credit Card,15,Delivered
+3152,259,2025-12-10,Mobile App,UPI,5,Delivered
+3153,57,2025-12-10,Mobile App,UPI,10,Delivered
+3154,322,2025-12-10,Mobile App,UPI,0,Delivered
+3155,222,2025-12-10,Marketplace,COD,0,Returned
+3156,61,2025-12-10,Website,UPI,5,Delivered
+3157,283,2025-12-10,Instagram,Credit Card,5,Delivered
+3158,371,2025-12-11,Marketplace,COD,0,Delivered
+3159,104,2025-12-11,Marketplace,UPI,10,Delivered
+3160,137,2025-12-11,Mobile App,Debit Card,20,Delivered
+3161,219,2025-12-11,Website,Credit Card,15,Delivered
+3162,17,2025-12-11,Marketplace,COD,10,Returned
+3163,373,2025-12-11,Mobile App,COD,0,Delivered
+3164,363,2025-12-11,Mobile App,UPI,0,Delivered
+3165,251,2025-12-11,Mobile App,COD,5,Delivered
+3166,133,2025-12-11,Instagram,UPI,5,Delivered
+3167,82,2025-12-12,Website,Credit Card,0,Delivered
+3168,133,2025-12-12,Marketplace,UPI,5,Delivered
+3169,57,2025-12-12,Instagram,Credit Card,10,Delivered
+3170,119,2025-12-12,Mobile App,COD,0,Delivered
+3171,342,2025-12-12,Marketplace,COD,0,Delivered
+3172,24,2025-12-12,Mobile App,UPI,5,Delivered
+3173,160,2025-12-12,Website,UPI,0,Delivered
+3174,254,2025-12-12,Mobile App,Credit Card,5,Delivered
+3175,355,2025-12-13,Website,COD,0,Delivered
+3176,18,2025-12-13,Website,COD,0,Delivered
+3177,357,2025-12-13,Website,Credit Card,15,Delivered
+3178,261,2025-12-13,Website,UPI,0,Delivered
+3179,69,2025-12-13,Instagram,UPI,5,Delivered
+3180,130,2025-12-13,Website,Debit Card,5,Delivered
+3181,204,2025-12-13,Marketplace,COD,0,Delivered
+3182,364,2025-12-13,Marketplace,Credit Card,10,Returned
+3183,355,2025-12-13,Website,Credit Card,5,Delivered
+3184,361,2025-12-14,Marketplace,Credit Card,0,Delivered
+3185,373,2025-12-14,Marketplace,COD,0,Delivered
+3186,254,2025-12-14,Marketplace,Credit Card,0,Delivered
+3187,5,2025-12-14,Website,Net Banking,5,Delivered
+3188,327,2025-12-14,Website,UPI,0,Delivered
+3189,49,2025-12-14,Mobile App,UPI,0,Delivered
+3190,375,2025-12-14,Website,UPI,0,Delivered
+3191,141,2025-12-14,Marketplace,UPI,15,Delivered
+3192,382,2025-12-15,Mobile App,Debit Card,0,Delivered
+3193,290,2025-12-15,Mobile App,Credit Card,0,Delivered
+3194,318,2025-12-15,Website,Credit Card,10,Delivered
+3195,251,2025-12-15,Mobile App,Credit Card,5,Delivered
+3196,228,2025-12-15,Mobile App,COD,0,Delivered
+3197,396,2025-12-15,Mobile App,COD,5,Delivered
+3198,51,2025-12-15,Website,UPI,15,Delivered
+3199,314,2025-12-15,Mobile App,UPI,0,Delivered
+3200,290,2025-12-16,Website,UPI,15,Delivered
+3201,57,2025-12-16,Website,UPI,5,Delivered
+3202,46,2025-12-16,Mobile App,Debit Card,20,Cancelled
+3203,129,2025-12-16,Marketplace,UPI,0,Delivered
+3204,215,2025-12-16,Mobile App,UPI,0,Delivered
+3205,81,2025-12-16,Mobile App,UPI,5,Delivered
+3206,112,2025-12-16,Website,UPI,0,Returned
+3207,264,2025-12-16,Instagram,UPI,20,Delivered
+3208,149,2025-12-17,Website,UPI,0,Delivered
+3209,390,2025-12-17,Instagram,COD,5,Delivered
+3210,161,2025-12-17,Marketplace,COD,10,Delivered
+3211,203,2025-12-17,Mobile App,UPI,10,Delivered
+3212,118,2025-12-17,Instagram,UPI,0,Delivered
+3213,66,2025-12-17,Website,Debit Card,0,Delivered
+3214,249,2025-12-17,Mobile App,UPI,0,Delivered
+3215,242,2025-12-17,Website,UPI,10,Delivered
+3216,388,2025-12-18,Website,COD,10,Delivered
+3217,367,2025-12-18,Marketplace,Debit Card,15,Delivered
+3218,102,2025-12-18,Mobile App,COD,5,Delivered
+3219,13,2025-12-18,Website,Net Banking,5,Delivered
+3220,159,2025-12-18,Instagram,UPI,15,Delivered
+3221,350,2025-12-18,Instagram,COD,0,Delivered
+3222,95,2025-12-18,Mobile App,Credit Card,15,Delivered
+3223,212,2025-12-18,Marketplace,COD,5,Delivered
+3224,24,2025-12-19,Mobile App,COD,0,Delivered
+3225,263,2025-12-19,Mobile App,Credit Card,5,Delivered
+3226,87,2025-12-19,Website,UPI,15,Delivered
+3227,389,2025-12-19,Instagram,COD,0,Delivered
+3228,45,2025-12-19,Website,UPI,0,Delivered
+3229,15,2025-12-19,Website,Credit Card,0,Delivered
+3230,105,2025-12-19,Mobile App,Credit Card,20,Delivered
+3231,257,2025-12-20,Instagram,UPI,0,Delivered
+3232,203,2025-12-20,Mobile App,Debit Card,10,Delivered
+3233,249,2025-12-20,Website,UPI,5,Delivered
+3234,126,2025-12-20,Website,COD,5,Delivered
+3235,336,2025-12-20,Mobile App,Net Banking,10,Delivered
+3236,109,2025-12-20,Marketplace,UPI,0,Delivered
+3237,262,2025-12-20,Marketplace,Credit Card,0,Returned
+3238,60,2025-12-20,Website,Net Banking,0,Delivered
+3239,17,2025-12-20,Marketplace,UPI,5,Delivered
+3240,145,2025-12-20,Mobile App,Credit Card,0,Delivered
+3241,364,2025-12-21,Website,UPI,0,Delivered
+3242,76,2025-12-21,Instagram,UPI,0,Delivered
+3243,149,2025-12-21,Website,Net Banking,10,Delivered
+3244,388,2025-12-21,Website,UPI,0,Delivered
+3245,260,2025-12-21,Mobile App,UPI,0,Delivered
+3246,174,2025-12-21,Website,COD,0,Delivered
+3247,144,2025-12-21,Instagram,UPI,0,Delivered
+3248,32,2025-12-21,Website,Credit Card,0,Delivered
+3249,334,2025-12-21,Mobile App,UPI,0,Returned
+3250,305,2025-12-21,Marketplace,UPI,10,Delivered
+3251,185,2025-12-21,Website,COD,0,Delivered
+3252,274,2025-12-21,Website,COD,5,Delivered
+3253,34,2025-12-22,Instagram,Credit Card,10,Delivered
+3254,277,2025-12-22,Mobile App,COD,0,Delivered
+3255,131,2025-12-22,Marketplace,UPI,10,Cancelled
+3256,267,2025-12-22,Website,UPI,0,Delivered
+3257,37,2025-12-22,Mobile App,UPI,0,Delivered
+3258,49,2025-12-22,Mobile App,UPI,0,Delivered
+3259,361,2025-12-22,Marketplace,Net Banking,0,Delivered
+3260,98,2025-12-22,Instagram,UPI,15,Delivered
+3261,256,2025-12-23,Website,Credit Card,0,Delivered
+3262,314,2025-12-23,Website,Credit Card,10,Delivered
+3263,70,2025-12-23,Instagram,UPI,5,Delivered
+3264,339,2025-12-23,Mobile App,UPI,20,Delivered
+3265,121,2025-12-23,Marketplace,COD,15,Delivered
+3266,126,2025-12-23,Website,UPI,0,Delivered
+3267,353,2025-12-23,Marketplace,UPI,15,Delivered
+3268,94,2025-12-23,Marketplace,UPI,5,Delivered
+3269,379,2025-12-24,Marketplace,Debit Card,0,Delivered
+3270,240,2025-12-24,Website,COD,0,Delivered
+3271,42,2025-12-24,Mobile App,Credit Card,0,Delivered
+3272,209,2025-12-24,Website,Credit Card,5,Delivered
+3273,89,2025-12-24,Website,Debit Card,0,Delivered
+3274,61,2025-12-24,Mobile App,COD,0,Delivered
+3275,39,2025-12-24,Instagram,UPI,0,Delivered
+3276,174,2025-12-24,Marketplace,COD,5,Delivered
+3277,208,2025-12-24,Marketplace,COD,0,Delivered
+3278,25,2025-12-24,Marketplace,Credit Card,15,Delivered
+3279,194,2025-12-25,Marketplace,Credit Card,0,Delivered
+3280,307,2025-12-25,Marketplace,Credit Card,0,Cancelled
+3281,180,2025-12-25,Mobile App,UPI,15,Delivered
+3282,23,2025-12-25,Website,UPI,0,Delivered
+3283,262,2025-12-25,Marketplace,Credit Card,0,Delivered
+3284,73,2025-12-25,Mobile App,COD,5,Delivered
+3285,84,2025-12-26,Website,UPI,0,Returned
+3286,274,2025-12-26,Marketplace,UPI,20,Delivered
+3287,379,2025-12-26,Mobile App,COD,0,Delivered
+3288,392,2025-12-26,Mobile App,UPI,0,Delivered
+3289,107,2025-12-26,Mobile App,UPI,5,Delivered
+3290,140,2025-12-26,Instagram,Credit Card,0,Delivered
+3291,14,2025-12-26,Marketplace,Credit Card,10,Delivered
+3292,109,2025-12-26,Mobile App,Debit Card,15,Delivered
+3293,85,2025-12-26,Instagram,UPI,10,Delivered
+3294,151,2025-12-27,Website,UPI,10,Delivered
+3295,142,2025-12-27,Mobile App,Credit Card,5,Delivered
+3296,186,2025-12-27,Instagram,UPI,15,Delivered
+3297,88,2025-12-27,Website,UPI,10,Delivered
+3298,328,2025-12-27,Website,Debit Card,10,Delivered
+3299,220,2025-12-27,Website,UPI,10,Delivered
+3300,289,2025-12-27,Mobile App,UPI,10,Delivered
+3301,287,2025-12-27,Website,UPI,5,Returned
+3302,164,2025-12-27,Mobile App,UPI,10,Delivered
+3303,312,2025-12-27,Marketplace,UPI,0,Delivered
+3304,223,2025-12-28,Instagram,UPI,0,Delivered
+3305,209,2025-12-28,Website,Credit Card,5,Delivered
+3306,179,2025-12-28,Marketplace,COD,0,Delivered
+3307,197,2025-12-28,Website,UPI,20,Delivered
+3308,333,2025-12-28,Website,UPI,10,Delivered
+3309,242,2025-12-28,Marketplace,Credit Card,10,Delivered
+3310,249,2025-12-28,Instagram,Debit Card,0,Delivered
+3311,183,2025-12-28,Website,UPI,15,Delivered
+3312,370,2025-12-28,Website,COD,0,Delivered
+3313,128,2025-12-29,Website,COD,0,Delivered
+3314,15,2025-12-29,Mobile App,UPI,0,Delivered
+3315,153,2025-12-29,Website,Credit Card,0,Delivered
+3316,297,2025-12-29,Mobile App,UPI,5,Returned
+3317,81,2025-12-29,Website,COD,20,Delivered
+3318,192,2025-12-29,Mobile App,Credit Card,5,Delivered
+3319,154,2025-12-29,Marketplace,UPI,0,Delivered
+3320,359,2025-12-29,Mobile App,UPI,10,Delivered
+3321,165,2025-12-30,Website,COD,0,Delivered
+3322,253,2025-12-30,Marketplace,COD,5,Delivered
+3323,193,2025-12-30,Mobile App,UPI,15,Delivered
+3324,176,2025-12-30,Marketplace,Debit Card,15,Delivered
+3325,237,2025-12-30,Mobile App,Debit Card,10,Delivered
+3326,128,2025-12-30,Website,UPI,10,Cancelled
+3327,138,2025-12-30,Mobile App,UPI,0,Delivered
+3328,205,2025-12-31,Mobile App,COD,0,Returned
+3329,201,2025-12-31,Mobile App,Credit Card,0,Delivered
+3330,347,2025-12-31,Mobile App,COD,0,Delivered
+3331,8,2025-12-31,Website,COD,0,Delivered
+3332,301,2025-12-31,Website,Net Banking,0,Delivered
+3333,203,2025-12-31,Mobile App,UPI,0,Delivered
+3334,286,2025-12-31,Marketplace,Debit Card,0,Delivered
+3335,260,2025-12-31,Mobile App,Net Banking,10,Returned
+3336,254,2025-12-31,Mobile App,UPI,0,Delivered
