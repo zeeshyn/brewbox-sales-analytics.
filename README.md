@@ -33,7 +33,7 @@ Jan 2024 to Dec 2025.
 ![Overview](dashboard/page1_overview.jpeg)
 ![Deep dive](dashboard/page2_deep_dive.jpeg)
 
-[Full dashboard (PDF)](brewbox_dashboard_PDF.pdf)
+[Full dashboard (PDF)](dashboard/brewbox_dashboard_PDF.pdf)
 
 ## Repository contents
 - `data/`: the four CSV files
